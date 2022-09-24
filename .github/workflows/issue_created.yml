@@ -37,20 +37,44 @@ jobs:
             const url = match[0];
             // Create directory named after the issue number
             const number = context.issue.number.toString();
-            child_process.spawnSync('mkdir', [number]);
-            // Build full directory
-            const dir = `${process.env.GITHUB_WORKSPACE}/${number}`;
-            console.log(dir);
-            // Run in that directory:
-            const result = child_process.spawnSync('yt-dlp', ['--all-subs', '--skip-download', url], {
-              cwd: dir,
-            });
+            child_process.spawnSync('mkdir', ['-p', number]);
+            // Create subdirectories subs, auto, whisper
+            child_process.spawnSync('mkdir', ['-p', `${number}/subs`]);
+            child_process.spawnSync('mkdir', ['-p', `${number}/auto`]);
+            child_process.spawnSync('mkdir', ['-p', `${number}/whisper`]);
+            let results = [];
+
+            function run(command, args, cwd) {
+              // Returns [statu,s stdout, stderr]
+              const options = {
+                cwd: cwd,
+                encoding: 'utf-8',
+              };
+              const result = child_process.spawnSync(command, args, options);
+              return [result.status, result.stdout, result.stderr];
+            }
+
+            results.push(run('yt-dlp', ['--all-subs', '--skip-download', url], `${number}/subs`));
+            // Did that create any files?
+            const files = child_process.spawnSync('ls', [`${number}/subs`]);
+            if (files.stdout.toString().trim() === '') {
+              // Use --write-auto-sub
+              results.push(run('yt-dlp', ['--write-auto-sub', '--skip-download', url], `${number}/auto`));
+            }
+            // If still no files, push them through Whisper
+            const files2 = child_process.spawnSync('ls', [`${number}/subs`]);
+            if (files2.stdout.toString().trim() === '') {
+              console.log("TODO: Whisper");
+            }
+            const comment = results.map(result => {
+              return `\`\`\` + ${result[0]}\n${result[1]}\n${result[2]}\`\`\``;
+            }).join('\n');
             // Post the output as a comment
             github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '```\n' + result.stdout.toString() + '\n```'
+              body: comment,
             });
             // Close the issue
             github.rest.issues.update({
