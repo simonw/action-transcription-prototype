@@ -53,13 +53,12 @@ jobs:
               const result = child_process.spawnSync(command, args, options);
               return [result.status, result.stdout, result.stderr];
             }
-
-            results.push(run('yt-dlp', ['--all-subs', '--skip-download', url], `${number}/subs`));
+            results.push(run('yt-dlp', ['--all-subs', '--skip-download', '--sub-format', 'ttml/vtt/best', url], `${number}/subs`));
             // Did that create any files?
             const files = child_process.spawnSync('ls', [`${number}/subs`]);
             if (files.stdout.toString().trim() === '') {
               // Use --write-auto-sub
-              results.push(run('yt-dlp', ['--write-auto-sub', '--skip-download', url], `${number}/auto`));
+              results.push(run('yt-dlp', ['--write-auto-sub', '--skip-download', '--sub-format', 'ttml/vtt/best', url], `${number}/auto`));
             }
             // If still no files, push them through Whisper
             const files2 = child_process.spawnSync('ls', [`${number}/subs`]);
