@@ -17,7 +17,7 @@ jobs:
           script: |
             const child_process = require('child_process');
             const body = context.payload.issue.body;
-            const match = s.match(/https?:\/\/[^\s]+/);
+            const match = body.match(/https?:\/\/[^\s]+/);
             if (!match) {
               github.rest.issues.createComment({
                 issue_number: context.issue.number,
