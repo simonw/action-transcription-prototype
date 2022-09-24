@@ -3,7 +3,7 @@ on:
     types: [opened]
 
 jobs:
-  comment:
+  issue_created:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -16,23 +16,45 @@ jobs:
         with:
           script: |
             const child_process = require('child_process');
-            console.log('context', JSON.stringify(context, null, 2));
-            const issue = github.rest.issues.get({
+            const body = context.payload.issue.body;
+            const match = s.match(/https?:\/\/[^\s]+/);
+            if (!match) {
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: '🚫 No URL found in issue body.'
+              });
+              // Close the issue
+              github.rest.issues.update({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'closed'
+              });
+              return;
+            }
+            const url = match[0];
+            // Create directory named after the issue number
+            const number = context.issue.number.toString();
+            child_process.spawnSync('mkdir', [number]);
+            // Run in that directory:
+            const result = child_process.spawnSync('yt-dlp', ['--all-subs', '--skip-download', url], {
+              cwd: number,
+            });
+            // Post the output as a comment
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number
+              body: '```\n' + result.stdout.toString() + '\n```'
             });
-            console.log('issue', JSON.stringify(issue, null, 2));
-            child_process.exec(`youtube-dl --version`, (error, stdout, stderr) => {
-              if (error) {
-                console.log(error);
-                process.exit(1);
-                return;
-              }
-              if (stderr) {
-                console.log(stderr);
-                process.exit(1);
-                return;
-              }
-              console.log(stdout);
+            // Close the issue
+            github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed'
             });
+      - name: Show generated files
+        run: find .
