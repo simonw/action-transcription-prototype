@@ -40,6 +40,7 @@ jobs:
             child_process.spawnSync('mkdir', [number]);
             // Build full directory
             const dir = `${process.env.GITHUB_WORKSPACE}/${number}`;
+            console.log(dir);
             // Run in that directory:
             const result = child_process.spawnSync('yt-dlp', ['--all-subs', '--skip-download', url], {
               cwd: dir,
@@ -59,4 +60,6 @@ jobs:
               state: 'closed'
             });
       - name: Show generated files
-        run: find .
+        run: |-
+          pwd
+          find .
