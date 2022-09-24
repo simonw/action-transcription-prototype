@@ -17,20 +17,17 @@ jobs:
           script: |
             const child_process = require('child_process');
             const body = context.payload.issue.body;
-            const match = body.match(/https?:\/\/[^\s]+/);
+            let match = body.match(/https?:\/\/[^\s]+/);
+            // Ignore github.com URLs
+            if (match && match[0].includes('https://github.com')) {
+              match = null;
+            }
             if (!match) {
               github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 body: '🚫 No URL found in issue body.'
-              });
-              // Close the issue
-              github.rest.issues.update({
-                issue_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                state: 'closed'
               });
               return;
             }
