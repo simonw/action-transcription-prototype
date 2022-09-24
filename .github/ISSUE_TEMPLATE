@@ -1,0 +1,22 @@
+name: URL workflow
+description: Process a URL
+title: "[URL]: "
+labels: ["url"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: URL to an article or video
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: What action would you like to take?
+      options:
+        - Extract transcript from video
+        - Extract transcript from video and translate to English
+        - Extract and save article headline and content
+    validations:
+      required: true
