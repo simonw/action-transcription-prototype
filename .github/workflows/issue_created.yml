@@ -16,12 +16,13 @@ jobs:
         with:
           script: |
             const child_process = require('child_process');
+            console.log('context', JSON.stringify(context, null, 2));
             const issue = github.rest.issues.get({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number
             });
-            console.log(JSON.stringify(issue, null, 2));
+            console.log('issue', JSON.stringify(issue, null, 2));
             child_process.exec(`youtube-dl --version`, (error, stdout, stderr) => {
               if (error) {
                 console.log(error);
