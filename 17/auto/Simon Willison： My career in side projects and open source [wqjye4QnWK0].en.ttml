@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.560" style="s2">my career in side projects and open</p>
+<p begin="00:00:01.839" end="00:00:07.359" style="s2">source basically this is so i&#39;ve been</p>
+<p begin="00:00:04.560" end="00:00:08.880" style="s2">knocking around with um uh side projects</p>
+<p begin="00:00:07.359" end="00:00:11.519" style="s2">and open source things that</p>
+<p begin="00:00:08.880" end="00:00:12.719" style="s2">20 years now it turns out and i realized</p>
+<p begin="00:00:11.519" end="00:00:14.880" style="s2">recently that</p>
+<p begin="00:00:12.719" end="00:00:16.160" style="s2">every key moment in my career started</p>
+<p begin="00:00:14.880" end="00:00:18.240" style="s2">out as a side project</p>
+<p begin="00:00:16.160" end="00:00:20.720" style="s2">um so i&#39;ve got a great track record of</p>
+<p begin="00:00:18.240" end="00:00:22.640" style="s2">turning side projects into opportunities</p>
+<p begin="00:00:20.720" end="00:00:24.800" style="s2">um but the next thing i want to do is</p>
+<p begin="00:00:22.640" end="00:00:26.640" style="s2">turn that my current major</p>
+<p begin="00:00:24.800" end="00:00:28.080" style="s2">open source side project into something</p>
+<p begin="00:00:26.640" end="00:00:29.199" style="s2">that&#39;s sustainable without me having to</p>
+<p begin="00:00:28.080" end="00:00:31.039" style="s2">go and</p>
+<p begin="00:00:29.199" end="00:00:32.160" style="s2">work for somebody else um or start</p>
+<p begin="00:00:31.039" end="00:00:33.440" style="s2">another company i&#39;ll probably start</p>
+<p begin="00:00:32.160" end="00:00:35.680" style="s2">another company but we&#39;ll see</p>
+<p begin="00:00:33.440" end="00:00:37.040" style="s2">so um i&#39;m going to show you a bunch of</p>
+<p begin="00:00:35.680" end="00:00:37.520" style="s2">side projects i&#39;ve worked on over the</p>
+<p begin="00:00:37.040" end="00:00:40.239" style="s2">years</p>
+<p begin="00:00:37.520" end="00:00:40.640" style="s2">and uh talk through how they in how they</p>
+<p begin="00:00:40.239" end="00:00:42.160" style="s2">um</p>
+<p begin="00:00:40.640" end="00:00:43.760" style="s2">how they sort of influenced where i</p>
+<p begin="00:00:42.160" end="00:00:46.640" style="s2">ended up going um</p>
+<p begin="00:00:43.760" end="00:00:49.120" style="s2">so my first side project of note was a</p>
+<p begin="00:00:46.640" end="00:00:51.840" style="s2">site that i launched in 1999</p>
+<p begin="00:00:49.120" end="00:00:54.079" style="s2">um this was an online gaming site i was</p>
+<p begin="00:00:51.840" end="00:00:55.440" style="s2">a keen player of team fortress classic</p>
+<p begin="00:00:54.079" end="00:00:56.960" style="s2">and i was in a clan</p>
+<p begin="00:00:55.440" end="00:00:59.840" style="s2">and i was trying to run a league and all</p>
+<p begin="00:00:56.960" end="00:01:01.680" style="s2">of that kind of stuff and um this was</p>
+<p begin="00:00:59.840" end="00:01:04.000" style="s2">i don&#39;t know if blogs were even a thing</p>
+<p begin="00:01:01.680" end="00:01:06.720" style="s2">in 1999 this was i considered this a</p>
+<p begin="00:01:04.000" end="00:01:07.360" style="s2">news website it was news about the game</p>
+<p begin="00:01:06.720" end="00:01:11.040" style="s2">and um</p>
+<p begin="00:01:07.360" end="00:01:12.080" style="s2">i had to this is the aesthetic of this i</p>
+<p begin="00:01:11.040" end="00:01:14.240" style="s2">think is very</p>
+<p begin="00:01:12.080" end="00:01:15.600" style="s2">online gaming in the late 90s i&#39;m quite</p>
+<p begin="00:01:14.240" end="00:01:17.759" style="s2">proud of that um</p>
+<p begin="00:01:15.600" end="00:01:18.960" style="s2">but this was a project that i span up to</p>
+<p begin="00:01:17.759" end="00:01:20.080" style="s2">start building a community around this</p>
+<p begin="00:01:18.960" end="00:01:23.200" style="s2">game that i was playing</p>
+<p begin="00:01:20.080" end="00:01:26.159" style="s2">and um i started i started running this</p>
+<p begin="00:01:23.200" end="00:01:28.000" style="s2">this league for clans to compete and</p>
+<p begin="00:01:26.159" end="00:01:29.680" style="s2">that got me my first job in in</p>
+<p begin="00:01:28.000" end="00:01:31.119" style="s2">technology i ended up taking two years</p>
+<p begin="00:01:29.680" end="00:01:33.200" style="s2">before university</p>
+<p begin="00:01:31.119" end="00:01:34.799" style="s2">moved to london to work for this company</p>
+<p begin="00:01:33.200" end="00:01:37.840" style="s2">called what and gameplay</p>
+<p begin="00:01:34.799" end="00:01:40.320" style="s2">which was for a brief moment the darling</p>
+<p begin="00:01:37.840" end="00:01:43.280" style="s2">of the 1999 um</p>
+<p begin="00:01:40.320" end="00:01:45.600" style="s2">like london technology industry it</p>
+<p begin="00:01:43.280" end="00:01:46.240" style="s2">raised 88 million pounds and then lost</p>
+<p begin="00:01:45.600" end="00:01:48.560" style="s2">all of it</p>
+<p begin="00:01:46.240" end="00:01:49.680" style="s2">um like in the dot-com crash it was</p>
+<p begin="00:01:48.560" end="00:01:51.840" style="s2">quite spectacular</p>
+<p begin="00:01:49.680" end="00:01:53.759" style="s2">i think at one point um we were selling</p>
+<p begin="00:01:51.840" end="00:01:56.240" style="s2">games online like the past</p>
+<p begin="00:01:53.759" end="00:01:56.240" style="s2">what&#39;s that</p>
+<p begin="00:01:57.600" end="00:02:01.360" style="s2">i think we just had some um background</p>
+<p begin="00:01:59.280" end="00:02:02.880" style="s2">noise but we&#39;re meeting</p>
+<p begin="00:02:01.360" end="00:02:04.719" style="s2">yeah i think that that that the share</p>
+<p begin="00:02:02.880" end="00:02:07.520" style="s2">price was like</p>
+<p begin="00:02:04.719" end="00:02:08.000" style="s2">uh two pound 21 when we when we actually</p>
+<p begin="00:02:07.520" end="00:02:09.759" style="s2">when we</p>
+<p begin="00:02:08.000" end="00:02:11.360" style="s2">ipo&#39;d and then three and a half pence</p>
+<p begin="00:02:09.759" end="00:02:13.440" style="s2">two years later when the company pretty</p>
+<p begin="00:02:11.360" end="00:02:15.200" style="s2">much collapsed um so i got to see the</p>
+<p begin="00:02:13.440" end="00:02:16.160" style="s2">first.com boom up close which was really</p>
+<p begin="00:02:15.200" end="00:02:18.959" style="s2">exciting</p>
+<p begin="00:02:16.160" end="00:02:20.160" style="s2">um but yeah and that that so that came</p>
+<p begin="00:02:18.959" end="00:02:23.280" style="s2">out from the sort of</p>
+<p begin="00:02:20.160" end="00:02:24.400" style="s2">my first foray into into online news and</p>
+<p begin="00:02:23.280" end="00:02:25.760" style="s2">such like um</p>
+<p begin="00:02:24.400" end="00:02:27.840" style="s2">luckily for me i hadn&#39;t gone to</p>
+<p begin="00:02:25.760" end="00:02:28.480" style="s2">university yet so when the entire.com</p>
+<p begin="00:02:27.840" end="00:02:30.560" style="s2">industry</p>
+<p begin="00:02:28.480" end="00:02:31.680" style="s2">crashed i could go and shelter in</p>
+<p begin="00:02:30.560" end="00:02:34.800" style="s2">academia for</p>
+<p begin="00:02:31.680" end="00:02:37.440" style="s2">a few years and get my degree um so</p>
+<p begin="00:02:34.800" end="00:02:39.280" style="s2">after that i spent a um this blogs were</p>
+<p begin="00:02:37.440" end="00:02:42.720" style="s2">now a thing so i started a blog</p>
+<p begin="00:02:39.280" end="00:02:43.599" style="s2">um nearly 20 years ago wow and this was</p>
+<p begin="00:02:42.720" end="00:02:45.360" style="s2">back when</p>
+<p begin="00:02:43.599" end="00:02:47.040" style="s2">there were only about 100 people who</p>
+<p begin="00:02:45.360" end="00:02:48.640" style="s2">were blogging about web development so</p>
+<p begin="00:02:47.040" end="00:02:50.000" style="s2">we all knew each other which was really</p>
+<p begin="00:02:48.640" end="00:02:52.000" style="s2">exciting um because</p>
+<p begin="00:02:50.000" end="00:02:53.440" style="s2">uh chap i knew called adrian hulivarti</p>
+<p begin="00:02:52.000" end="00:02:56.720" style="s2">was a journalist</p>
+<p begin="00:02:53.440" end="00:02:58.800" style="s2">web um developer in kansas and he posted</p>
+<p begin="00:02:56.720" end="00:03:00.400" style="s2">a job job opportunity he said hey</p>
+<p begin="00:02:58.800" end="00:03:02.959" style="s2">we&#39;re building local news websites in</p>
+<p begin="00:03:00.400" end="00:03:03.280" style="s2">kansas we&#39;ve got a job opening and then</p>
+<p begin="00:03:02.959" end="00:03:06.000" style="s2">this</p>
+<p begin="00:03:03.280" end="00:03:07.840" style="s2">coincides with my british my university</p>
+<p begin="00:03:06.000" end="00:03:10.400" style="s2">in england giving me the opportunity to</p>
+<p begin="00:03:07.840" end="00:03:11.440" style="s2">have a year in industry so you can find</p>
+<p begin="00:03:10.400" end="00:03:13.360" style="s2">a job somewhere</p>
+<p begin="00:03:11.440" end="00:03:15.200" style="s2">um if it&#39;s abroad you can get a student</p>
+<p begin="00:03:13.360" end="00:03:16.959" style="s2">visa which is crucially useful</p>
+<p begin="00:03:15.200" end="00:03:18.000" style="s2">and you can go out spend a year in year</p>
+<p begin="00:03:16.959" end="00:03:19.440" style="s2">in industry and then come back and</p>
+<p begin="00:03:18.000" end="00:03:22.480" style="s2">finish your degree</p>
+<p begin="00:03:19.440" end="00:03:25.280" style="s2">so i ended up moving out to kansas from</p>
+<p begin="00:03:22.480" end="00:03:26.959" style="s2">from um from bath in england this was my</p>
+<p begin="00:03:25.280" end="00:03:27.519" style="s2">first proper experience of the united</p>
+<p begin="00:03:26.959" end="00:03:29.599" style="s2">states</p>
+<p begin="00:03:27.519" end="00:03:31.519" style="s2">um this tiny little town called lawrence</p>
+<p begin="00:03:29.599" end="00:03:33.599" style="s2">kansas population i think</p>
+<p begin="00:03:31.519" end="00:03:34.560" style="s2">like less than a hundred thousand people</p>
+<p begin="00:03:33.599" end="00:03:36.000" style="s2">um</p>
+<p begin="00:03:34.560" end="00:03:38.000" style="s2">to work for a newspaper called the</p>
+<p begin="00:03:36.000" end="00:03:40.239" style="s2">lawrence journal world and this was an</p>
+<p begin="00:03:38.000" end="00:03:40.959" style="s2">extraordinary job again it sort of came</p>
+<p begin="00:03:40.239" end="00:03:42.959" style="s2">out of this</p>
+<p begin="00:03:40.959" end="00:03:44.480" style="s2">my side project of just blogging about</p>
+<p begin="00:03:42.959" end="00:03:46.159" style="s2">stuff</p>
+<p begin="00:03:44.480" end="00:03:48.159" style="s2">um it was extraordinary because while it</p>
+<p begin="00:03:46.159" end="00:03:48.799" style="s2">was a tiny newspaper it was really well</p>
+<p begin="00:03:48.159" end="00:03:52.400" style="s2">funded</p>
+<p begin="00:03:48.799" end="00:03:52.720" style="s2">and um the goal was always to punch so</p>
+<p begin="00:03:52.400" end="00:03:54.000" style="s2">far</p>
+<p begin="00:03:52.720" end="00:03:55.200" style="s2">above our weight that nobody could</p>
+<p begin="00:03:54.000" end="00:03:55.920" style="s2">believe that we were a tiny little</p>
+<p begin="00:03:55.200" end="00:03:58.159" style="s2">newspaper</p>
+<p begin="00:03:55.920" end="00:03:59.280" style="s2">to um take a little local newspaper and</p>
+<p begin="00:03:58.159" end="00:04:02.319" style="s2">my favorite example</p>
+<p begin="00:03:59.280" end="00:04:03.760" style="s2">um in i&#39;m sure as americans</p>
+<p begin="00:04:02.319" end="00:04:05.599" style="s2">probably i imagine most people in this</p>
+<p begin="00:04:03.760" end="00:04:06.239" style="s2">call understand american culture better</p>
+<p begin="00:04:05.599" end="00:04:08.080" style="s2">than i do</p>
+<p begin="00:04:06.239" end="00:04:09.599" style="s2">americans are really into their kids</p>
+<p begin="00:04:08.080" end="00:04:11.760" style="s2">baseball and softball</p>
+<p begin="00:04:09.599" end="00:04:13.920" style="s2">so there was this softball league in the</p>
+<p begin="00:04:11.760" end="00:04:15.599" style="s2">town and our boss a guy called rob</p>
+<p begin="00:04:13.920" end="00:04:17.040" style="s2">curley said we&#39;re going to treat these</p>
+<p begin="00:04:15.599" end="00:04:19.280" style="s2">kids softball teams like they&#39;re the new</p>
+<p begin="00:04:17.040" end="00:04:21.919" style="s2">york yankees we&#39;re going to do</p>
+<p begin="00:04:19.280" end="00:04:23.680" style="s2">photos and team bios and schedules i&#39;m</p>
+<p begin="00:04:21.919" end="00:04:24.960" style="s2">going to let the parents sign up for sms</p>
+<p begin="00:04:23.680" end="00:04:27.120" style="s2">messages whenever their</p>
+<p begin="00:04:24.960" end="00:04:28.080" style="s2">their kids scores a whatever you score</p>
+<p begin="00:04:27.120" end="00:04:31.520" style="s2">in softball a</p>
+<p begin="00:04:28.080" end="00:04:34.080" style="s2">run um and uh we we sent in turns out</p>
+<p begin="00:04:31.520" end="00:04:36.720" style="s2">and we took 360 degree photographs</p>
+<p begin="00:04:34.080" end="00:04:39.919" style="s2">of every softball court in town to put</p>
+<p begin="00:04:36.720" end="00:04:44.000" style="s2">up on the website this was in what 2002</p>
+<p begin="00:04:39.919" end="00:04:45.440" style="s2">2002 now 2003 um so it&#39;s quicktime vr i</p>
+<p begin="00:04:44.000" end="00:04:48.479" style="s2">think we were using for this</p>
+<p begin="00:04:45.440" end="00:04:51.199" style="s2">so absolutely absurd levels</p>
+<p begin="00:04:48.479" end="00:04:52.479" style="s2">of of over-the-top interest in this</p>
+<p begin="00:04:51.199" end="00:04:55.759" style="s2">kid&#39;s softball stuff</p>
+<p begin="00:04:52.479" end="00:04:57.759" style="s2">um and because we had this culture of</p>
+<p begin="00:04:55.759" end="00:04:59.919" style="s2">trying to punch way above our weight</p>
+<p begin="00:04:57.759" end="00:05:02.000" style="s2">adrian and i had been experimenting with</p>
+<p begin="00:04:59.919" end="00:05:03.440" style="s2">new ways of building websites um we</p>
+<p begin="00:05:02.000" end="00:05:05.840" style="s2">wanted to use python um</p>
+<p begin="00:05:03.440" end="00:05:06.560" style="s2">we&#39;d both been using php and so we ended</p>
+<p begin="00:05:05.840" end="00:05:09.680" style="s2">up building</p>
+<p begin="00:05:06.560" end="00:05:11.360" style="s2">out this system for building websites um</p>
+<p begin="00:05:09.680" end="00:05:12.880" style="s2">like the kids softball thing we had to</p>
+<p begin="00:05:11.360" end="00:05:14.080" style="s2">put together we had a three-day deadline</p>
+<p begin="00:05:12.880" end="00:05:15.440" style="s2">to put that together</p>
+<p begin="00:05:14.080" end="00:05:17.199" style="s2">and then shortly after i left the</p>
+<p begin="00:05:15.440" end="00:05:19.360" style="s2">newspaper we open-sourced it and that</p>
+<p begin="00:05:17.199" end="00:05:20.080" style="s2">was um this is django the django web</p>
+<p begin="00:05:19.360" end="00:05:22.320" style="s2">framework</p>
+<p begin="00:05:20.080" end="00:05:24.000" style="s2">which was born in a local newspaper at a</p>
+<p begin="00:05:22.320" end="00:05:27.039" style="s2">local newspaper in lawrence kansas</p>
+<p begin="00:05:24.000" end="00:05:29.360" style="s2">and today it&#39;s used by instagram and um</p>
+<p begin="00:05:27.039" end="00:05:30.639" style="s2">discus and all sorts of different places</p>
+<p begin="00:05:29.360" end="00:05:32.560" style="s2">so this</p>
+<p begin="00:05:30.639" end="00:05:35.120" style="s2">as an open source project has been</p>
+<p begin="00:05:32.560" end="00:05:37.520" style="s2">incredibly influential i have got the</p>
+<p begin="00:05:35.120" end="00:05:39.440" style="s2">the chart of interest over time from um</p>
+<p begin="00:05:37.520" end="00:05:42.639" style="s2">i think that&#39;s from google trends</p>
+<p begin="00:05:39.440" end="00:05:45.840" style="s2">oops why did that happen um</p>
+<p begin="00:05:42.639" end="00:05:47.440" style="s2">and again that this this came out this</p>
+<p begin="00:05:45.840" end="00:05:49.600" style="s2">came out of us working in a newsroom</p>
+<p begin="00:05:47.440" end="00:05:51.919" style="s2">environment and needing to turn around</p>
+<p begin="00:05:49.600" end="00:05:53.280" style="s2">relatively complex relational database</p>
+<p begin="00:05:51.919" end="00:05:54.880" style="s2">websites in</p>
+<p begin="00:05:53.280" end="00:05:56.319" style="s2">very very short amounts of time on</p>
+<p begin="00:05:54.880" end="00:05:58.240" style="s2">journalism deadlines because the fun</p>
+<p begin="00:05:56.319" end="00:06:00.479" style="s2">thing about working on news stuff</p>
+<p begin="00:05:58.240" end="00:06:01.759" style="s2">is that you know if it takes you three</p>
+<p begin="00:06:00.479" end="00:06:03.120" style="s2">months to build an application to</p>
+<p begin="00:06:01.759" end="00:06:04.160" style="s2">support a story there&#39;s no point in</p>
+<p begin="00:06:03.120" end="00:06:06.319" style="s2">building it at all</p>
+<p begin="00:06:04.160" end="00:06:08.240" style="s2">you have to be able to to publish things</p>
+<p begin="00:06:06.319" end="00:06:11.360" style="s2">at the rate of the news cycle</p>
+<p begin="00:06:08.240" end="00:06:12.720" style="s2">um so based on all of that uh i ended up</p>
+<p begin="00:06:11.360" end="00:06:14.800" style="s2">back in england working at the</p>
+<p begin="00:06:12.720" end="00:06:16.479" style="s2">guardian and so the guardian is one of</p>
+<p begin="00:06:14.800" end="00:06:20.080" style="s2">the uk&#39;s leading newspapers</p>
+<p begin="00:06:16.479" end="00:06:23.199" style="s2">um they had they this was around 2010</p>
+<p begin="00:06:20.080" end="00:06:25.199" style="s2">and they were coming off a three-year</p>
+<p begin="00:06:23.199" end="00:06:27.280" style="s2">horrifying giant content management</p>
+<p begin="00:06:25.199" end="00:06:29.520" style="s2">system like enterprise rebuild</p>
+<p begin="00:06:27.280" end="00:06:31.280" style="s2">so they were all relative kind of burned</p>
+<p begin="00:06:29.520" end="00:06:33.199" style="s2">out and looking to</p>
+<p begin="00:06:31.280" end="00:06:34.639" style="s2">try and start doing more of this sort of</p>
+<p begin="00:06:33.199" end="00:06:37.280" style="s2">agile um</p>
+<p begin="00:06:34.639" end="00:06:39.120" style="s2">very quick turnaround like data data</p>
+<p begin="00:06:37.280" end="00:06:41.120" style="s2">journalism reporting stuff</p>
+<p begin="00:06:39.120" end="00:06:42.800" style="s2">so i came in to to start doing those</p>
+<p begin="00:06:41.120" end="00:06:45.120" style="s2">kinds of things and i got to work on</p>
+<p begin="00:06:42.800" end="00:06:46.960" style="s2">some really fun projects there um</p>
+<p begin="00:06:45.120" end="00:06:48.160" style="s2">there was a actually well this was one</p>
+<p begin="00:06:46.960" end="00:06:51.039" style="s2">of the first wikileaks</p>
+<p begin="00:06:48.160" end="00:06:52.639" style="s2">story this was back in 2008 and</p>
+<p begin="00:06:51.039" end="00:06:55.840" style="s2">wikileaks got their hands</p>
+<p begin="00:06:52.639" end="00:06:59.919" style="s2">on the membership list of the bnp the</p>
+<p begin="00:06:55.840" end="00:07:02.400" style="s2">the the far right um party in in the uk</p>
+<p begin="00:06:59.919" end="00:07:03.680" style="s2">and it had 18 000 names on it and the</p>
+<p begin="00:07:02.400" end="00:07:06.479" style="s2">guardian is not the kind of newspaper</p>
+<p begin="00:07:03.680" end="00:07:08.479" style="s2">that publishes 18 000 people&#39;s names for</p>
+<p begin="00:07:06.479" end="00:07:09.680" style="s2">for being members of the political party</p>
+<p begin="00:07:08.479" end="00:07:12.639" style="s2">so the question was</p>
+<p begin="00:07:09.680" end="00:07:14.639" style="s2">how can we what is a responsible way of</p>
+<p begin="00:07:12.639" end="00:07:16.319" style="s2">using this data that doesn&#39;t like</p>
+<p begin="00:07:14.639" end="00:07:18.560" style="s2">you know um affect anyone&#39;s personal</p>
+<p begin="00:07:16.319" end="00:07:19.360" style="s2">privacy so what we ended up doing was</p>
+<p begin="00:07:18.560" end="00:07:22.319" style="s2">some</p>
+<p begin="00:07:19.360" end="00:07:24.080" style="s2">um was geocoding people&#39;s dresses to</p>
+<p begin="00:07:22.319" end="00:07:26.160" style="s2">parliamentary constituencies</p>
+<p begin="00:07:24.080" end="00:07:28.160" style="s2">so that we could generate a heat map of</p>
+<p begin="00:07:26.160" end="00:07:31.199" style="s2">where the bnp had the most mem</p>
+<p begin="00:07:28.160" end="00:07:34.160" style="s2">and had the most party members in um</p>
+<p begin="00:07:31.199" end="00:07:35.280" style="s2">in the uk and this this was one of my</p>
+<p begin="00:07:34.160" end="00:07:36.720" style="s2">first projects of the guardian the</p>
+<p begin="00:07:35.280" end="00:07:38.880" style="s2">really exciting thing about it is that</p>
+<p begin="00:07:36.720" end="00:07:40.400" style="s2">it got printed in the newspaper</p>
+<p begin="00:07:38.880" end="00:07:42.240" style="s2">because i built this um i built this</p>
+<p begin="00:07:40.400" end="00:07:43.840" style="s2">using svg um</p>
+<p begin="00:07:42.240" end="00:07:45.759" style="s2">and the great thing about svg is that</p>
+<p begin="00:07:43.840" end="00:07:47.360" style="s2">it&#39;s it&#39;s vector quality and you can</p>
+<p begin="00:07:45.759" end="00:07:47.840" style="s2">export it to illustrator and put it out</p>
+<p begin="00:07:47.360" end="00:07:49.360" style="s2">so</p>
+<p begin="00:07:47.840" end="00:07:51.599" style="s2">i&#39;ve still got like five copies of this</p>
+<p begin="00:07:49.360" end="00:07:54.800" style="s2">newspaper on the shelf behind me i think</p>
+<p begin="00:07:51.599" end="00:07:57.039" style="s2">um but this also this ties into this</p>
+<p begin="00:07:54.800" end="00:07:58.800" style="s2">idea of side projects because</p>
+<p begin="00:07:57.039" end="00:08:00.400" style="s2">one of the things i span out of this was</p>
+<p begin="00:07:58.800" end="00:08:02.000" style="s2">a sort of internal project</p>
+<p begin="00:08:00.400" end="00:08:04.160" style="s2">side project for the guardian which was</p>
+<p begin="00:08:02.000" end="00:08:07.360" style="s2">a self-service tool</p>
+<p begin="00:08:04.160" end="00:08:09.599" style="s2">where reporters could like uh</p>
+<p begin="00:08:07.360" end="00:08:10.879" style="s2">upload a a list of parliamentary</p>
+<p begin="00:08:09.599" end="00:08:13.440" style="s2">constituencies and numbers</p>
+<p begin="00:08:10.879" end="00:08:15.280" style="s2">and get back one of these svg heat maps</p>
+<p begin="00:08:13.440" end="00:08:17.199" style="s2">so the idea was to</p>
+<p begin="00:08:15.280" end="00:08:19.199" style="s2">um and it was we i i built that at one</p>
+<p begin="00:08:17.199" end="00:08:22.080" style="s2">of the guardians internal hack days</p>
+<p begin="00:08:19.199" end="00:08:23.440" style="s2">um the problem i found is that um a</p>
+<p begin="00:08:22.080" end="00:08:24.800" style="s2">bunch of journalists started using this</p>
+<p begin="00:08:23.440" end="00:08:26.639" style="s2">thing which i&#39;d knocked together in my</p>
+<p begin="00:08:24.800" end="00:08:28.319" style="s2">sort of spare work time</p>
+<p begin="00:08:26.639" end="00:08:29.840" style="s2">and um after i left the guardian a</p>
+<p begin="00:08:28.319" end="00:08:31.199" style="s2">couple of years after i left</p>
+<p begin="00:08:29.840" end="00:08:33.039" style="s2">um i met up with somebody who had worked</p>
+<p begin="00:08:31.199" end="00:08:34.159" style="s2">with them he said yes you know you&#39;re um</p>
+<p begin="00:08:33.039" end="00:08:36.240" style="s2">you left that thing running on your</p>
+<p begin="00:08:34.159" end="00:08:37.680" style="s2">desktop computer and your desk and so we</p>
+<p begin="00:08:36.240" end="00:08:38.320" style="s2">had to leave your desktop turned on for</p>
+<p begin="00:08:37.680" end="00:08:39.519" style="s2">six months</p>
+<p begin="00:08:38.320" end="00:08:41.680" style="s2">and then we had to figure out how to</p>
+<p begin="00:08:39.519" end="00:08:44.080" style="s2">virtualize it and stick it in our data</p>
+<p begin="00:08:41.680" end="00:08:44.800" style="s2">and in vmware and data center somewhere</p>
+<p begin="00:08:44.080" end="00:08:46.399" style="s2">and um</p>
+<p begin="00:08:44.800" end="00:08:48.160" style="s2">yeah next time next time how about</p>
+<p begin="00:08:46.399" end="00:08:51.200" style="s2">writing some deployment instructions</p>
+<p begin="00:08:48.160" end="00:08:53.839" style="s2">and so from that i learned that um</p>
+<p begin="00:08:51.200" end="00:08:55.760" style="s2">you can cause certain amounts of um of</p>
+<p begin="00:08:53.839" end="00:08:56.800" style="s2">chaos with with these projects if you</p>
+<p begin="00:08:55.760" end="00:08:58.320" style="s2">don&#39;t</p>
+<p begin="00:08:56.800" end="00:08:59.440" style="s2">don&#39;t assume that they&#39;re going to run</p>
+<p begin="00:08:58.320" end="00:09:00.560" style="s2">for a lot longer than you thought they</p>
+<p begin="00:08:59.440" end="00:09:02.320" style="s2">were going to run for</p>
+<p begin="00:09:00.560" end="00:09:04.000" style="s2">and i&#39;ve become very interested</p>
+<p begin="00:09:02.320" end="00:09:05.920" style="s2">interested since then in</p>
+<p begin="00:09:04.000" end="00:09:07.120" style="s2">documenting things but also making sure</p>
+<p begin="00:09:05.920" end="00:09:09.600" style="s2">that</p>
+<p begin="00:09:07.120" end="00:09:11.360" style="s2">companies have really good mechanisms</p>
+<p begin="00:09:09.600" end="00:09:12.800" style="s2">for internal deployments of these kinds</p>
+<p begin="00:09:11.360" end="00:09:14.640" style="s2">of projects so it doesn&#39;t end up running</p>
+<p begin="00:09:12.800" end="00:09:17.360" style="s2">on someone&#39;s desktop um</p>
+<p begin="00:09:14.640" end="00:09:19.360" style="s2">under a desk somewhere um but the most</p>
+<p begin="00:09:17.360" end="00:09:20.640" style="s2">fun project to work with guardian was</p>
+<p begin="00:09:19.360" end="00:09:22.399" style="s2">another thing again something that</p>
+<p begin="00:09:20.640" end="00:09:24.480" style="s2">started as a</p>
+<p begin="00:09:22.399" end="00:09:26.240" style="s2">a commute side project i had a two-hour</p>
+<p begin="00:09:24.480" end="00:09:27.839" style="s2">train ride into work which was</p>
+<p begin="00:09:26.240" end="00:09:29.279" style="s2">just enough time to knock together</p>
+<p begin="00:09:27.839" end="00:09:31.480" style="s2">prototypes of things</p>
+<p begin="00:09:29.279" end="00:09:33.040" style="s2">um and that was this tool for</p>
+<p begin="00:09:31.480" end="00:09:35.519" style="s2">investigating your</p>
+<p begin="00:09:33.040" end="00:09:36.880" style="s2">member of parliament&#39;s expense claims um</p>
+<p begin="00:09:35.519" end="00:09:38.959" style="s2">there was a</p>
+<p begin="00:09:36.880" end="00:09:40.880" style="s2">ongoing freedom of information campaign</p>
+<p begin="00:09:38.959" end="00:09:41.440" style="s2">to try and get the expense documents</p>
+<p begin="00:09:40.880" end="00:09:43.519" style="s2">from our</p>
+<p begin="00:09:41.440" end="00:09:44.560" style="s2">our representatives and when they</p>
+<p begin="00:09:43.519" end="00:09:47.600" style="s2">finally came out</p>
+<p begin="00:09:44.560" end="00:09:49.200" style="s2">um we had 450 000 pages of documents</p>
+<p begin="00:09:47.600" end="00:09:51.279" style="s2">that we needed to go through</p>
+<p begin="00:09:49.200" end="00:09:52.959" style="s2">so we decided to try and do it with</p>
+<p begin="00:09:51.279" end="00:09:53.600" style="s2">crowdsourcing we put these all up on the</p>
+<p begin="00:09:52.959" end="00:09:55.680" style="s2">website</p>
+<p begin="00:09:53.600" end="00:09:58.640" style="s2">and we gave people a button to start</p>
+<p begin="00:09:55.680" end="00:10:00.800" style="s2">reviewing random pages of mp&#39;s expenses</p>
+<p begin="00:09:58.640" end="00:10:02.720" style="s2">so here&#39;s page 34 of janet dean&#39;s</p>
+<p begin="00:10:00.800" end="00:10:04.000" style="s2">incidental expenses provision and we&#39;d</p>
+<p begin="00:10:02.720" end="00:10:05.760" style="s2">ask our users to glance</p>
+<p begin="00:10:04.000" end="00:10:07.680" style="s2">over it and click a button to say if</p>
+<p begin="00:10:05.760" end="00:10:09.120" style="s2">they thought it looked interesting</p>
+<p begin="00:10:07.680" end="00:10:10.720" style="s2">should a journalism go journalists go</p>
+<p begin="00:10:09.120" end="00:10:13.440" style="s2">and look at that kind of stuff</p>
+<p begin="00:10:10.720" end="00:10:14.000" style="s2">um and interestingly with this project</p>
+<p begin="00:10:13.440" end="00:10:16.160" style="s2">the most</p>
+<p begin="00:10:14.000" end="00:10:17.760" style="s2">important detail the thing that really</p>
+<p begin="00:10:16.160" end="00:10:19.040" style="s2">helped to get working is that we stuck</p>
+<p begin="00:10:17.760" end="00:10:21.839" style="s2">the mp&#39;s official</p>
+<p begin="00:10:19.040" end="00:10:22.560" style="s2">mug shots that the their photographs on</p>
+<p begin="00:10:21.839" end="00:10:24.240" style="s2">the pages</p>
+<p begin="00:10:22.560" end="00:10:25.680" style="s2">because they all look very smug and</p>
+<p begin="00:10:24.240" end="00:10:27.600" style="s2">they&#39;re grilling in this and</p>
+<p begin="00:10:25.680" end="00:10:28.720" style="s2">it made people really angry people like</p>
+<p begin="00:10:27.600" end="00:10:30.240" style="s2">you&#39;re grinning at me</p>
+<p begin="00:10:28.720" end="00:10:31.600" style="s2">and i&#39;m looking i&#39;m going to dive</p>
+<p begin="00:10:30.240" end="00:10:32.000" style="s2">through your expenses and i&#39;m gonna find</p>
+<p begin="00:10:31.600" end="00:10:35.200" style="s2">something</p>
+<p begin="00:10:32.000" end="00:10:38.320" style="s2">on you and so we had like progress</p>
+<p begin="00:10:35.200" end="00:10:40.240" style="s2">bars and we had a um a uh a scoreboard</p>
+<p begin="00:10:38.320" end="00:10:41.839" style="s2">we gamified it a bit so who who&#39;s</p>
+<p begin="00:10:40.240" end="00:10:43.440" style="s2">reviewed the most expenses</p>
+<p begin="00:10:41.839" end="00:10:45.600" style="s2">who&#39;s the person who&#39;s who&#39;s been going</p>
+<p begin="00:10:43.440" end="00:10:46.240" style="s2">after um how i well frances the most and</p>
+<p begin="00:10:45.600" end="00:10:48.880" style="s2">so on</p>
+<p begin="00:10:46.240" end="00:10:50.079" style="s2">um but it was really fun and um again it</p>
+<p begin="00:10:48.880" end="00:10:52.800" style="s2">was</p>
+<p begin="00:10:50.079" end="00:10:53.839" style="s2">the one of the ideas that the the one of</p>
+<p begin="00:10:52.800" end="00:10:56.480" style="s2">the things that really</p>
+<p begin="00:10:53.839" end="00:10:57.680" style="s2">um sort of that that this really</p>
+<p begin="00:10:56.480" end="00:10:59.519" style="s2">emphasized for me is the power of</p>
+<p begin="00:10:57.680" end="00:11:00.160" style="s2">prototyping like if you can get a</p>
+<p begin="00:10:59.519" end="00:11:02.079" style="s2">prototype</p>
+<p begin="00:11:00.160" end="00:11:03.600" style="s2">up and running in front of people in a</p>
+<p begin="00:11:02.079" end="00:11:05.440" style="s2">really short space of time</p>
+<p begin="00:11:03.600" end="00:11:07.519" style="s2">it&#39;s so much more valuable than just</p>
+<p begin="00:11:05.440" end="00:11:10.480" style="s2">talking about an idea for something</p>
+<p begin="00:11:07.519" end="00:11:12.320" style="s2">like most people myself included ideas</p>
+<p begin="00:11:10.480" end="00:11:13.839" style="s2">will sort of bat around for hours but if</p>
+<p begin="00:11:12.320" end="00:11:15.519" style="s2">you give me something concrete even if</p>
+<p begin="00:11:13.839" end="00:11:17.600" style="s2">it&#39;s a very shonky</p>
+<p begin="00:11:15.519" end="00:11:19.680" style="s2">like demo as long as it works and i can</p>
+<p begin="00:11:17.600" end="00:11:20.959" style="s2">see it it focuses the conversation</p>
+<p begin="00:11:19.680" end="00:11:23.440" style="s2">and that&#39;s a trick i&#39;ve used throughout</p>
+<p begin="00:11:20.959" end="00:11:25.440" style="s2">my entire career my my first</p>
+<p begin="00:11:23.440" end="00:11:26.560" style="s2">my first resort for almost any problem</p>
+<p begin="00:11:25.440" end="00:11:28.240" style="s2">is can i build some</p>
+<p begin="00:11:26.560" end="00:11:29.600" style="s2">kind of prototype so i can get</p>
+<p begin="00:11:28.240" end="00:11:32.959" style="s2">conversations going about what&#39;s</p>
+<p begin="00:11:29.600" end="00:11:34.880" style="s2">actually feasible to do with this thing</p>
+<p begin="00:11:32.959" end="00:11:36.480" style="s2">but let&#39;s talk about side projects again</p>
+<p begin="00:11:34.880" end="00:11:39.120" style="s2">this is one of my all-time favorite</p>
+<p begin="00:11:36.480" end="00:11:39.760" style="s2">side projects um from my friend from the</p>
+<p begin="00:11:39.120" end="00:11:41.519" style="s2">past</p>
+<p begin="00:11:39.760" end="00:11:44.240" style="s2">um this is a site called wildlife near</p>
+<p begin="00:11:41.519" end="00:11:47.360" style="s2">you and the origin story of this</p>
+<p begin="00:11:44.240" end="00:11:49.120" style="s2">is a bunch of nerdy friends of</p>
+<p begin="00:11:47.360" end="00:11:50.399" style="s2">friends in england got together and we</p>
+<p begin="00:11:49.120" end="00:11:53.760" style="s2">said you know what would be really fun</p>
+<p begin="00:11:50.399" end="00:11:55.839" style="s2">let&#39;s rent a fortress for a week</p>
+<p begin="00:11:53.760" end="00:11:57.200" style="s2">and go and build stuff together like</p>
+<p begin="00:11:55.839" end="00:11:59.839" style="s2">let&#39;s have a week-long</p>
+<p begin="00:11:57.200" end="00:12:01.680" style="s2">like hackathon in some kind of fortress</p>
+<p begin="00:11:59.839" end="00:12:02.399" style="s2">because this fortress here this is</p>
+<p begin="00:12:01.680" end="00:12:05.120" style="s2">called fort</p>
+<p begin="00:12:02.399" end="00:12:07.200" style="s2">clunk it&#39;s in alderney on the channel</p>
+<p begin="00:12:05.120" end="00:12:09.360" style="s2">islands like most of the way to france</p>
+<p begin="00:12:07.200" end="00:12:11.120" style="s2">and it&#39;s napoleonic it&#39;s from the</p>
+<p begin="00:12:09.360" end="00:12:14.000" style="s2">napoleonic era</p>
+<p begin="00:12:11.120" end="00:12:16.079" style="s2">and it only costs i think about two</p>
+<p begin="00:12:14.000" end="00:12:19.040" style="s2">thousand dollars a week to rent</p>
+<p begin="00:12:16.079" end="00:12:20.959" style="s2">but it sleeps 14 people so if you divide</p>
+<p begin="00:12:19.040" end="00:12:21.680" style="s2">two thousand dollars by 14 people we&#39;re</p>
+<p begin="00:12:20.959" end="00:12:23.760" style="s2">talking like</p>
+<p begin="00:12:21.680" end="00:12:25.519" style="s2">the price of a youth hostel to stay in a</p>
+<p begin="00:12:23.760" end="00:12:27.920" style="s2">napoleonic sea fortress</p>
+<p begin="00:12:25.519" end="00:12:29.200" style="s2">with like a drawbridge and a flag and a</p>
+<p begin="00:12:27.920" end="00:12:31.279" style="s2">bugle and</p>
+<p begin="00:12:29.200" end="00:12:32.639" style="s2">it&#39;s oh my god it was the at it was it</p>
+<p begin="00:12:31.279" end="00:12:35.760" style="s2">was such a cool place</p>
+<p begin="00:12:32.639" end="00:12:37.279" style="s2">um and it actually at high tide it gets</p>
+<p begin="00:12:35.760" end="00:12:38.560" style="s2">cut off from the mainland the water</p>
+<p begin="00:12:37.279" end="00:12:39.760" style="s2">comes over the causeway</p>
+<p begin="00:12:38.560" end="00:12:41.760" style="s2">and while we were there there were</p>
+<p begin="00:12:39.760" end="00:12:43.279" style="s2">horrific storms which would crash</p>
+<p begin="00:12:41.760" end="00:12:44.880" style="s2">against the walls but you&#39;re in a castle</p>
+<p begin="00:12:43.279" end="00:12:46.720" style="s2">so it doesn&#39;t matter</p>
+<p begin="00:12:44.880" end="00:12:48.560" style="s2">so um like lightning and everything it</p>
+<p begin="00:12:46.720" end="00:12:49.120" style="s2">was it was amazing but yeah we had this</p>
+<p begin="00:12:48.560" end="00:12:51.519" style="s2">idea to</p>
+<p begin="00:12:49.120" end="00:12:53.200" style="s2">rent a fort for a week and just see if</p>
+<p begin="00:12:51.519" end="00:12:56.959" style="s2">we could build a thing together</p>
+<p begin="00:12:53.200" end="00:12:58.720" style="s2">um and so this is us on our fortress um</p>
+<p begin="00:12:56.959" end="00:13:00.160" style="s2">nerding out on things and a great thing</p>
+<p begin="00:12:58.720" end="00:13:01.760" style="s2">about fortress is they tend not to have</p>
+<p begin="00:13:00.160" end="00:13:03.440" style="s2">internet connections which is amazing</p>
+<p begin="00:13:01.760" end="00:13:05.360" style="s2">for group productivity</p>
+<p begin="00:13:03.440" end="00:13:07.120" style="s2">and so we built a website where we the</p>
+<p begin="00:13:05.360" end="00:13:08.480" style="s2">the question we were trying to answer</p>
+<p begin="00:13:07.120" end="00:13:11.120" style="s2">the crucial question is</p>
+<p begin="00:13:08.480" end="00:13:12.320" style="s2">where is my nearest llama and so the way</p>
+<p begin="00:13:11.120" end="00:13:14.200" style="s2">this worked this this</p>
+<p begin="00:13:12.320" end="00:13:15.519" style="s2">site sadly no longer exists um</p>
+<p begin="00:13:14.200" end="00:13:18.079" style="s2">wildlifenetu.com</p>
+<p begin="00:13:15.519" end="00:13:19.360" style="s2">you&#39;d go somewhere and you&#39;d go to a</p>
+<p begin="00:13:18.079" end="00:13:21.040" style="s2">nature reserve or a zoo</p>
+<p begin="00:13:19.360" end="00:13:23.040" style="s2">and you&#39;d see things and you post a trip</p>
+<p begin="00:13:21.040" end="00:13:25.200" style="s2">report you&#39;d say i went to</p>
+<p begin="00:13:23.040" end="00:13:27.279" style="s2">this the gigan farm and i saw a raven</p>
+<p begin="00:13:25.200" end="00:13:29.279" style="s2">and a buzzer in a red kite</p>
+<p begin="00:13:27.279" end="00:13:30.800" style="s2">and you&#39;d get a profile where you had</p>
+<p begin="00:13:29.279" end="00:13:32.560" style="s2">your favorite animals and recent trips</p>
+<p begin="00:13:30.800" end="00:13:34.000" style="s2">you&#39;ve taken so on but because we had</p>
+<p begin="00:13:32.560" end="00:13:36.560" style="s2">this data we could then let you</p>
+<p begin="00:13:34.000" end="00:13:38.320" style="s2">search for llamas near brighton and we</p>
+<p begin="00:13:36.560" end="00:13:40.480" style="s2">can show you that the nearest llama to</p>
+<p begin="00:13:38.320" end="00:13:43.839" style="s2">brighton is ashdown forest llama farm</p>
+<p begin="00:13:40.480" end="00:13:47.040" style="s2">um 18 miles away as reported by somebody</p>
+<p begin="00:13:43.839" end="00:13:48.880" style="s2">and this was utterly delightful um</p>
+<p begin="00:13:47.040" end="00:13:50.320" style="s2">we got pages for species here&#39;s the red</p>
+<p begin="00:13:48.880" end="00:13:51.040" style="s2">panda page that tells you your nearest</p>
+<p begin="00:13:50.320" end="00:13:53.040" style="s2">red panda</p>
+<p begin="00:13:51.040" end="00:13:54.480" style="s2">is and photographs of red pandas and</p>
+<p begin="00:13:53.040" end="00:13:56.160" style="s2">where you can see them and</p>
+<p begin="00:13:54.480" end="00:13:57.680" style="s2">all of that but then the problem we had</p>
+<p begin="00:13:56.160" end="00:13:59.600" style="s2">with this page is</p>
+<p begin="00:13:57.680" end="00:14:01.199" style="s2">we needed to show people we needed a</p>
+<p begin="00:13:59.600" end="00:14:02.079" style="s2">single photograph of red panda to</p>
+<p begin="00:14:01.199" end="00:14:04.160" style="s2">highlight</p>
+<p begin="00:14:02.079" end="00:14:05.440" style="s2">but how do we know which photograph of</p>
+<p begin="00:14:04.160" end="00:14:07.760" style="s2">the red panda is better</p>
+<p begin="00:14:05.440" end="00:14:09.519" style="s2">so we built essentially hot or not for</p>
+<p begin="00:14:07.760" end="00:14:11.920" style="s2">photographs of animals</p>
+<p begin="00:14:09.519" end="00:14:13.120" style="s2">third is you&#39;d go here and we&#39;d show you</p>
+<p begin="00:14:11.920" end="00:14:14.959" style="s2">two photos of</p>
+<p begin="00:14:13.120" end="00:14:16.320" style="s2">a marmot and you say well clearly the</p>
+<p begin="00:14:14.959" end="00:14:17.680" style="s2">picture on the right is a better photo</p>
+<p begin="00:14:16.320" end="00:14:18.880" style="s2">for marmot and then we&#39;ll show you two</p>
+<p begin="00:14:17.680" end="00:14:20.800" style="s2">photos of red panda</p>
+<p begin="00:14:18.880" end="00:14:22.560" style="s2">and back and forth and then we use the</p>
+<p begin="00:14:20.800" end="00:14:22.880" style="s2">album the algorithm we used for this was</p>
+<p begin="00:14:22.560" end="00:14:25.839" style="s2">the</p>
+<p begin="00:14:22.880" end="00:14:27.199" style="s2">the elo algorithm from the one that&#39;s</p>
+<p begin="00:14:25.839" end="00:14:29.360" style="s2">used in chess tournaments</p>
+<p begin="00:14:27.199" end="00:14:31.120" style="s2">and when the the film the social network</p>
+<p begin="00:14:29.360" end="00:14:32.480" style="s2">came out with mark zuckerberg about mark</p>
+<p begin="00:14:31.120" end="00:14:34.079" style="s2">zuckerberg</p>
+<p begin="00:14:32.480" end="00:14:35.920" style="s2">there&#39;s a scene in that where he&#39;s</p>
+<p begin="00:14:34.079" end="00:14:36.639" style="s2">building like hot or not for college</p>
+<p begin="00:14:35.920" end="00:14:40.240" style="s2">students</p>
+<p begin="00:14:36.639" end="00:14:43.440" style="s2">and it&#39;s the same algorithm that we</p>
+<p begin="00:14:40.240" end="00:14:46.480" style="s2">used for our best marmot photo</p>
+<p begin="00:14:43.440" end="00:14:48.800" style="s2">so i was i was told to see</p>
+<p begin="00:14:46.480" end="00:14:50.880" style="s2">that we had that element of crossover</p>
+<p begin="00:14:48.800" end="00:14:53.600" style="s2">there um</p>
+<p begin="00:14:50.880" end="00:14:54.880" style="s2">but the really fun thing we did with</p>
+<p begin="00:14:53.600" end="00:14:58.240" style="s2">world of eu</p>
+<p begin="00:14:54.880" end="00:14:59.519" style="s2">is we decided as a marketing ploy we&#39;d</p>
+<p begin="00:14:58.240" end="00:15:01.839" style="s2">try and this was</p>
+<p begin="00:14:59.519" end="00:15:02.959" style="s2">a actually we eventually added a mobile</p>
+<p begin="00:15:01.839" end="00:15:04.399" style="s2">location button which when that</p>
+<p begin="00:15:02.959" end="00:15:06.160" style="s2">technology became available but the idea</p>
+<p begin="00:15:04.399" end="00:15:07.519" style="s2">here was it&#39;s just one question where</p>
+<p begin="00:15:06.160" end="00:15:09.279" style="s2">are you and it would show you where your</p>
+<p begin="00:15:07.519" end="00:15:11.279" style="s2">newest outlet is that was it</p>
+<p begin="00:15:09.279" end="00:15:12.480" style="s2">and um one of the highlights of my</p>
+<p begin="00:15:11.279" end="00:15:14.959" style="s2">career was when</p>
+<p begin="00:15:12.480" end="00:15:16.560" style="s2">wired magazine in the uk who had a wired</p>
+<p begin="00:15:14.959" end="00:15:19.519" style="s2">tired expired column</p>
+<p begin="00:15:16.560" end="00:15:20.720" style="s2">listed owls near you in wired and four</p>
+<p begin="00:15:19.519" end="00:15:23.680" style="s2">square and tired</p>
+<p begin="00:15:20.720" end="00:15:24.320" style="s2">so in 2010 al&#39;s near you was was hot</p>
+<p begin="00:15:23.680" end="00:15:27.839" style="s2">stuff</p>
+<p begin="00:15:24.320" end="00:15:29.279" style="s2">according to wired uk magazine um</p>
+<p begin="00:15:27.839" end="00:15:30.880" style="s2">the most important lesson i learned from</p>
+<p begin="00:15:29.279" end="00:15:31.920" style="s2">this side project</p>
+<p begin="00:15:30.880" end="00:15:34.399" style="s2">is if you&#39;re going to host something</p>
+<p begin="00:15:31.920" end="00:15:34.639" style="s2">like this don&#39;t hook up the hosting to</p>
+<p begin="00:15:34.399" end="00:15:36.079" style="s2">an</p>
+<p begin="00:15:34.639" end="00:15:37.920" style="s2">email address that you don&#39;t check on</p>
+<p begin="00:15:36.079" end="00:15:39.519" style="s2">the credit card that expires and have</p>
+<p begin="00:15:37.920" end="00:15:41.279" style="s2">backups on the same host</p>
+<p begin="00:15:39.519" end="00:15:42.880" style="s2">because i stopped paying attention for a</p>
+<p begin="00:15:41.279" end="00:15:45.839" style="s2">couple of months and</p>
+<p begin="00:15:42.880" end="00:15:47.199" style="s2">the credit card expired and the hosting</p>
+<p begin="00:15:45.839" end="00:15:48.240" style="s2">provider deleted the data and the</p>
+<p begin="00:15:47.199" end="00:15:51.199" style="s2">backups were gone</p>
+<p begin="00:15:48.240" end="00:15:52.480" style="s2">and it was really upsetting um and so a</p>
+<p begin="00:15:51.199" end="00:15:53.920" style="s2">really important lesson i</p>
+<p begin="00:15:52.480" end="00:15:55.920" style="s2">learnt from this is if you&#39;re building</p>
+<p begin="00:15:53.920" end="00:15:57.759" style="s2">side projects building side projects</p>
+<p begin="00:15:55.920" end="00:15:59.600" style="s2">that are responsible for user data where</p>
+<p begin="00:15:57.759" end="00:16:01.120" style="s2">you&#39;ve got users actually trusting your</p>
+<p begin="00:15:59.600" end="00:16:02.800" style="s2">side project with their stuff</p>
+<p begin="00:16:01.120" end="00:16:04.720" style="s2">it&#39;s generally really a bad idea because</p>
+<p begin="00:16:02.800" end="00:16:05.440" style="s2">if you do that it&#39;s not a side project</p>
+<p begin="00:16:04.720" end="00:16:07.680" style="s2">it&#39;s a job</p>
+<p begin="00:16:05.440" end="00:16:09.360" style="s2">right it&#39;s you have this responsibility</p>
+<p begin="00:16:07.680" end="00:16:12.399" style="s2">that really matters</p>
+<p begin="00:16:09.360" end="00:16:15.519" style="s2">um so i took that lesson and</p>
+<p begin="00:16:12.399" end="00:16:18.240" style="s2">completely ignored it um so uh</p>
+<p begin="00:16:15.519" end="00:16:19.120" style="s2">in 2010 uh natalie dan myself got</p>
+<p begin="00:16:18.240" end="00:16:21.040" style="s2">married um</p>
+<p begin="00:16:19.120" end="00:16:22.720" style="s2">and we had a golden eagles dog wedding</p>
+<p begin="00:16:21.040" end="00:16:24.399" style="s2">which was awesome um</p>
+<p begin="00:16:22.720" end="00:16:26.480" style="s2">and then we decided that we were going</p>
+<p begin="00:16:24.399" end="00:16:27.839" style="s2">to quit our jobs and go off from</p>
+<p begin="00:16:26.480" end="00:16:29.920" style="s2">honeymoon for as long as we could get</p>
+<p begin="00:16:27.839" end="00:16:31.199" style="s2">away with so take our laptops travel</p>
+<p begin="00:16:29.920" end="00:16:32.880" style="s2">around the world try and like</p>
+<p begin="00:16:31.199" end="00:16:35.279" style="s2">earn money from freelance clients and</p>
+<p begin="00:16:32.880" end="00:16:36.079" style="s2">that kind of thing and we got as far as</p>
+<p begin="00:16:35.279" end="00:16:40.079" style="s2">morocco</p>
+<p begin="00:16:36.079" end="00:16:41.279" style="s2">um this is uh so oh i&#39;m not sure i can&#39;t</p>
+<p begin="00:16:40.079" end="00:16:41.920" style="s2">remember where we took that photograph</p>
+<p begin="00:16:41.279" end="00:16:44.959" style="s2">actually</p>
+<p begin="00:16:41.920" end="00:16:46.959" style="s2">um and we discovered the client work was</p>
+<p begin="00:16:44.959" end="00:16:48.720" style="s2">a bit tricky because you have unreliable</p>
+<p begin="00:16:46.959" end="00:16:50.560" style="s2">internet and you know inevitably on the</p>
+<p begin="00:16:48.720" end="00:16:52.000" style="s2">day when you&#39;ve got access to a good</p>
+<p begin="00:16:50.560" end="00:16:53.199" style="s2">internet connection the client hasn&#39;t</p>
+<p begin="00:16:52.000" end="00:16:54.160" style="s2">sent you the thing they said they were</p>
+<p begin="00:16:53.199" end="00:16:56.079" style="s2">going to send you</p>
+<p begin="00:16:54.160" end="00:16:58.000" style="s2">but working on side projects together</p>
+<p begin="00:16:56.079" end="00:16:59.839" style="s2">was great that&#39;s very compatible with</p>
+<p begin="00:16:58.000" end="00:17:01.199" style="s2">riding around on camels and and having</p>
+<p begin="00:16:59.839" end="00:17:03.440" style="s2">fun exploring things</p>
+<p begin="00:17:01.199" end="00:17:05.199" style="s2">um and so we started building the side</p>
+<p begin="00:17:03.440" end="00:17:06.880" style="s2">project that was</p>
+<p begin="00:17:05.199" end="00:17:08.720" style="s2">basically it was to solve a problem we</p>
+<p begin="00:17:06.880" end="00:17:10.880" style="s2">were having which was that</p>
+<p begin="00:17:08.720" end="00:17:12.640" style="s2">our friends kept on going to really cool</p>
+<p begin="00:17:10.880" end="00:17:14.160" style="s2">events and conferences and things</p>
+<p begin="00:17:12.640" end="00:17:16.160" style="s2">which we hadn&#39;t heard of and so we were</p>
+<p begin="00:17:14.160" end="00:17:18.000" style="s2">missing out um</p>
+<p begin="00:17:16.160" end="00:17:20.000" style="s2">and we ended up we had a launch party</p>
+<p begin="00:17:18.000" end="00:17:20.400" style="s2">for our side project at rick&#39;s cafe</p>
+<p begin="00:17:20.000" end="00:17:22.640" style="s2">which</p>
+<p begin="00:17:20.400" end="00:17:24.160" style="s2">actually exists in casablanca which is</p>
+<p begin="00:17:22.640" end="00:17:25.360" style="s2">very exciting um</p>
+<p begin="00:17:24.160" end="00:17:28.000" style="s2">and we released the site called</p>
+<p begin="00:17:25.360" end="00:17:30.000" style="s2">lanyard.com and lanyard was the um</p>
+<p begin="00:17:28.000" end="00:17:31.280" style="s2">the social conference directory the idea</p>
+<p begin="00:17:30.000" end="00:17:33.440" style="s2">was it&#39;s a site where</p>
+<p begin="00:17:31.280" end="00:17:35.440" style="s2">you could go to see what conferences</p>
+<p begin="00:17:33.440" end="00:17:35.760" style="s2">people you know are going to or speaking</p>
+<p begin="00:17:35.440" end="00:17:37.120" style="s2">at</p>
+<p begin="00:17:35.760" end="00:17:38.799" style="s2">and add your own conferences and</p>
+<p begin="00:17:37.120" end="00:17:40.000" style="s2">generally do that and we i remember when</p>
+<p begin="00:17:38.799" end="00:17:40.480" style="s2">we built it we were thinking you know</p>
+<p begin="00:17:40.000" end="00:17:42.080" style="s2">what</p>
+<p begin="00:17:40.480" end="00:17:43.840" style="s2">even in tech there&#39;s at least 100</p>
+<p begin="00:17:42.080" end="00:17:44.720" style="s2">conferences here there must be thousands</p>
+<p begin="00:17:43.840" end="00:17:46.640" style="s2">of conferences</p>
+<p begin="00:17:44.720" end="00:17:49.039" style="s2">in all of the industries which was</p>
+<p begin="00:17:46.640" end="00:17:52.640" style="s2">underestimating by about a factor of 100</p>
+<p begin="00:17:49.039" end="00:17:53.360" style="s2">um but the key idea was um you sign in</p>
+<p begin="00:17:52.640" end="00:17:54.960" style="s2">with twitter</p>
+<p begin="00:17:53.360" end="00:17:56.960" style="s2">we look at who you follow on twitter and</p>
+<p begin="00:17:54.960" end="00:17:59.360" style="s2">we show you events that those people</p>
+<p begin="00:17:56.960" end="00:18:01.039" style="s2">are going to or speaking at and the</p>
+<p begin="00:17:59.360" end="00:18:02.160" style="s2">speaking app bit turned out to be</p>
+<p begin="00:18:01.039" end="00:18:04.480" style="s2">crucial because</p>
+<p begin="00:18:02.160" end="00:18:06.240" style="s2">when we added conference we&#39;d list the</p>
+<p begin="00:18:04.480" end="00:18:08.000" style="s2">speakers by their twitter ids which</p>
+<p begin="00:18:06.240" end="00:18:10.160" style="s2">meant that on the first day we launched</p>
+<p begin="00:18:08.000" end="00:18:12.400" style="s2">um there was just natalie and i working</p>
+<p begin="00:18:10.160" end="00:18:14.320" style="s2">on the site but we had over 100</p>
+<p begin="00:18:12.400" end="00:18:16.000" style="s2">profiles of users because they were</p>
+<p begin="00:18:14.320" end="00:18:17.200" style="s2">people who were speaking at conferences</p>
+<p begin="00:18:16.000" end="00:18:19.440" style="s2">that we had listed</p>
+<p begin="00:18:17.200" end="00:18:20.960" style="s2">and that meant that anyone who signed in</p>
+<p begin="00:18:19.440" end="00:18:22.240" style="s2">who followed one of these people would</p>
+<p begin="00:18:20.960" end="00:18:24.080" style="s2">get a recommendation</p>
+<p begin="00:18:22.240" end="00:18:26.400" style="s2">and speakers have a lot of followers and</p>
+<p begin="00:18:24.080" end="00:18:28.799" style="s2">so the thing went naturally viral</p>
+<p begin="00:18:26.400" end="00:18:29.919" style="s2">and within within a few days it was it</p>
+<p begin="00:18:28.799" end="00:18:31.760" style="s2">was going far</p>
+<p begin="00:18:29.919" end="00:18:33.440" style="s2">far beyond what we thought it was what</p>
+<p begin="00:18:31.760" end="00:18:34.799" style="s2">we ever expected from this this little</p>
+<p begin="00:18:33.440" end="00:18:36.559" style="s2">side project we were building</p>
+<p begin="00:18:34.799" end="00:18:38.480" style="s2">on our honeymoon um so you had</p>
+<p begin="00:18:36.559" end="00:18:39.840" style="s2">conference listings pages and profile</p>
+<p begin="00:18:38.480" end="00:18:41.760" style="s2">pages where you can see</p>
+<p begin="00:18:39.840" end="00:18:44.000" style="s2">the events that people have given given</p>
+<p begin="00:18:41.760" end="00:18:45.760" style="s2">we have vid embedded videos and slides</p>
+<p begin="00:18:44.000" end="00:18:47.760" style="s2">and all of that kind of stuff</p>
+<p begin="00:18:45.760" end="00:18:49.280" style="s2">and so this you know i said the golden</p>
+<p begin="00:18:47.760" end="00:18:51.039" style="s2">rulers don&#39;t build a side project with</p>
+<p begin="00:18:49.280" end="00:18:52.320" style="s2">user data this was a side project with</p>
+<p begin="00:18:51.039" end="00:18:55.360" style="s2">user data and it was</p>
+<p begin="00:18:52.320" end="00:18:56.559" style="s2">um taking off way way faster than we&#39;d</p>
+<p begin="00:18:55.360" end="00:18:58.320" style="s2">ever expected</p>
+<p begin="00:18:56.559" end="00:19:00.320" style="s2">so we ended up cutting honeymoon short</p>
+<p begin="00:18:58.320" end="00:19:03.679" style="s2">and applying for y combinator</p>
+<p begin="00:19:00.320" end="00:19:07.280" style="s2">um from luxor in egypt</p>
+<p begin="00:19:03.679" end="00:19:08.000" style="s2">um i i uh we have a y combinator ask you</p>
+<p begin="00:19:07.280" end="00:19:10.880" style="s2">to send in</p>
+<p begin="00:19:08.000" end="00:19:11.520" style="s2">a um application video like a 60 second</p>
+<p begin="00:19:10.880" end="00:19:14.400" style="s2">video</p>
+<p begin="00:19:11.520" end="00:19:16.240" style="s2">ours has the has no it was as fine</p>
+<p begin="00:19:14.400" end="00:19:18.480" style="s2">wasn&#39;t it ours has a</p>
+<p begin="00:19:16.240" end="00:19:20.400" style="s2">an egyptian temple in the background</p>
+<p begin="00:19:18.480" end="00:19:21.600" style="s2">which we decided to to have there as</p>
+<p begin="00:19:20.400" end="00:19:23.280" style="s2">a sort of background thing but not</p>
+<p begin="00:19:21.600" end="00:19:24.000" style="s2">actually mentioning in the spiel that we</p>
+<p begin="00:19:23.280" end="00:19:27.120" style="s2">gave</p>
+<p begin="00:19:24.000" end="00:19:30.320" style="s2">um we got accepted into y combinator in</p>
+<p begin="00:19:27.120" end="00:19:33.120" style="s2">for the winter 2000 and</p>
+<p begin="00:19:30.320" end="00:19:33.600" style="s2">winter 2011. um what was it i can&#39;t</p>
+<p begin="00:19:33.120" end="00:19:36.160" style="s2">remember</p>
+<p begin="00:19:33.600" end="00:19:37.520" style="s2">went to 2011 um ended up cutting a</p>
+<p begin="00:19:36.160" end="00:19:39.120" style="s2">honeymoon shield moving out to mountain</p>
+<p begin="00:19:37.520" end="00:19:39.679" style="s2">view and spending three months doing the</p>
+<p begin="00:19:39.120" end="00:19:42.080" style="s2">whole</p>
+<p begin="00:19:39.679" end="00:19:43.039" style="s2">i combinator thing after which we moved</p>
+<p begin="00:19:42.080" end="00:19:44.880" style="s2">back to london</p>
+<p begin="00:19:43.039" end="00:19:46.720" style="s2">and raised money from investors and we</p>
+<p begin="00:19:44.880" end="00:19:49.120" style="s2">hired a team and we spent</p>
+<p begin="00:19:46.720" end="00:19:50.480" style="s2">three years doing the turning turning</p>
+<p begin="00:19:49.120" end="00:19:52.799" style="s2">landed into a startup</p>
+<p begin="00:19:50.480" end="00:19:54.960" style="s2">um well it was a startup trying to</p>
+<p begin="00:19:52.799" end="00:19:58.080" style="s2">figure out how to evolve it as a startup</p>
+<p begin="00:19:54.960" end="00:20:01.360" style="s2">and then in 2013 we negotiated a</p>
+<p begin="00:19:58.080" end="00:20:02.240" style="s2">um exit uh language was acquired by</p>
+<p begin="00:20:01.360" end="00:20:05.200" style="s2">eventbrite</p>
+<p begin="00:20:02.240" end="00:20:06.240" style="s2">um the entire team all six of us i think</p>
+<p begin="00:20:05.200" end="00:20:08.559" style="s2">ten including</p>
+<p begin="00:20:06.240" end="00:20:09.840" style="s2">family members moved out to um moved out</p>
+<p begin="00:20:08.559" end="00:20:12.559" style="s2">to san francisco</p>
+<p begin="00:20:09.840" end="00:20:14.000" style="s2">um and to be honest uh one of the</p>
+<p begin="00:20:12.559" end="00:20:17.039" style="s2">reasons we sold</p>
+<p begin="00:20:14.000" end="00:20:18.159" style="s2">is we had the we had to choose between</p>
+<p begin="00:20:17.039" end="00:20:20.799" style="s2">finding an acquisition</p>
+<p begin="00:20:18.159" end="00:20:21.679" style="s2">or raising a series a and when you raise</p>
+<p begin="00:20:20.799" end="00:20:23.840" style="s2">a series a</p>
+<p begin="00:20:21.679" end="00:20:25.440" style="s2">that commits you to another five to ten</p>
+<p begin="00:20:23.840" end="00:20:26.559" style="s2">years working on that project right</p>
+<p begin="00:20:25.440" end="00:20:28.559" style="s2">that&#39;s that&#39;s a</p>
+<p begin="00:20:26.559" end="00:20:29.919" style="s2">that is locking yourself into a track</p>
+<p begin="00:20:28.559" end="00:20:30.720" style="s2">and one of the questions we had to ask</p>
+<p begin="00:20:29.919" end="00:20:32.320" style="s2">ourselves was</p>
+<p begin="00:20:30.720" end="00:20:34.000" style="s2">is this the project we want to spend the</p>
+<p begin="00:20:32.320" end="00:20:36.880" style="s2">next 10 years of our life working</p>
+<p begin="00:20:34.000" end="00:20:38.159" style="s2">on and honestly we enjoyed the project</p>
+<p begin="00:20:36.880" end="00:20:39.440" style="s2">we thought it was valuable and useful</p>
+<p begin="00:20:38.159" end="00:20:41.679" style="s2">but it wasn&#39;t that</p>
+<p begin="00:20:39.440" end="00:20:43.600" style="s2">it didn&#39;t have that this is the thing we</p>
+<p begin="00:20:41.679" end="00:20:44.480" style="s2">want to dedicate ourselves to vibes so</p>
+<p begin="00:20:43.600" end="00:20:48.240" style="s2">it was um</p>
+<p begin="00:20:44.480" end="00:20:48.880" style="s2">we we found a we found a an acquisition</p>
+<p begin="00:20:48.240" end="00:20:50.480" style="s2">target that</p>
+<p begin="00:20:48.880" end="00:20:52.240" style="s2">did did well for the investors for</p>
+<p begin="00:20:50.480" end="00:20:54.080" style="s2">ourselves and for our team and</p>
+<p begin="00:20:52.240" end="00:20:56.240" style="s2">and you know i think it worked out</p>
+<p begin="00:20:54.080" end="00:20:59.360" style="s2">pretty well um</p>
+<p begin="00:20:56.240" end="00:21:01.120" style="s2">so i spent six years at eventbrite and i</p>
+<p begin="00:20:59.360" end="00:21:04.159" style="s2">got to ride the</p>
+<p begin="00:21:01.120" end="00:21:04.640" style="s2">i got to ride the um that hockey stick</p>
+<p begin="00:21:04.159" end="00:21:07.679" style="s2">from</p>
+<p begin="00:21:04.640" end="00:21:09.600" style="s2">i think it was like 150 people joined it</p>
+<p begin="00:21:07.679" end="00:21:10.080" style="s2">was over a thousand people when we left</p>
+<p begin="00:21:09.600" end="00:21:12.480" style="s2">so</p>
+<p begin="00:21:10.080" end="00:21:13.760" style="s2">in a way by getting up by selling our</p>
+<p begin="00:21:12.480" end="00:21:15.600" style="s2">startup to another company we got to</p>
+<p begin="00:21:13.760" end="00:21:16.320" style="s2">jump about five years ahead in startup</p>
+<p begin="00:21:15.600" end="00:21:17.679" style="s2">trajectory</p>
+<p begin="00:21:16.320" end="00:21:19.840" style="s2">and see what it was like to go through</p>
+<p begin="00:21:17.679" end="00:21:22.000" style="s2">that that crazy period of growth</p>
+<p begin="00:21:19.840" end="00:21:23.520" style="s2">um and remember one of the things one of</p>
+<p begin="00:21:22.000" end="00:21:25.440" style="s2">the things i discovered was the joy of</p>
+<p begin="00:21:23.520" end="00:21:27.600" style="s2">internal company side projects</p>
+<p begin="00:21:25.440" end="00:21:30.240" style="s2">um so i moved into an engineering</p>
+<p begin="00:21:27.600" end="00:21:30.559" style="s2">management role and one of the one of</p>
+<p begin="00:21:30.240" end="00:21:32.799" style="s2">the</p>
+<p begin="00:21:30.559" end="00:21:34.880" style="s2">truths of engineering management is you</p>
+<p begin="00:21:32.799" end="00:21:36.400" style="s2">can still work on code but you can never</p>
+<p begin="00:21:34.880" end="00:21:37.280" style="s2">put yourself in the critical path of</p>
+<p begin="00:21:36.400" end="00:21:39.440" style="s2">getting anything</p>
+<p begin="00:21:37.280" end="00:21:41.200" style="s2">shipped because if you do that it just</p>
+<p begin="00:21:39.440" end="00:21:42.960" style="s2">leads to terrible management and</p>
+<p begin="00:21:41.200" end="00:21:44.080" style="s2">terrible terrible contributions and it</p>
+<p begin="00:21:42.960" end="00:21:45.919" style="s2">seizes everything up</p>
+<p begin="00:21:44.080" end="00:21:47.600" style="s2">but if you want to keep your sort of</p>
+<p begin="00:21:45.919" end="00:21:50.159" style="s2">technical brain ticking over</p>
+<p begin="00:21:47.600" end="00:21:51.039" style="s2">it&#39;s great to have projects that you can</p>
+<p begin="00:21:50.159" end="00:21:53.360" style="s2">you can work on</p>
+<p begin="00:21:51.039" end="00:21:54.880" style="s2">um and so my favorite internal side</p>
+<p begin="00:21:53.360" end="00:21:56.960" style="s2">project was um</p>
+<p begin="00:21:54.880" end="00:21:58.320" style="s2">this thing here um i called it doc</p>
+<p begin="00:21:56.960" end="00:21:59.679" style="s2">search um</p>
+<p begin="00:21:58.320" end="00:22:01.440" style="s2">we really i realized that november right</p>
+<p begin="00:21:59.679" end="00:22:03.679" style="s2">we had this problem where everyone</p>
+<p begin="00:22:01.440" end="00:22:05.840" style="s2">thought our documentation was terrible</p>
+<p begin="00:22:03.679" end="00:22:08.000" style="s2">our documentation was amazing but it was</p>
+<p begin="00:22:05.840" end="00:22:10.720" style="s2">in ten different systems it was in</p>
+<p begin="00:22:08.000" end="00:22:12.320" style="s2">confluence and github wikis and um jira</p>
+<p begin="00:22:10.720" end="00:22:13.440" style="s2">tickets and um</p>
+<p begin="00:22:12.320" end="00:22:15.600" style="s2">something called this thing called</p>
+<p begin="00:22:13.440" end="00:22:16.000" style="s2">continue and the support website all of</p>
+<p begin="00:22:15.600" end="00:22:18.320" style="s2">this</p>
+<p begin="00:22:16.000" end="00:22:20.320" style="s2">google docs and all of this stuff and so</p>
+<p begin="00:22:18.320" end="00:22:22.159" style="s2">i built a side project where</p>
+<p begin="00:22:20.320" end="00:22:23.600" style="s2">basically it would run a bunch of um</p>
+<p begin="00:22:22.159" end="00:22:25.440" style="s2">scheduled crons</p>
+<p begin="00:22:23.600" end="00:22:27.200" style="s2">pull in the content from all 10</p>
+<p begin="00:22:25.440" end="00:22:28.080" style="s2">different systems stick it in a single</p>
+<p begin="00:22:27.200" end="00:22:30.000" style="s2">search index</p>
+<p begin="00:22:28.080" end="00:22:32.000" style="s2">and give you an interface over the top</p>
+<p begin="00:22:30.000" end="00:22:32.880" style="s2">and so here i can search for varnish and</p>
+<p begin="00:22:32.000" end="00:22:34.159" style="s2">it shows me</p>
+<p begin="00:22:32.880" end="00:22:36.000" style="s2">all of the documents that mention</p>
+<p begin="00:22:34.159" end="00:22:37.679" style="s2">varnish across google docs and</p>
+<p begin="00:22:36.000" end="00:22:39.679" style="s2">confluence and so on</p>
+<p begin="00:22:37.679" end="00:22:41.280" style="s2">and um great thing about side projects</p>
+<p begin="00:22:39.679" end="00:22:42.799" style="s2">like this is</p>
+<p begin="00:22:41.280" end="00:22:45.840" style="s2">nobody gets to tell you what it should</p>
+<p begin="00:22:42.799" end="00:22:47.840" style="s2">do so at one point i got a little over</p>
+<p begin="00:22:45.840" end="00:22:48.640" style="s2">excited and decided to add facet by</p>
+<p begin="00:22:47.840" end="00:22:50.480" style="s2">emoji</p>
+<p begin="00:22:48.640" end="00:22:52.159" style="s2">so you can you can so we get a list of</p>
+<p begin="00:22:50.480" end="00:22:54.240" style="s2">the emoji that show up in the different</p>
+<p begin="00:22:52.159" end="00:22:55.840" style="s2">documents and if you just want to see</p>
+<p begin="00:22:54.240" end="00:22:57.520" style="s2">the varnish documentation</p>
+<p begin="00:22:55.840" end="00:22:59.840" style="s2">that includes the rainbow emoji you can</p>
+<p begin="00:22:57.520" end="00:23:02.000" style="s2">click on that and and see it that way</p>
+<p begin="00:22:59.840" end="00:23:03.440" style="s2">um i added glossary at the top and that</p>
+<p begin="00:23:02.000" end="00:23:04.799" style="s2">kind of thing and this was part of</p>
+<p begin="00:23:03.440" end="00:23:07.440" style="s2">eventbrite&#39;s culture as well</p>
+<p begin="00:23:04.799" end="00:23:09.360" style="s2">is eventbrite as many companies do um</p>
+<p begin="00:23:07.440" end="00:23:10.480" style="s2">had hack days so a few times a year we&#39;d</p>
+<p begin="00:23:09.360" end="00:23:11.679" style="s2">have a day where</p>
+<p begin="00:23:10.480" end="00:23:13.760" style="s2">everyone gets to drop what they&#39;re</p>
+<p begin="00:23:11.679" end="00:23:16.480" style="s2">supposed to be doing and work on a</p>
+<p begin="00:23:13.760" end="00:23:18.240" style="s2">creative project that lets them try out</p>
+<p begin="00:23:16.480" end="00:23:20.480" style="s2">new technology or experiment with ideas</p>
+<p begin="00:23:18.240" end="00:23:22.240" style="s2">they think would be interesting</p>
+<p begin="00:23:20.480" end="00:23:23.679" style="s2">and i adore hack days we did them at the</p>
+<p begin="00:23:22.240" end="00:23:25.520" style="s2">guardian um i was in</p>
+<p begin="00:23:23.679" end="00:23:27.360" style="s2">i was used to i worked a long time ago i</p>
+<p begin="00:23:25.520" end="00:23:29.280" style="s2">worked at yahoo where i was part of the</p>
+<p begin="00:23:27.360" end="00:23:31.440" style="s2">team that started the first yahoo hack</p>
+<p begin="00:23:29.280" end="00:23:34.159" style="s2">day and i feel like it&#39;s a really useful</p>
+<p begin="00:23:31.440" end="00:23:36.559" style="s2">release valve for larger companies to</p>
+<p begin="00:23:34.159" end="00:23:37.760" style="s2">to to make sure that people don&#39;t just</p>
+<p begin="00:23:36.559" end="00:23:40.240" style="s2">get burned out</p>
+<p begin="00:23:37.760" end="00:23:41.520" style="s2">and um complete and frustrated that</p>
+<p begin="00:23:40.240" end="00:23:42.880" style="s2">they&#39;re not getting to explore</p>
+<p begin="00:23:41.520" end="00:23:44.640" style="s2">outside of the projects they&#39;re working</p>
+<p begin="00:23:42.880" end="00:23:47.679" style="s2">on in the day-to-day</p>
+<p begin="00:23:44.640" end="00:23:49.840" style="s2">um but</p>
+<p begin="00:23:47.679" end="00:23:50.799" style="s2">i&#39;ve come so one of the other side</p>
+<p begin="00:23:49.840" end="00:23:53.039" style="s2">projects well</p>
+<p begin="00:23:50.799" end="00:23:54.640" style="s2">a more recent side project i worked on</p>
+<p begin="00:23:53.039" end="00:23:55.520" style="s2">um was something which i think</p>
+<p begin="00:23:54.640" end="00:23:58.640" style="s2">illustrates</p>
+<p begin="00:23:55.520" end="00:24:00.960" style="s2">the ideals um the ideal</p>
+<p begin="00:23:58.640" end="00:24:02.480" style="s2">um the ideal characteristics side</p>
+<p begin="00:24:00.960" end="00:24:04.960" style="s2">project um i showed you</p>
+<p begin="00:24:02.480" end="00:24:06.960" style="s2">azneau.com earlier this website is</p>
+<p begin="00:24:04.960" end="00:24:08.360" style="s2">called owl&#39;s near me</p>
+<p begin="00:24:06.960" end="00:24:10.000" style="s2">and you can go there right now it&#39;s</p>
+<p begin="00:24:08.360" end="00:24:12.960" style="s2">housenearme.com</p>
+<p begin="00:24:10.000" end="00:24:15.039" style="s2">um natalie and i built this uh on super</p>
+<p begin="00:24:12.960" end="00:24:17.440" style="s2">super bowl sunday a few years ago</p>
+<p begin="00:24:15.039" end="00:24:18.799" style="s2">because in england everyone makes fun of</p>
+<p begin="00:24:17.440" end="00:24:21.120" style="s2">it and calls it superb</p>
+<p begin="00:24:18.799" end="00:24:22.640" style="s2">owl sunday so we figured it was a good</p>
+<p begin="00:24:21.120" end="00:24:25.919" style="s2">day to be promoting a superb</p>
+<p begin="00:24:22.640" end="00:24:27.919" style="s2">owl website and so alznemy.com</p>
+<p begin="00:24:25.919" end="00:24:29.679" style="s2">you go there you click use my location</p>
+<p begin="00:24:27.919" end="00:24:30.480" style="s2">and it shows you where your nearest owl</p>
+<p begin="00:24:29.679" end="00:24:32.480" style="s2">is</p>
+<p begin="00:24:30.480" end="00:24:34.480" style="s2">um but why it does it is it uses this</p>
+<p begin="00:24:32.480" end="00:24:34.960" style="s2">amazing website called inaturalist which</p>
+<p begin="00:24:34.480" end="00:24:37.840" style="s2">is</p>
+<p begin="00:24:34.960" end="00:24:39.520" style="s2">somebody else&#39;s crowdsource project to</p>
+<p begin="00:24:37.840" end="00:24:42.360" style="s2">gather where people have seen things</p>
+<p begin="00:24:39.520" end="00:24:43.520" style="s2">um and it&#39;s got a really good api so</p>
+<p begin="00:24:42.360" end="00:24:46.240" style="s2">owlsnewme.com</p>
+<p begin="00:24:43.520" end="00:24:47.919" style="s2">is a tiny little piece of html in</p>
+<p begin="00:24:46.240" end="00:24:49.039" style="s2">javascript it&#39;s little react app it</p>
+<p begin="00:24:47.919" end="00:24:52.960" style="s2">talks this api</p>
+<p begin="00:24:49.039" end="00:24:55.600" style="s2">it has no database it&#39;s just static html</p>
+<p begin="00:24:52.960" end="00:24:56.400" style="s2">and it&#39;s absolutely the best kind of um</p>
+<p begin="00:24:55.600" end="00:24:58.480" style="s2">side project</p>
+<p begin="00:24:56.400" end="00:25:00.480" style="s2">it&#39;s cheap to host and it can&#39;t break i</p>
+<p begin="00:24:58.480" end="00:25:01.120" style="s2">don&#39;t have to worry about server backups</p>
+<p begin="00:25:00.480" end="00:25:04.240" style="s2">and</p>
+<p begin="00:25:01.120" end="00:25:04.880" style="s2">um unix systems administration all of</p>
+<p begin="00:25:04.240" end="00:25:06.080" style="s2">that</p>
+<p begin="00:25:04.880" end="00:25:07.760" style="s2">all of the data comes from somebody</p>
+<p begin="00:25:06.080" end="00:25:08.960" style="s2">else&#39;s api so we&#39;re not responsible for</p>
+<p begin="00:25:07.760" end="00:25:10.400" style="s2">any of that stuff</p>
+<p begin="00:25:08.960" end="00:25:12.799" style="s2">and we&#39;re not responsible for any user</p>
+<p begin="00:25:10.400" end="00:25:14.320" style="s2">data either so there is basically</p>
+<p begin="00:25:12.799" end="00:25:16.320" style="s2">nothing that can go wrong with this</p>
+<p begin="00:25:14.320" end="00:25:18.320" style="s2">which i think makes it the the perfect</p>
+<p begin="00:25:16.320" end="00:25:21.919" style="s2">side project it&#39;s super fun</p>
+<p begin="00:25:18.320" end="00:25:22.720" style="s2">um like it&#39;s it&#39;s it&#39;s people really</p>
+<p begin="00:25:21.919" end="00:25:25.360" style="s2">enjoy it</p>
+<p begin="00:25:22.720" end="00:25:26.840" style="s2">and it&#39;s almost no mental overhead at</p>
+<p begin="00:25:25.360" end="00:25:30.320" style="s2">all on us</p>
+<p begin="00:25:26.840" end="00:25:32.480" style="s2">um but i did end up</p>
+<p begin="00:25:30.320" end="00:25:33.919" style="s2">working on a new kite for me a sort of</p>
+<p begin="00:25:32.480" end="00:25:35.360" style="s2">new kind of side project</p>
+<p begin="00:25:33.919" end="00:25:37.840" style="s2">which is the thing that&#39;s that&#39;s</p>
+<p begin="00:25:35.360" end="00:25:40.640" style="s2">beginning to take over</p>
+<p begin="00:25:37.840" end="00:25:42.400" style="s2">my career now so um about so almost</p>
+<p begin="00:25:40.640" end="00:25:43.679" style="s2">exactly three years ago um when i was</p>
+<p begin="00:25:42.400" end="00:25:45.840" style="s2">still at eventbrite</p>
+<p begin="00:25:43.679" end="00:25:47.440" style="s2">i started this project called dataset</p>
+<p begin="00:25:45.840" end="00:25:49.919" style="s2">which is an open source project</p>
+<p begin="00:25:47.440" end="00:25:51.360" style="s2">to help people explore analyze and</p>
+<p begin="00:25:49.919" end="00:25:53.120" style="s2">publish their data</p>
+<p begin="00:25:51.360" end="00:25:54.799" style="s2">and the inspiration for this was some</p>
+<p begin="00:25:53.120" end="00:25:57.039" style="s2">work that they&#39;d back at the guardian</p>
+<p begin="00:25:54.799" end="00:25:58.480" style="s2">um when i first joined the guardian um</p>
+<p begin="00:25:57.039" end="00:26:00.480" style="s2">one of the people i met there was a</p>
+<p begin="00:25:58.480" end="00:26:01.039" style="s2">reporter called simon rodgers who was</p>
+<p begin="00:26:00.480" end="00:26:03.840" style="s2">the</p>
+<p begin="00:26:01.039" end="00:26:04.799" style="s2">guardian&#39;s sort of data nerd reporter he</p>
+<p begin="00:26:03.840" end="00:26:06.320" style="s2">sat in the newsroom</p>
+<p begin="00:26:04.799" end="00:26:08.320" style="s2">and he had a hard drive full of excel</p>
+<p begin="00:26:06.320" end="00:26:11.039" style="s2">spreadsheets and anytime somebody wanted</p>
+<p begin="00:26:08.320" end="00:26:12.640" style="s2">to do a visualization an infographic</p>
+<p begin="00:26:11.039" end="00:26:14.240" style="s2">simon rodgers was the person they&#39;d ask</p>
+<p begin="00:26:12.640" end="00:26:16.159" style="s2">for the data and he</p>
+<p begin="00:26:14.240" end="00:26:17.520" style="s2">he could get your data on absolutely</p>
+<p begin="00:26:16.159" end="00:26:19.600" style="s2">anything he was like</p>
+<p begin="00:26:17.520" end="00:26:21.520" style="s2">phoning up russian cultural departments</p>
+<p begin="00:26:19.600" end="00:26:22.880" style="s2">and and arguing them over the phone and</p>
+<p begin="00:26:21.520" end="00:26:24.480" style="s2">trying to get them to email him things</p>
+<p begin="00:26:22.880" end="00:26:25.039" style="s2">and so on he was absolutely amazing at</p>
+<p begin="00:26:24.480" end="00:26:27.440" style="s2">it</p>
+<p begin="00:26:25.039" end="00:26:29.600" style="s2">um and so i said to him you&#39;ve got all</p>
+<p begin="00:26:27.440" end="00:26:31.200" style="s2">of these spreadsheets</p>
+<p begin="00:26:29.600" end="00:26:32.880" style="s2">what happens to them he goes oh i&#39;ve got</p>
+<p begin="00:26:31.200" end="00:26:34.480" style="s2">them archived on my hard drive and so he</p>
+<p begin="00:26:32.880" end="00:26:36.559" style="s2">had a hard drive with</p>
+<p begin="00:26:34.480" end="00:26:38.159" style="s2">hundreds and hundreds of immaculate</p>
+<p begin="00:26:36.559" end="00:26:40.640" style="s2">excel spreadsheets of data around the</p>
+<p begin="00:26:38.159" end="00:26:40.640" style="s2">world</p>
+<p begin="00:26:40.720" end="00:26:43.679" style="s2">and so we started brainstorming how we</p>
+<p begin="00:26:42.159" end="00:26:44.640" style="s2">could publish this stuff like what more</p>
+<p begin="00:26:43.679" end="00:26:46.000" style="s2">can we do with this</p>
+<p begin="00:26:44.640" end="00:26:47.919" style="s2">we started a thing called the guardian</p>
+<p begin="00:26:46.000" end="00:26:50.400" style="s2">data blog where basically</p>
+<p begin="00:26:47.919" end="00:26:52.159" style="s2">we published things in google sheets so</p>
+<p begin="00:26:50.400" end="00:26:54.240" style="s2">a story we got the newspaper which</p>
+<p begin="00:26:52.159" end="00:26:56.320" style="s2">was with an infographic and then we put</p>
+<p begin="00:26:54.240" end="00:26:57.279" style="s2">a post up on the guardian data blog with</p>
+<p begin="00:26:56.320" end="00:26:59.679" style="s2">a google sheet</p>
+<p begin="00:26:57.279" end="00:27:01.520" style="s2">that had all of that broad data in it</p>
+<p begin="00:26:59.679" end="00:27:04.000" style="s2">and we built up a</p>
+<p begin="00:27:01.520" end="00:27:04.799" style="s2">this worked really well we had a a</p>
+<p begin="00:27:04.000" end="00:27:08.159" style="s2">flicker group</p>
+<p begin="00:27:04.799" end="00:27:10.240" style="s2">of um to databases people</p>
+<p begin="00:27:08.159" end="00:27:12.080" style="s2">who would take data from the guardians</p>
+<p begin="00:27:10.240" end="00:27:12.799" style="s2">data blog and visualize it and remix it</p>
+<p begin="00:27:12.080" end="00:27:15.279" style="s2">and so forth</p>
+<p begin="00:27:12.799" end="00:27:16.320" style="s2">it was fantastic um the one frustration</p>
+<p begin="00:27:15.279" end="00:27:17.760" style="s2">i had with it is</p>
+<p begin="00:27:16.320" end="00:27:19.440" style="s2">i felt like there should be a better way</p>
+<p begin="00:27:17.760" end="00:27:20.000" style="s2">than google sheets of publishing this</p>
+<p begin="00:27:19.440" end="00:27:21.520" style="s2">data</p>
+<p begin="00:27:20.000" end="00:27:23.440" style="s2">right if you&#39;re publishing data to the</p>
+<p begin="00:27:21.520" end="00:27:25.760" style="s2">world is google sheets really the</p>
+<p begin="00:27:23.440" end="00:27:26.720" style="s2">sort of state of the art in data sharing</p>
+<p begin="00:27:25.760" end="00:27:29.279" style="s2">um</p>
+<p begin="00:27:26.720" end="00:27:30.000" style="s2">and so the idea behind data set is to</p>
+<p begin="00:27:29.279" end="00:27:31.919" style="s2">address</p>
+<p begin="00:27:30.000" end="00:27:33.120" style="s2">the unit originally to address exactly</p>
+<p begin="00:27:31.919" end="00:27:34.559" style="s2">that problem and</p>
+<p begin="00:27:33.120" end="00:27:35.919" style="s2">actually i&#39;ll switch to a demo because</p>
+<p begin="00:27:34.559" end="00:27:36.559" style="s2">that&#39;s the easiest way to show you what</p>
+<p begin="00:27:35.919" end="00:27:38.559" style="s2">this kind of</p>
+<p begin="00:27:36.559" end="00:27:40.640" style="s2">what this thing looks like so dataset is</p>
+<p begin="00:27:38.559" end="00:27:42.559" style="s2">a web application for exploring data</p>
+<p begin="00:27:40.640" end="00:27:44.320" style="s2">plus a bunch of tools for for deploying</p>
+<p begin="00:27:42.559" end="00:27:46.559" style="s2">these web applications online</p>
+<p begin="00:27:44.320" end="00:27:48.399" style="s2">and this is a data set of global power</p>
+<p begin="00:27:46.559" end="00:27:50.480" style="s2">plants by the world resource institute</p>
+<p begin="00:27:48.399" end="00:27:52.720" style="s2">it&#39;s thirty three thousand rivals</p>
+<p begin="00:27:50.480" end="00:27:54.559" style="s2">and i mean it&#39;s a table of data so</p>
+<p begin="00:27:52.720" end="00:27:56.399" style="s2">you&#39;ve got a country in the name and the</p>
+<p begin="00:27:54.559" end="00:27:58.080" style="s2">capacity and latitude and longitude but</p>
+<p begin="00:27:56.399" end="00:27:59.279" style="s2">dataset adds a bunch of extra stuff on</p>
+<p begin="00:27:58.080" end="00:28:01.840" style="s2">top of it it adds</p>
+<p begin="00:27:59.279" end="00:28:02.399" style="s2">um there&#39;s a feature called facets which</p>
+<p begin="00:28:01.840" end="00:28:04.320" style="s2">is</p>
+<p begin="00:28:02.399" end="00:28:05.440" style="s2">essentially pivot tables or group by</p>
+<p begin="00:28:04.320" end="00:28:08.000" style="s2">accounts and sql</p>
+<p begin="00:28:05.440" end="00:28:09.760" style="s2">where it can say okay there are 8 000 um</p>
+<p begin="00:28:08.000" end="00:28:10.559" style="s2">power plants in the united states 4 000</p>
+<p begin="00:28:09.760" end="00:28:12.640" style="s2">in china</p>
+<p begin="00:28:10.559" end="00:28:13.679" style="s2">the primary fuel is solar hydro wind</p>
+<p begin="00:28:12.640" end="00:28:16.320" style="s2">that kind of thing</p>
+<p begin="00:28:13.679" end="00:28:17.679" style="s2">and but it also does um it also has a</p>
+<p begin="00:28:16.320" end="00:28:18.880" style="s2">plug-in mechanism that lets you add</p>
+<p begin="00:28:17.679" end="00:28:21.039" style="s2">visualizations</p>
+<p begin="00:28:18.880" end="00:28:23.440" style="s2">so here i&#39;ve just clicked load all i&#39;m</p>
+<p begin="00:28:21.039" end="00:28:24.960" style="s2">loading all 33 000 power plants in the</p>
+<p begin="00:28:23.440" end="00:28:27.279" style="s2">world onto this map</p>
+<p begin="00:28:24.960" end="00:28:28.559" style="s2">um which instantly starts showing you</p>
+<p begin="00:28:27.279" end="00:28:30.720" style="s2">interesting things like</p>
+<p begin="00:28:28.559" end="00:28:32.240" style="s2">um there are two power plants in</p>
+<p begin="00:28:30.720" end="00:28:35.360" style="s2">antarctica for example</p>
+<p begin="00:28:32.240" end="00:28:38.559" style="s2">um let&#39;s let&#39;s see what those are</p>
+<p begin="00:28:35.360" end="00:28:41.840" style="s2">um here we go um so mcmurdo station</p>
+<p begin="00:28:38.559" end="00:28:44.640" style="s2">has a oil powered generator</p>
+<p begin="00:28:41.840" end="00:28:45.200" style="s2">and they&#39;ve also um got a wind generator</p>
+<p begin="00:28:44.640" end="00:28:46.960" style="s2">down there</p>
+<p begin="00:28:45.200" end="00:28:48.559" style="s2">um owned by meridian energy which is</p>
+<p begin="00:28:46.960" end="00:28:50.559" style="s2">kind of interest</p>
+<p begin="00:28:48.559" end="00:28:51.679" style="s2">thing um but you&#39;ve also with the facets</p>
+<p begin="00:28:50.559" end="00:28:53.279" style="s2">you can do things like</p>
+<p begin="00:28:51.679" end="00:28:55.360" style="s2">um say you know what just show me the</p>
+<p begin="00:28:53.279" end="00:28:56.000" style="s2">new the 198 nuclear power plants in the</p>
+<p begin="00:28:55.360" end="00:28:58.480" style="s2">world</p>
+<p begin="00:28:56.000" end="00:28:59.360" style="s2">of which 61 in the united states 90 new</p>
+<p begin="00:28:58.480" end="00:29:01.679" style="s2">in france</p>
+<p begin="00:28:59.360" end="00:29:02.399" style="s2">let&#39;s click on france now i&#39;m seeing the</p>
+<p begin="00:29:01.679" end="00:29:04.159" style="s2">19</p>
+<p begin="00:29:02.399" end="00:29:05.440" style="s2">nuclear power plants that exist in</p>
+<p begin="00:29:04.159" end="00:29:07.279" style="s2">france um</p>
+<p begin="00:29:05.440" end="00:29:08.880" style="s2">and if i want to do more stuff with that</p>
+<p begin="00:29:07.279" end="00:29:11.200" style="s2">i can export it so anything you can see</p>
+<p begin="00:29:08.880" end="00:29:13.279" style="s2">in here you can get after csv this is a</p>
+<p begin="00:29:11.200" end="00:29:15.360" style="s2">csv file of nuclear power plants in</p>
+<p begin="00:29:13.279" end="00:29:16.640" style="s2">france i can get it out as a json if i</p>
+<p begin="00:29:15.360" end="00:29:19.600" style="s2">want to do</p>
+<p begin="00:29:16.640" end="00:29:19.919" style="s2">visualization work against it um so the</p>
+<p begin="00:29:19.600" end="00:29:22.159" style="s2">core</p>
+<p begin="00:29:19.919" end="00:29:23.039" style="s2">initial idea here was given any shape of</p>
+<p begin="00:29:22.159" end="00:29:25.200" style="s2">data set</p>
+<p begin="00:29:23.039" end="00:29:26.240" style="s2">if you can get it into like relational</p>
+<p begin="00:29:25.200" end="00:29:27.919" style="s2">database tables</p>
+<p begin="00:29:26.240" end="00:29:29.520" style="s2">stick it in a sqlite database because</p>
+<p begin="00:29:27.919" end="00:29:29.840" style="s2">those are very cheap and inexpensive to</p>
+<p begin="00:29:29.520" end="00:29:31.840" style="s2">run</p>
+<p begin="00:29:29.840" end="00:29:33.039" style="s2">you can you can then deploy it online</p>
+<p begin="00:29:31.840" end="00:29:34.399" style="s2">and other people can</p>
+<p begin="00:29:33.039" end="00:29:36.000" style="s2">you can explore it other people can</p>
+<p begin="00:29:34.399" end="00:29:37.440" style="s2">explore it and they can start building</p>
+<p begin="00:29:36.000" end="00:29:40.799" style="s2">integrations against it</p>
+<p begin="00:29:37.440" end="00:29:44.399" style="s2">um and this</p>
+<p begin="00:29:40.799" end="00:29:45.679" style="s2">turned out to be absolutely the perfect</p>
+<p begin="00:29:44.399" end="00:29:48.399" style="s2">project for me</p>
+<p begin="00:29:45.679" end="00:29:48.720" style="s2">because i love side projects and having</p>
+<p begin="00:29:48.399" end="00:29:50.960" style="s2">a</p>
+<p begin="00:29:48.720" end="00:29:52.240" style="s2">side project which itself kicks out more</p>
+<p begin="00:29:50.960" end="00:29:54.960" style="s2">side projects like</p>
+<p begin="00:29:52.240" end="00:29:55.440" style="s2">i can do global power plants one day and</p>
+<p begin="00:29:54.960" end="00:29:58.480" style="s2">um</p>
+<p begin="00:29:55.440" end="00:30:00.960" style="s2">little weird museums the next day and uh</p>
+<p begin="00:29:58.480" end="00:30:02.480" style="s2">foreign agent registration lobbyists and</p>
+<p begin="00:30:00.960" end="00:30:06.000" style="s2">all of these different things</p>
+<p begin="00:30:02.480" end="00:30:08.320" style="s2">um it&#39;s it&#39;s it&#39;s it&#39;s</p>
+<p begin="00:30:06.000" end="00:30:09.760" style="s2">pretty much everything that i it takes</p>
+<p begin="00:30:08.320" end="00:30:10.960" style="s2">all of the boxes and keeping me engaged</p>
+<p begin="00:30:09.760" end="00:30:14.080" style="s2">and interested</p>
+<p begin="00:30:10.960" end="00:30:16.240" style="s2">um and so i worked on this as an open</p>
+<p begin="00:30:14.080" end="00:30:18.399" style="s2">source project for a year and a half</p>
+<p begin="00:30:16.240" end="00:30:20.799" style="s2">um and then i heard about this</p>
+<p begin="00:30:18.399" end="00:30:22.480" style="s2">opportunity at stanford university where</p>
+<p begin="00:30:20.799" end="00:30:24.480" style="s2">they have a fellowship program</p>
+<p begin="00:30:22.480" end="00:30:26.159" style="s2">for journalists so it&#39;s called jsk</p>
+<p begin="00:30:24.480" end="00:30:27.200" style="s2">fellowships and the idea is they get a</p>
+<p begin="00:30:26.159" end="00:30:28.480" style="s2">bunch of journalists from around the</p>
+<p begin="00:30:27.200" end="00:30:30.640" style="s2">world they pay them</p>
+<p begin="00:30:28.480" end="00:30:32.480" style="s2">to spend a year at stanford thinking</p>
+<p begin="00:30:30.640" end="00:30:34.640" style="s2">about interesting problems and</p>
+<p begin="00:30:32.480" end="00:30:36.559" style="s2">uh kind of to be honest it was there&#39;s</p>
+<p begin="00:30:34.640" end="00:30:38.159" style="s2">an aspect of it it&#39;s also helping like</p>
+<p begin="00:30:36.559" end="00:30:39.760" style="s2">journalists not get too burned out and</p>
+<p begin="00:30:38.159" end="00:30:40.960" style="s2">so forth um</p>
+<p begin="00:30:39.760" end="00:30:43.120" style="s2">and somebody said you know what this</p>
+<p begin="00:30:40.960" end="00:30:44.480" style="s2">project here is exactly the kind of</p>
+<p begin="00:30:43.120" end="00:30:46.880" style="s2">thing they&#39;d be interested in</p>
+<p begin="00:30:44.480" end="00:30:47.919" style="s2">so i applied for that and got in and</p>
+<p begin="00:30:46.880" end="00:30:50.000" style="s2">spent got to spend</p>
+<p begin="00:30:47.919" end="00:30:51.120" style="s2">a full year a full academic year at</p>
+<p begin="00:30:50.000" end="00:30:54.480" style="s2">stanford</p>
+<p begin="00:30:51.120" end="00:30:55.120" style="s2">being essentially paid to think about</p>
+<p begin="00:30:54.480" end="00:30:56.720" style="s2">stuff</p>
+<p begin="00:30:55.120" end="00:30:58.960" style="s2">and tinker on things that i thought were</p>
+<p begin="00:30:56.720" end="00:31:00.000" style="s2">interesting which on the one hand was</p>
+<p begin="00:30:58.960" end="00:31:01.919" style="s2">absolutely amazing</p>
+<p begin="00:31:00.000" end="00:31:03.279" style="s2">on the other hand i think it&#39;s ruined me</p>
+<p begin="00:31:01.919" end="00:31:04.159" style="s2">because that fellowship ended a few</p>
+<p begin="00:31:03.279" end="00:31:06.559" style="s2">months ago</p>
+<p begin="00:31:04.159" end="00:31:07.840" style="s2">and i have no desire to go and get a</p>
+<p begin="00:31:06.559" end="00:31:10.000" style="s2">full-time job working on</p>
+<p begin="00:31:07.840" end="00:31:11.919" style="s2">anything other than things that i find</p>
+<p begin="00:31:10.000" end="00:31:15.200" style="s2">interesting</p>
+<p begin="00:31:11.919" end="00:31:17.039" style="s2">um yeah there&#39;s a there&#39;s a</p>
+<p begin="00:31:15.200" end="00:31:19.200" style="s2">there&#39;s me sat in the corner with a</p>
+<p begin="00:31:17.039" end="00:31:20.559" style="s2">bunch of ludicrously talented</p>
+<p begin="00:31:19.200" end="00:31:22.080" style="s2">journalists from around the world</p>
+<p begin="00:31:20.559" end="00:31:23.760" style="s2">super exciting i learned i learned a</p>
+<p begin="00:31:22.080" end="00:31:24.880" style="s2">huge amount there um</p>
+<p begin="00:31:23.760" end="00:31:27.279" style="s2">and so a few of the lessons i&#39;ve learned</p>
+<p begin="00:31:24.880" end="00:31:28.080" style="s2">from from dataset um so dataset is</p>
+<p begin="00:31:27.279" end="00:31:30.640" style="s2">aggressively</p>
+<p begin="00:31:28.080" end="00:31:31.519" style="s2">open source um and i did that mainly</p>
+<p begin="00:31:30.640" end="00:31:33.679" style="s2">because</p>
+<p begin="00:31:31.519" end="00:31:35.120" style="s2">i&#39;ve run a startup and it&#39;s sold and</p>
+<p begin="00:31:33.679" end="00:31:38.000" style="s2">it&#39;s shut down and</p>
+<p begin="00:31:35.120" end="00:31:38.480" style="s2">i know full well that the trajectory of</p>
+<p begin="00:31:38.000" end="00:31:40.320" style="s2">most</p>
+<p begin="00:31:38.480" end="00:31:42.080" style="s2">startups and most projects is to</p>
+<p begin="00:31:40.320" end="00:31:43.760" style="s2">eventually peter out but i&#39;m building</p>
+<p begin="00:31:42.080" end="00:31:45.279" style="s2">software for journalists right if i want</p>
+<p begin="00:31:43.760" end="00:31:46.399" style="s2">newsrooms around the world to use my</p>
+<p begin="00:31:45.279" end="00:31:50.080" style="s2">software</p>
+<p begin="00:31:46.399" end="00:31:51.600" style="s2">i do not want to then have that software</p>
+<p begin="00:31:50.080" end="00:31:52.799" style="s2">become unavailable to them you know the</p>
+<p begin="00:31:51.600" end="00:31:54.320" style="s2">news industry is in enough trouble</p>
+<p begin="00:31:52.799" end="00:31:56.720" style="s2">already without me um</p>
+<p begin="00:31:54.320" end="00:31:58.640" style="s2">without me causing more problems by you</p>
+<p begin="00:31:56.720" end="00:31:59.120" style="s2">know yanking the rug out from underneath</p>
+<p begin="00:31:58.640" end="00:32:01.360" style="s2">them</p>
+<p begin="00:31:59.120" end="00:32:02.559" style="s2">so from the start i wanted it to be um</p>
+<p begin="00:32:01.360" end="00:32:04.399" style="s2">open source</p>
+<p begin="00:32:02.559" end="00:32:05.919" style="s2">and one of the things that i found has</p>
+<p begin="00:32:04.399" end="00:32:08.480" style="s2">worked incredibly well for this</p>
+<p begin="00:32:05.919" end="00:32:09.440" style="s2">is i have a plug-in system for it which</p>
+<p begin="00:32:08.480" end="00:32:11.200" style="s2">was</p>
+<p begin="00:32:09.440" end="00:32:12.640" style="s2">mainly inspired by wordpress you know</p>
+<p begin="00:32:11.200" end="00:32:15.840" style="s2">with wordpress you&#39;ve got</p>
+<p begin="00:32:12.640" end="00:32:17.840" style="s2">a decent cms with 7 000 plugins that</p>
+<p begin="00:32:15.840" end="00:32:18.799" style="s2">mean it can solve any publishing problem</p>
+<p begin="00:32:17.840" end="00:32:22.480" style="s2">in the world</p>
+<p begin="00:32:18.799" end="00:32:24.240" style="s2">um and i&#39;m k so i figured if i can get</p>
+<p begin="00:32:22.480" end="00:32:24.799" style="s2">the same kind of thing going for my</p>
+<p begin="00:32:24.240" end="00:32:26.559" style="s2">project</p>
+<p begin="00:32:24.799" end="00:32:28.000" style="s2">and all of these visualizations and</p>
+<p begin="00:32:26.559" end="00:32:30.320" style="s2">features that i never even have dreamed</p>
+<p begin="00:32:28.000" end="00:32:32.159" style="s2">of other people can start contributing</p>
+<p begin="00:32:30.320" end="00:32:32.960" style="s2">so data set supports plugins there are</p>
+<p begin="00:32:32.159" end="00:32:35.440" style="s2">47</p>
+<p begin="00:32:32.960" end="00:32:37.200" style="s2">about 50 plugins at the moment i wrote</p>
+<p begin="00:32:35.440" end="00:32:38.960" style="s2">all the three of them but that&#39;s okay</p>
+<p begin="00:32:37.200" end="00:32:40.240" style="s2">you know writing plugins your own system</p>
+<p begin="00:32:38.960" end="00:32:42.399" style="s2">is a great way to</p>
+<p begin="00:32:40.240" end="00:32:43.919" style="s2">to make sure that it&#39;s working um this</p>
+<p begin="00:32:42.399" end="00:32:45.519" style="s2">is the new data set website which i</p>
+<p begin="00:32:43.919" end="00:32:47.039" style="s2">launched actually just last week which</p>
+<p begin="00:32:45.519" end="00:32:48.159" style="s2">has a plugins directory where you can</p>
+<p begin="00:32:47.039" end="00:32:50.000" style="s2">see</p>
+<p begin="00:32:48.159" end="00:32:52.399" style="s2">like i&#39;ve got the the map i showed you</p>
+<p begin="00:32:50.000" end="00:32:54.080" style="s2">earlier is a plug-in that visualizes</p>
+<p begin="00:32:52.399" end="00:32:56.880" style="s2">latitude and longitude data</p>
+<p begin="00:32:54.080" end="00:32:58.399" style="s2">i&#39;ve got a graphql plugin and code</p>
+<p begin="00:32:56.880" end="00:33:01.200" style="s2">search and charts and</p>
+<p begin="00:32:58.399" end="00:33:03.039" style="s2">all sorts of bits and pieces and this</p>
+<p begin="00:33:01.200" end="00:33:06.000" style="s2">plug-in thing has been</p>
+<p begin="00:33:03.039" end="00:33:07.279" style="s2">so incredibly liberating for me because</p>
+<p begin="00:33:06.000" end="00:33:11.360" style="s2">the joy of plugins</p>
+<p begin="00:33:07.279" end="00:33:12.960" style="s2">is i have a crazy idea for a feature</p>
+<p begin="00:33:11.360" end="00:33:15.519" style="s2">normally you wouldn&#39;t add that to your</p>
+<p begin="00:33:12.960" end="00:33:16.960" style="s2">project because there&#39;s that risk that</p>
+<p begin="00:33:15.519" end="00:33:17.519" style="s2">the feature if it turns out it&#39;s a bad</p>
+<p begin="00:33:16.960" end="00:33:19.360" style="s2">idea</p>
+<p begin="00:33:17.519" end="00:33:20.720" style="s2">your your project gets craftier and</p>
+<p begin="00:33:19.360" end="00:33:21.440" style="s2">crafty and crafty and eventually it</p>
+<p begin="00:33:20.720" end="00:33:23.760" style="s2">collapses</p>
+<p begin="00:33:21.440" end="00:33:25.679" style="s2">but with plugins the risk of ad of</p>
+<p begin="00:33:23.760" end="00:33:28.720" style="s2">trying out a new feature falls to almost</p>
+<p begin="00:33:25.679" end="00:33:31.120" style="s2">zero so as an example um</p>
+<p begin="00:33:28.720" end="00:33:32.880" style="s2">i love you i love sql um i was very</p>
+<p begin="00:33:31.120" end="00:33:35.120" style="s2">skeptical about graphql</p>
+<p begin="00:33:32.880" end="00:33:37.519" style="s2">and so i built a graphql plugin for</p>
+<p begin="00:33:35.120" end="00:33:38.320" style="s2">dataset to prove that graphql was a dumb</p>
+<p begin="00:33:37.519" end="00:33:41.120" style="s2">idea</p>
+<p begin="00:33:38.320" end="00:33:42.720" style="s2">like it was and um actually it had the</p>
+<p begin="00:33:41.120" end="00:33:44.480" style="s2">opposite effect i really liked it and</p>
+<p begin="00:33:42.720" end="00:33:45.440" style="s2">now i&#39;m much more on the graphql train</p>
+<p begin="00:33:44.480" end="00:33:46.880" style="s2">than i used to be</p>
+<p begin="00:33:45.440" end="00:33:48.720" style="s2">but the fact that i have this plugin</p>
+<p begin="00:33:46.880" end="00:33:50.000" style="s2">system meant i could try out something</p>
+<p begin="00:33:48.720" end="00:33:52.480" style="s2">which i thought was</p>
+<p begin="00:33:50.000" end="00:33:54.480" style="s2">actively gonna be a bad idea but i could</p>
+<p begin="00:33:52.480" end="00:33:54.799" style="s2">still invest in it and experiment with</p>
+<p begin="00:33:54.480" end="00:33:56.799" style="s2">it</p>
+<p begin="00:33:54.799" end="00:33:58.640" style="s2">put it out there iterating independently</p>
+<p begin="00:33:56.799" end="00:34:00.880" style="s2">of core um</p>
+<p begin="00:33:58.640" end="00:34:03.120" style="s2">and that&#39;s been brilliant and like like</p>
+<p begin="00:34:00.880" end="00:34:03.120" style="s2">um</p>
+<p begin="00:34:03.760" end="00:34:07.840" style="s2">just yesterday somebody released a</p>
+<p begin="00:34:06.080" end="00:34:08.800" style="s2">plug-in that adds a new charting feature</p>
+<p begin="00:34:07.840" end="00:34:11.119" style="s2">to data set</p>
+<p begin="00:34:08.800" end="00:34:12.000" style="s2">which and because it&#39;s um because it&#39;s a</p>
+<p begin="00:34:11.119" end="00:34:13.440" style="s2">plug-in based</p>
+<p begin="00:34:12.000" end="00:34:15.280" style="s2">they don&#39;t even have to file a pull</p>
+<p begin="00:34:13.440" end="00:34:17.280" style="s2">request and have me review their code</p>
+<p begin="00:34:15.280" end="00:34:19.520" style="s2">like literally i woke up in the morning</p>
+<p begin="00:34:17.280" end="00:34:21.599" style="s2">and my software had gained features</p>
+<p begin="00:34:19.520" end="00:34:23.520" style="s2">which is i mean that&#39;s the dream right</p>
+<p begin="00:34:21.599" end="00:34:24.879" style="s2">if if you don&#39;t have to do any work at</p>
+<p begin="00:34:23.520" end="00:34:25.520" style="s2">all and somebody makes your project</p>
+<p begin="00:34:24.879" end="00:34:27.839" style="s2">better</p>
+<p begin="00:34:25.520" end="00:34:28.800" style="s2">i don&#39;t see how it gets any any cooler</p>
+<p begin="00:34:27.839" end="00:34:32.240" style="s2">than that</p>
+<p begin="00:34:28.800" end="00:34:34.000" style="s2">um and what this what the thing that</p>
+<p begin="00:34:32.240" end="00:34:36.399" style="s2">really excites me about this project</p>
+<p begin="00:34:34.000" end="00:34:37.760" style="s2">is i said earlier with lanyards we</p>
+<p begin="00:34:36.399" end="00:34:38.399" style="s2">didn&#39;t think that this was our 10-year</p>
+<p begin="00:34:37.760" end="00:34:41.040" style="s2">project</p>
+<p begin="00:34:38.399" end="00:34:42.879" style="s2">with data set i think it is like i&#39;m</p>
+<p begin="00:34:41.040" end="00:34:44.560" style="s2">enjoying it today</p>
+<p begin="00:34:42.879" end="00:34:46.800" style="s2">even more than i was when i started it</p>
+<p begin="00:34:44.560" end="00:34:48.560" style="s2">three years ago and i could absolutely</p>
+<p begin="00:34:46.800" end="00:34:50.159" style="s2">see myself still</p>
+<p begin="00:34:48.560" end="00:34:52.079" style="s2">still being thrilled to work on this</p>
+<p begin="00:34:50.159" end="00:34:53.679" style="s2">project in 10 years time</p>
+<p begin="00:34:52.079" end="00:34:55.359" style="s2">and that&#39;s a rare thing like i don&#39;t</p>
+<p begin="00:34:53.679" end="00:34:56.879" style="s2">think opportunities like that come along</p>
+<p begin="00:34:55.359" end="00:34:58.640" style="s2">very often in careers it&#39;s certainly</p>
+<p begin="00:34:56.879" end="00:35:00.240" style="s2">this is the first time in my career</p>
+<p begin="00:34:58.640" end="00:35:02.079" style="s2">i&#39;ve found a project i felt has that</p>
+<p begin="00:35:00.240" end="00:35:04.800" style="s2">kind of longevity to it</p>
+<p begin="00:35:02.079" end="00:35:06.160" style="s2">um and you know i&#39;m going to show you a</p>
+<p begin="00:35:04.800" end="00:35:10.400" style="s2">very quick bonus</p>
+<p begin="00:35:06.160" end="00:35:11.920" style="s2">um a very quick bonus project</p>
+<p begin="00:35:10.400" end="00:35:14.160" style="s2">um that i&#39;ve been building on top of</p>
+<p begin="00:35:11.920" end="00:35:16.640" style="s2">dataset</p>
+<p begin="00:35:14.160" end="00:35:18.480" style="s2">this is an idea i started exploring at</p>
+<p begin="00:35:16.640" end="00:35:19.760" style="s2">stanford where i realized that there was</p>
+<p begin="00:35:18.480" end="00:35:21.839" style="s2">all of this data about</p>
+<p begin="00:35:19.760" end="00:35:24.240" style="s2">me in the world all of these like</p>
+<p begin="00:35:21.839" end="00:35:26.480" style="s2">companies have all of the data about me</p>
+<p begin="00:35:24.240" end="00:35:27.920" style="s2">and i can get it back out of them a lot</p>
+<p begin="00:35:26.480" end="00:35:28.960" style="s2">of them have apis a lot of them have</p>
+<p begin="00:35:27.920" end="00:35:31.200" style="s2">gdpr</p>
+<p begin="00:35:28.960" end="00:35:32.880" style="s2">exports where you can click a button and</p>
+<p begin="00:35:31.200" end="00:35:34.480" style="s2">get a zip file of all of your facebook</p>
+<p begin="00:35:32.880" end="00:35:35.119" style="s2">data and all of your twitter data and so</p>
+<p begin="00:35:34.480" end="00:35:36.560" style="s2">forth</p>
+<p begin="00:35:35.119" end="00:35:38.560" style="s2">so i started building a project called</p>
+<p begin="00:35:36.560" end="00:35:40.160" style="s2">dog sheep where the idea is to gather</p>
+<p begin="00:35:38.560" end="00:35:42.560" style="s2">all of my personal data</p>
+<p begin="00:35:40.160" end="00:35:43.599" style="s2">into a private data warehouse running on</p>
+<p begin="00:35:42.560" end="00:35:45.760" style="s2">top of dataset</p>
+<p begin="00:35:43.599" end="00:35:46.720" style="s2">that lets me explore it my favorite demo</p>
+<p begin="00:35:45.760" end="00:35:49.040" style="s2">from dog sheep is</p>
+<p begin="00:35:46.720" end="00:35:49.839" style="s2">um every time i check in somewhere on</p>
+<p begin="00:35:49.040" end="00:35:53.040" style="s2">swarm</p>
+<p begin="00:35:49.839" end="00:35:55.119" style="s2">with my dog cleo i use the wolf emoji in</p>
+<p begin="00:35:53.040" end="00:35:57.200" style="s2">the swarm check-in message</p>
+<p begin="00:35:55.119" end="00:35:58.400" style="s2">which means that i can run a data i can</p>
+<p begin="00:35:57.200" end="00:36:00.320" style="s2">run a sql query</p>
+<p begin="00:35:58.400" end="00:36:03.520" style="s2">where i look for things where the the</p>
+<p begin="00:36:00.320" end="00:36:04.800" style="s2">check-in message contains the wolf emoji</p>
+<p begin="00:36:03.520" end="00:36:06.320" style="s2">which because it&#39;s got last student</p>
+<p begin="00:36:04.800" end="00:36:06.960" style="s2">longitude it gets visualized on a map so</p>
+<p begin="00:36:06.320" end="00:36:09.440" style="s2">this is my</p>
+<p begin="00:36:06.960" end="00:36:10.079" style="s2">dog&#39;s personal map of her favorite</p>
+<p begin="00:36:09.440" end="00:36:12.560" style="s2">places</p>
+<p begin="00:36:10.079" end="00:36:13.520" style="s2">based on her swarm check-ins which is</p>
+<p begin="00:36:12.560" end="00:36:14.960" style="s2">clearly a</p>
+<p begin="00:36:13.520" end="00:36:16.880" style="s2">that is a killer app that&#39;s something</p>
+<p begin="00:36:14.960" end="00:36:18.320" style="s2">that&#39;s that&#39;s very worth spending</p>
+<p begin="00:36:16.880" end="00:36:20.720" style="s2">spending a lot of engineering time</p>
+<p begin="00:36:18.320" end="00:36:21.440" style="s2">figuring out um and if you&#39;re interested</p>
+<p begin="00:36:20.720" end="00:36:24.480" style="s2">in that</p>
+<p begin="00:36:21.440" end="00:36:25.200" style="s2">i gave a talk at um the github speaker</p>
+<p begin="00:36:24.480" end="00:36:26.640" style="s2">series</p>
+<p begin="00:36:25.200" end="00:36:28.560" style="s2">a few weeks ago about this called</p>
+<p begin="00:36:26.640" end="00:36:29.440" style="s2">personal data warehouses which goes into</p>
+<p begin="00:36:28.560" end="00:36:31.440" style="s2">a full demo</p>
+<p begin="00:36:29.440" end="00:36:32.720" style="s2">of um of all of the other ludicrous</p>
+<p begin="00:36:31.440" end="00:36:34.400" style="s2">things i&#39;ve been able to do with this i</p>
+<p begin="00:36:32.720" end="00:36:34.800" style="s2">have a copy of my genome that i can</p>
+<p begin="00:36:34.400" end="00:36:38.000" style="s2">query</p>
+<p begin="00:36:34.800" end="00:36:40.160" style="s2">using sql now which is is super exciting</p>
+<p begin="00:36:38.000" end="00:36:42.160" style="s2">um but yeah jumping back um so the</p>
+<p begin="00:36:40.160" end="00:36:43.440" style="s2">challenge i have right now is i found my</p>
+<p begin="00:36:42.160" end="00:36:45.359" style="s2">10-year project</p>
+<p begin="00:36:43.440" end="00:36:46.880" style="s2">i need to do it sustainably right at the</p>
+<p begin="00:36:45.359" end="00:36:47.839" style="s2">moment i&#39;m not making any money at all</p>
+<p begin="00:36:46.880" end="00:36:49.440" style="s2">because</p>
+<p begin="00:36:47.839" end="00:36:51.599" style="s2">i don&#39;t want to have a job because i&#39;m</p>
+<p begin="00:36:49.440" end="00:36:52.880" style="s2">having too much fun and so i&#39;ve started</p>
+<p begin="00:36:51.599" end="00:36:54.240" style="s2">spinning i&#39;ve got to consult</p>
+<p begin="00:36:52.880" end="00:36:58.400" style="s2">some consulting gigs at the moment</p>
+<p begin="00:36:54.240" end="00:37:00.240" style="s2">around this um and i&#39;m also</p>
+<p begin="00:36:58.400" end="00:37:01.520" style="s2">i&#39;m most of the way through building out</p>
+<p begin="00:37:00.240" end="00:37:03.680" style="s2">ace a sort of</p>
+<p begin="00:37:01.520" end="00:37:04.640" style="s2">hosted version of this the sas version</p>
+<p begin="00:37:03.680" end="00:37:06.320" style="s2">because</p>
+<p begin="00:37:04.640" end="00:37:07.760" style="s2">one of the problems i found with this um</p>
+<p begin="00:37:06.320" end="00:37:09.359" style="s2">with open source software is i&#39;m</p>
+<p begin="00:37:07.760" end="00:37:11.520" style="s2">building tools for journalists</p>
+<p begin="00:37:09.359" end="00:37:13.280" style="s2">but if they have to like install it on</p>
+<p begin="00:37:11.520" end="00:37:14.400" style="s2">their computer and figure out a python</p>
+<p begin="00:37:13.280" end="00:37:15.839" style="s2">development environment</p>
+<p begin="00:37:14.400" end="00:37:17.599" style="s2">and then work out where to host it</p>
+<p begin="00:37:15.839" end="00:37:20.240" style="s2">somewhere it&#39;s just not going to happen</p>
+<p begin="00:37:17.599" end="00:37:23.440" style="s2">it&#39;s unreasonable to ask people to</p>
+<p begin="00:37:20.240" end="00:37:25.280" style="s2">to self-host this kind of software um</p>
+<p begin="00:37:23.440" end="00:37:27.119" style="s2">so i&#39;m starting to figure out how i&#39;m</p>
+<p begin="00:37:25.280" end="00:37:28.560" style="s2">going to do the sort of pay me pay me</p>
+<p begin="00:37:27.119" end="00:37:31.839" style="s2">per month for your team&#39;s</p>
+<p begin="00:37:28.560" end="00:37:33.280" style="s2">in dataset instance um but yeah that&#39;s a</p>
+<p begin="00:37:31.839" end="00:37:36.960" style="s2">sort of lightning tour of</p>
+<p begin="00:37:33.280" end="00:37:39.680" style="s2">uh of my of my my sort of story so far</p>
+<p begin="00:37:36.960" end="00:37:40.560" style="s2">and like i said really the um the thing</p>
+<p begin="00:37:39.680" end="00:37:43.119" style="s2">i realized is</p>
+<p begin="00:37:40.560" end="00:37:43.760" style="s2">it was the side projects that led to</p>
+<p begin="00:37:43.119" end="00:37:45.839" style="s2">basically</p>
+<p begin="00:37:43.760" end="00:37:46.880" style="s2">everything every opportunity i&#39;ve had</p>
+<p begin="00:37:45.839" end="00:37:48.720" style="s2">along the way</p>
+<p begin="00:37:46.880" end="00:37:50.400" style="s2">started out as some kind of side project</p>
+<p begin="00:37:48.720" end="00:37:51.760" style="s2">that i was tinkering on and then if i</p>
+<p begin="00:37:50.400" end="00:37:53.200" style="s2">was lucky that turned into a great</p>
+<p begin="00:37:51.760" end="00:37:53.599" style="s2">opportunity and if i was unlucky it</p>
+<p begin="00:37:53.200" end="00:37:56.320" style="s2">would</p>
+<p begin="00:37:53.599" end="00:37:57.440" style="s2">it turned into sort of a tragic um like</p>
+<p begin="00:37:56.320" end="00:37:59.200" style="s2">backup failure</p>
+<p begin="00:37:57.440" end="00:38:01.440" style="s2">but uh but you know you you learn stuff</p>
+<p begin="00:37:59.200" end="00:38:03.680" style="s2">from every single one of these</p>
+<p begin="00:38:01.440" end="00:38:04.560" style="s2">um but yeah so that&#39;s that&#39;s where i am</p>
+<p begin="00:38:03.680" end="00:38:06.079" style="s2">right now i&#39;d love to</p>
+<p begin="00:38:04.560" end="00:38:09.839" style="s2">love to take questions and just have a</p>
+<p begin="00:38:06.079" end="00:38:09.839" style="s2">conversation about some of some of these</p>
+<p begin="00:38:16.839" end="00:38:22.320" style="s2">themes</p>
+<p begin="00:38:19.040" end="00:38:23.359" style="s2">hi simon my name is xander my internet</p>
+<p begin="00:38:22.320" end="00:38:26.400" style="s2">connection is a bit</p>
+<p begin="00:38:23.359" end="00:38:29.280" style="s2">poor here so i hope i don&#39;t cut out um</p>
+<p begin="00:38:26.400" end="00:38:29.920" style="s2">i hope this question isn&#39;t presumptive</p>
+<p begin="00:38:29.280" end="00:38:33.680" style="s2">uh but</p>
+<p begin="00:38:29.920" end="00:38:37.040" style="s2">do you play dungeons and dragons i</p>
+<p begin="00:38:33.680" end="00:38:39.119" style="s2">haven&#39;t done in a very long time okay</p>
+<p begin="00:38:37.040" end="00:38:41.440" style="s2">thanks i was just curious so here&#39;s a</p>
+<p begin="00:38:39.119" end="00:38:45.040" style="s2">more substantive question</p>
+<p begin="00:38:41.440" end="00:38:48.400" style="s2">uh what did you learn about graphical</p>
+<p begin="00:38:45.040" end="00:38:50.560" style="s2">graphql from your experiment that</p>
+<p begin="00:38:48.400" end="00:38:53.359" style="s2">changed your mind about it</p>
+<p begin="00:38:50.560" end="00:38:53.760" style="s2">uh you actually you you you misspoke and</p>
+<p begin="00:38:53.359" end="00:38:55.760" style="s2">gave</p>
+<p begin="00:38:53.760" end="00:38:57.920" style="s2">gay gave the reason it&#39;s it&#39;s graphical</p>
+<p begin="00:38:55.760" end="00:39:01.599" style="s2">it&#39;s the so the thing with graphql</p>
+<p begin="00:38:57.920" end="00:39:02.160" style="s2">is that um it includes this incredibly</p>
+<p begin="00:39:01.599" end="00:39:05.839" style="s2">powerful</p>
+<p begin="00:39:02.160" end="00:39:08.880" style="s2">like interactive um api explorer which</p>
+<p begin="00:39:05.839" end="00:39:12.720" style="s2">oh hold on that&#39;s the wrong one</p>
+<p begin="00:39:08.880" end="00:39:14.880" style="s2">let&#39;s do github two sql like graphql</p>
+<p begin="00:39:12.720" end="00:39:16.000" style="s2">um so graph so graphical is this</p>
+<p begin="00:39:14.880" end="00:39:18.000" style="s2">interface here</p>
+<p begin="00:39:16.000" end="00:39:19.280" style="s2">and it&#39;s got amazing autocomplete like i</p>
+<p begin="00:39:18.000" end="00:39:20.880" style="s2">can type</p>
+<p begin="00:39:19.280" end="00:39:22.640" style="s2">um here we go apparently i can get back</p>
+<p begin="00:39:20.880" end="00:39:25.839" style="s2">the email field</p>
+<p begin="00:39:22.640" end="00:39:28.640" style="s2">which is blank but yeah it&#39;s um</p>
+<p begin="00:39:25.839" end="00:39:30.160" style="s2">it&#39;s absolutely superb right the um as</p>
+<p begin="00:39:28.640" end="00:39:32.320" style="s2">an interface for mucking around with</p>
+<p begin="00:39:30.160" end="00:39:34.079" style="s2">apis this this is just so good</p>
+<p begin="00:39:32.320" end="00:39:35.520" style="s2">and so yeah for me this was the killer</p>
+<p begin="00:39:34.079" end="00:39:37.760" style="s2">feature the fact that</p>
+<p begin="00:39:35.520" end="00:39:39.280" style="s2">i can start with a relational database</p>
+<p begin="00:39:37.760" end="00:39:41.200" style="s2">the plug-in that i&#39;ve built</p>
+<p begin="00:39:39.280" end="00:39:42.720" style="s2">uses for it figures out foreign key</p>
+<p begin="00:39:41.200" end="00:39:44.000" style="s2">relationships to have nested fields and</p>
+<p begin="00:39:42.720" end="00:39:45.760" style="s2">all of that kind of stuff</p>
+<p begin="00:39:44.000" end="00:39:48.000" style="s2">and it means that with i install this</p>
+<p begin="00:39:45.760" end="00:39:51.359" style="s2">one plug-in and suddenly i&#39;ve got</p>
+<p begin="00:39:48.000" end="00:39:54.560" style="s2">full um like full auto complete uh</p>
+<p begin="00:39:51.359" end="00:39:57.599" style="s2">access to my entire data model which</p>
+<p begin="00:39:54.560" end="00:39:59.359" style="s2">i i love that um and also the um</p>
+<p begin="00:39:57.599" end="00:40:00.800" style="s2">graphql is so good at doing the nested</p>
+<p begin="00:39:59.359" end="00:40:03.440" style="s2">thing the fact that i can say</p>
+<p begin="00:40:00.800" end="00:40:04.319" style="s2">give me back my repositories for each</p>
+<p begin="00:40:03.440" end="00:40:06.079" style="s2">repository give me</p>
+<p begin="00:40:04.319" end="00:40:08.319" style="s2">the five most recent issues for each</p>
+<p begin="00:40:06.079" end="00:40:10.079" style="s2">issue give me the name of the</p>
+<p begin="00:40:08.319" end="00:40:11.599" style="s2">the name of the person who filed it all</p>
+<p begin="00:40:10.079" end="00:40:13.680" style="s2">of that it&#39;s it&#39;s awesome</p>
+<p begin="00:40:11.599" end="00:40:15.280" style="s2">so yeah for but the other thing is that</p>
+<p begin="00:40:13.680" end="00:40:16.400" style="s2">um one of the reasons i was skeptical of</p>
+<p begin="00:40:15.280" end="00:40:18.560" style="s2">graphql is that</p>
+<p begin="00:40:16.400" end="00:40:20.640" style="s2">at eventbrite our front-end developers</p>
+<p begin="00:40:18.560" end="00:40:22.640" style="s2">kept on saying we should use graphql</p>
+<p begin="00:40:20.640" end="00:40:24.000" style="s2">and i was part of the back-end team on</p>
+<p begin="00:40:22.640" end="00:40:24.720" style="s2">the architecture team and we&#39;re looking</p>
+<p begin="00:40:24.000" end="00:40:26.079" style="s2">at that thinking</p>
+<p begin="00:40:24.720" end="00:40:27.520" style="s2">how are we going to do that without you</p>
+<p begin="00:40:26.079" end="00:40:28.000" style="s2">completely crashing the website you&#39;re</p>
+<p begin="00:40:27.520" end="00:40:30.319" style="s2">going to</p>
+<p begin="00:40:28.000" end="00:40:31.520" style="s2">spark off 500 sql queries with every</p>
+<p begin="00:40:30.319" end="00:40:32.560" style="s2">feature that you build it&#39;s going to be</p>
+<p begin="00:40:31.520" end="00:40:35.599" style="s2">a disaster</p>
+<p begin="00:40:32.560" end="00:40:37.520" style="s2">um but data set is built on top of</p>
+<p begin="00:40:35.599" end="00:40:38.640" style="s2">this database called database called</p>
+<p begin="00:40:37.520" end="00:40:40.160" style="s2">sqlite</p>
+<p begin="00:40:38.640" end="00:40:42.000" style="s2">and the one thing that sqlite is</p>
+<p begin="00:40:40.160" end="00:40:44.640" style="s2">particularly good at is</p>
+<p begin="00:40:42.000" end="00:40:46.319" style="s2">handling 500 queries at once because</p>
+<p begin="00:40:44.640" end="00:40:47.680" style="s2">with like my sequel of postgres each</p>
+<p begin="00:40:46.319" end="00:40:48.560" style="s2">query is a round trip to a server</p>
+<p begin="00:40:47.680" end="00:40:50.880" style="s2">somewhere</p>
+<p begin="00:40:48.560" end="00:40:52.079" style="s2">with sqlite it&#39;s a c function call to a</p>
+<p begin="00:40:50.880" end="00:40:53.760" style="s2">local file on disk</p>
+<p begin="00:40:52.079" end="00:40:55.520" style="s2">so something that triggers 500 queries</p>
+<p begin="00:40:53.760" end="00:40:56.960" style="s2">in sql lite is like calling 500</p>
+<p begin="00:40:55.520" end="00:41:00.240" style="s2">functions it&#39;s fine</p>
+<p begin="00:40:56.960" end="00:41:01.760" style="s2">um but yeah so uh i just</p>
+<p begin="00:41:00.240" end="00:41:05.119" style="s2">i got hooked on it because because of</p>
+<p begin="00:41:01.760" end="00:41:05.119" style="s2">graphical essentially</p>
+<p begin="00:41:05.359" end="00:41:07.839" style="s2">thanks</p>
+<p begin="00:41:12.319" end="00:41:16.480" style="s2">do we have more questions for simon</p>
+<p begin="00:41:16.800" end="00:41:21.200" style="s2">hey simon i have a question uh</p>
+<p begin="00:41:20.000" end="00:41:23.760" style="s2">so you definitely build a lot of</p>
+<p begin="00:41:21.200" end="00:41:26.880" style="s2">fascinating site projects and</p>
+<p begin="00:41:23.760" end="00:41:28.079" style="s2">i&#39;m curious on how do you uh</p>
+<p begin="00:41:26.880" end="00:41:29.920" style="s2">when you when you finish building</p>
+<p begin="00:41:28.079" end="00:41:31.599" style="s2">something how do you promote it is it</p>
+<p begin="00:41:29.920" end="00:41:34.160" style="s2">usually to your friends or</p>
+<p begin="00:41:31.599" end="00:41:35.520" style="s2">do you put it up on some forums so it&#39;s</p>
+<p begin="00:41:34.160" end="00:41:39.680" style="s2">discoverable by</p>
+<p begin="00:41:35.520" end="00:41:42.000" style="s2">by the mass number of mass websites</p>
+<p begin="00:41:39.680" end="00:41:43.119" style="s2">i wonder how do you go about it so one</p>
+<p begin="00:41:42.000" end="00:41:44.880" style="s2">joy of side projects</p>
+<p begin="00:41:43.119" end="00:41:46.800" style="s2">is i don&#39;t feel the pressure to promote</p>
+<p begin="00:41:44.880" end="00:41:47.680" style="s2">them too widely you know if like owls</p>
+<p begin="00:41:46.800" end="00:41:49.839" style="s2">near me</p>
+<p begin="00:41:47.680" end="00:41:51.040" style="s2">honestly if i find it amusing and if i</p>
+<p begin="00:41:49.839" end="00:41:52.240" style="s2">occasionally show it to somebody on my</p>
+<p begin="00:41:51.040" end="00:41:54.240" style="s2">phone that&#39;s completely fine</p>
+<p begin="00:41:52.240" end="00:41:55.680" style="s2">but at the same time i&#39;ve got 20 or</p>
+<p begin="00:41:54.240" end="00:41:56.960" style="s2">thousand followers on twitter so i</p>
+<p begin="00:41:55.680" end="00:41:58.800" style="s2">promote stuff on twitter</p>
+<p begin="00:41:56.960" end="00:42:00.960" style="s2">um and that that that&#39;s great and then</p>
+<p begin="00:41:58.800" end="00:42:01.760" style="s2">for the technical stuff like on datasets</p>
+<p begin="00:42:00.960" end="00:42:03.920" style="s2">uh</p>
+<p begin="00:42:01.760" end="00:42:05.200" style="s2">mainly i go for things like hack and use</p>
+<p begin="00:42:03.920" end="00:42:06.720" style="s2">um like i&#39;ve got</p>
+<p begin="00:42:05.200" end="00:42:08.079" style="s2">quite a good track record of getting</p>
+<p begin="00:42:06.720" end="00:42:08.880" style="s2">onto the hack and use home page with</p>
+<p begin="00:42:08.079" end="00:42:10.800" style="s2">some of these things</p>
+<p begin="00:42:08.880" end="00:42:12.319" style="s2">and that drives an absurd amount of</p>
+<p begin="00:42:10.800" end="00:42:14.560" style="s2">traffic um</p>
+<p begin="00:42:12.319" end="00:42:16.079" style="s2">so yeah if it&#39;s so um when we were</p>
+<p begin="00:42:14.560" end="00:42:18.319" style="s2">running lanyard i did a lot of promotion</p>
+<p begin="00:42:16.079" end="00:42:18.880" style="s2">of it on quora and places like that so i</p>
+<p begin="00:42:18.319" end="00:42:20.880" style="s2">feel like</p>
+<p begin="00:42:18.880" end="00:42:22.560" style="s2">subreddits are really good for depending</p>
+<p begin="00:42:20.880" end="00:42:25.760" style="s2">on on on the project</p>
+<p begin="00:42:22.560" end="00:42:27.520" style="s2">um and then i finally a month ago i</p>
+<p begin="00:42:25.760" end="00:42:28.400" style="s2">finally started an email newsletter</p>
+<p begin="00:42:27.520" end="00:42:30.640" style="s2">because</p>
+<p begin="00:42:28.400" end="00:42:32.079" style="s2">that&#39;s clearly like a massive wasted</p>
+<p begin="00:42:30.640" end="00:42:32.880" style="s2">opportunity if you&#39;re not if you&#39;re not</p>
+<p begin="00:42:32.079" end="00:42:35.040" style="s2">doing that</p>
+<p begin="00:42:32.880" end="00:42:36.319" style="s2">if you&#39;ve got a topic that that people</p>
+<p begin="00:42:35.040" end="00:42:37.599" style="s2">might want to subscribe to so i have a</p>
+<p begin="00:42:36.319" end="00:42:40.480" style="s2">thing called the</p>
+<p begin="00:42:37.599" end="00:42:42.400" style="s2">um the dataset weekly newsletter which i</p>
+<p begin="00:42:40.480" end="00:42:44.640" style="s2">do not send out weekly um it&#39;s</p>
+<p begin="00:42:42.400" end="00:42:46.480" style="s2">normally two two or three times a month</p>
+<p begin="00:42:44.640" end="00:42:47.920" style="s2">but this is um</p>
+<p begin="00:42:46.480" end="00:42:50.000" style="s2">this is where i&#39;m starting to build up</p>
+<p begin="00:42:47.920" end="00:42:51.280" style="s2">that mailing list the moment i started</p>
+<p begin="00:42:50.000" end="00:42:51.680" style="s2">doing this i&#39;ve been kicking myself</p>
+<p begin="00:42:51.280" end="00:42:53.119" style="s2">because</p>
+<p begin="00:42:51.680" end="00:42:54.720" style="s2">you actually get people&#39;s email</p>
+<p begin="00:42:53.119" end="00:42:55.680" style="s2">addresses like for the first time in</p>
+<p begin="00:42:54.720" end="00:42:58.160" style="s2">three years</p>
+<p begin="00:42:55.680" end="00:42:59.440" style="s2">i have actual contact details for people</p>
+<p begin="00:42:58.160" end="00:43:00.240" style="s2">who care about the thing that i&#39;m</p>
+<p begin="00:42:59.440" end="00:43:02.720" style="s2">building</p>
+<p begin="00:43:00.240" end="00:43:05.599" style="s2">um by kicking myself for not having</p>
+<p begin="00:43:02.720" end="00:43:13.839" style="s2">started doing that much much earlier</p>
+<p begin="00:43:05.599" end="00:43:13.839" style="s2">got it that&#39;s great thank you</p>
+<p begin="00:43:15.760" end="00:43:19.920" style="s2">simon uh thank you very much for your</p>
+<p begin="00:43:18.319" end="00:43:22.720" style="s2">work on django i am a</p>
+<p begin="00:43:19.920" end="00:43:23.440" style="s2">huge fan and i i use it for all my</p>
+<p begin="00:43:22.720" end="00:43:25.920" style="s2">projects</p>
+<p begin="00:43:23.440" end="00:43:27.599" style="s2">so thank you for planting that seed all</p>
+<p begin="00:43:25.920" end="00:43:31.359" style="s2">those years ago</p>
+<p begin="00:43:27.599" end="00:43:34.720" style="s2">um are you curious how</p>
+<p begin="00:43:31.359" end="00:43:37.760" style="s2">you are exploring the different paths</p>
+<p begin="00:43:34.720" end="00:43:41.280" style="s2">to some kind of funding</p>
+<p begin="00:43:37.760" end="00:43:41.839" style="s2">slash revenue stream i&#39;m curious about</p>
+<p begin="00:43:41.280" end="00:43:43.599" style="s2">that too</p>
+<p begin="00:43:41.839" end="00:43:45.359" style="s2">um i&#39;m definitely still figuring out if</p>
+<p begin="00:43:43.599" end="00:43:47.839" style="s2">there&#39;s anyone in the call who&#39;s</p>
+<p begin="00:43:45.359" end="00:43:50.160" style="s2">successfully commercialized an open</p>
+<p begin="00:43:47.839" end="00:43:54.240" style="s2">source project i&#39;d love to talk to you</p>
+<p begin="00:43:50.160" end="00:43:55.440" style="s2">i mean i&#39;m starting to pick pick up some</p>
+<p begin="00:43:54.240" end="00:43:58.560" style="s2">consulting things which work</p>
+<p begin="00:43:55.440" end="00:44:00.880" style="s2">it feels like the sas thing would be the</p>
+<p begin="00:43:58.560" end="00:44:02.000" style="s2">most likely to become sustainable over</p>
+<p begin="00:44:00.880" end="00:44:03.520" style="s2">time because you know once you&#39;ve got</p>
+<p begin="00:44:02.000" end="00:44:05.280" style="s2">monthly recurring revenue and you can</p>
+<p begin="00:44:03.520" end="00:44:08.079" style="s2">keep on growing that that&#39;s that&#39;s</p>
+<p begin="00:44:05.280" end="00:44:09.440" style="s2">it feels like many of the open source</p>
+<p begin="00:44:08.079" end="00:44:11.040" style="s2">businesses that i really respect that&#39;s</p>
+<p begin="00:44:09.440" end="00:44:13.200" style="s2">one of the things that worked for them</p>
+<p begin="00:44:11.040" end="00:44:15.119" style="s2">and i am getting i&#39;m getting inbound</p>
+<p begin="00:44:13.200" end="00:44:17.200" style="s2">interest from some investors which is</p>
+<p begin="00:44:15.119" end="00:44:19.280" style="s2">always a great position to be in um</p>
+<p begin="00:44:17.200" end="00:44:22.480" style="s2">we&#39;ve i&#39;ve done a funded startup before</p>
+<p begin="00:44:19.280" end="00:44:24.720" style="s2">lanyard we&#39;ve raised 1.4 million dollars</p>
+<p begin="00:44:22.480" end="00:44:26.800" style="s2">and there&#39;s a lot of stress you know</p>
+<p begin="00:44:24.720" end="00:44:27.359" style="s2">where if you raise 1.4 million dollars</p>
+<p begin="00:44:26.800" end="00:44:29.200" style="s2">your</p>
+<p begin="00:44:27.359" end="00:44:31.119" style="s2">your time no longer entirely belongs to</p>
+<p begin="00:44:29.200" end="00:44:32.880" style="s2">you so</p>
+<p begin="00:44:31.119" end="00:44:35.920" style="s2">what i&#39;m thinking i want to do with this</p>
+<p begin="00:44:32.880" end="00:44:36.800" style="s2">one is i&#39;d much rather bootstrap it to a</p>
+<p begin="00:44:35.920" end="00:44:38.400" style="s2">point where it&#39;s</p>
+<p begin="00:44:36.800" end="00:44:40.240" style="s2">essentially where it&#39;s you know</p>
+<p begin="00:44:38.400" end="00:44:40.720" style="s2">sustainable for me to make a decent</p>
+<p begin="00:44:40.240" end="00:44:41.680" style="s2">income</p>
+<p begin="00:44:40.720" end="00:44:44.000" style="s2">and then i feel like once you&#39;ve</p>
+<p begin="00:44:41.680" end="00:44:45.040" style="s2">bootstrapped it if you do want to expand</p>
+<p begin="00:44:44.000" end="00:44:46.960" style="s2">it and raise money</p>
+<p begin="00:44:45.040" end="00:44:48.160" style="s2">you raise money in much better terms</p>
+<p begin="00:44:46.960" end="00:44:48.480" style="s2">because you don&#39;t you know you don&#39;t</p>
+<p begin="00:44:48.160" end="00:44:51.440" style="s2">need</p>
+<p begin="00:44:48.480" end="00:44:52.800" style="s2">their money to keep on going um so there</p>
+<p begin="00:44:51.440" end="00:44:55.119" style="s2">is a potential world in which</p>
+<p begin="00:44:52.800" end="00:44:55.920" style="s2">i bootstrap up to being sustainable and</p>
+<p begin="00:44:55.119" end="00:44:59.040" style="s2">that and then</p>
+<p begin="00:44:55.920" end="00:45:02.880" style="s2">raise money from investors um i&#39;m just</p>
+<p begin="00:44:59.040" end="00:45:04.480" style="s2">i&#39;m i&#39;m has and partly you know it&#39;s ugh</p>
+<p begin="00:45:02.880" end="00:45:06.640" style="s2">this has not been a great year for</p>
+<p begin="00:45:04.480" end="00:45:08.800" style="s2">making long-term plans you know</p>
+<p begin="00:45:06.640" end="00:45:10.560" style="s2">um yeah that&#39;s what i&#39;m thinking about</p>
+<p begin="00:45:08.800" end="00:45:13.359" style="s2">at the moment</p>
+<p begin="00:45:10.560" end="00:45:15.280" style="s2">i got and you think journalists</p>
+<p begin="00:45:13.359" end="00:45:17.359" style="s2">journalists are going to be your</p>
+<p begin="00:45:15.280" end="00:45:18.880" style="s2">kind of focal market given your</p>
+<p begin="00:45:17.359" end="00:45:20.160" style="s2">background i mean no because they</p>
+<p begin="00:45:18.880" end="00:45:22.800" style="s2">haven&#39;t got any money</p>
+<p begin="00:45:20.160" end="00:45:23.839" style="s2">um my well my feeling around journalists</p>
+<p begin="00:45:22.800" end="00:45:26.160" style="s2">is</p>
+<p begin="00:45:23.839" end="00:45:27.680" style="s2">so data journalism is a really</p>
+<p begin="00:45:26.160" end="00:45:30.000" style="s2">interesting speciality</p>
+<p begin="00:45:27.680" end="00:45:31.760" style="s2">and um i go to this uh data this</p>
+<p begin="00:45:30.000" end="00:45:34.000" style="s2">conference called nikah the</p>
+<p begin="00:45:31.760" end="00:45:35.040" style="s2">um computer-assisted reporting</p>
+<p begin="00:45:34.000" end="00:45:35.599" style="s2">conference because that&#39;s what they</p>
+<p begin="00:45:35.040" end="00:45:37.520" style="s2">called it</p>
+<p begin="00:45:35.599" end="00:45:38.880" style="s2">back in the 70s when they started using</p>
+<p begin="00:45:37.520" end="00:45:39.839" style="s2">mainframes to help with reporting</p>
+<p begin="00:45:38.880" end="00:45:42.160" style="s2">stories</p>
+<p begin="00:45:39.839" end="00:45:43.520" style="s2">um and they&#39;re an amazing bunch and i</p>
+<p begin="00:45:42.160" end="00:45:46.800" style="s2">think there is enough money</p>
+<p begin="00:45:43.520" end="00:45:47.760" style="s2">in like newsrooms to to at least start</p>
+<p begin="00:45:46.800" end="00:45:49.440" style="s2">the ball rolling</p>
+<p begin="00:45:47.760" end="00:45:51.200" style="s2">but the real theory i have is if i can</p>
+<p begin="00:45:49.440" end="00:45:53.839" style="s2">build software that helps</p>
+<p begin="00:45:51.200" end="00:45:55.440" style="s2">journalists break stories that those</p>
+<p begin="00:45:53.839" end="00:45:57.599" style="s2">features for corporate strategy</p>
+<p begin="00:45:55.440" end="00:45:58.000" style="s2">departments and think tanks and analysts</p>
+<p begin="00:45:57.599" end="00:45:59.599" style="s2">uh</p>
+<p begin="00:45:58.000" end="00:46:01.680" style="s2">they all have to solve the same kinds of</p>
+<p begin="00:45:59.599" end="00:46:04.880" style="s2">problems so it feels like i&#39;ve got</p>
+<p begin="00:46:01.680" end="00:46:07.119" style="s2">an initial niche audience who are</p>
+<p begin="00:46:04.880" end="00:46:08.160" style="s2">who would be amazing to to get the to</p>
+<p begin="00:46:07.119" end="00:46:09.839" style="s2">get the ball rolling and make sure i&#39;ve</p>
+<p begin="00:46:08.160" end="00:46:10.800" style="s2">got the right kind of feature set</p>
+<p begin="00:46:09.839" end="00:46:12.480" style="s2">but aren&#39;t going to make me a huge</p>
+<p begin="00:46:10.800" end="00:46:13.760" style="s2">amount of money but tools that work for</p>
+<p begin="00:46:12.480" end="00:46:14.000" style="s2">them should work for the people who do</p>
+<p begin="00:46:13.760" end="00:46:17.119" style="s2">have</p>
+<p begin="00:46:14.000" end="00:46:17.440" style="s2">the money that&#39;s my theory anyway yeah i</p>
+<p begin="00:46:17.119" end="00:46:19.040" style="s2">mean</p>
+<p begin="00:46:17.440" end="00:46:21.760" style="s2">if i think about what you just showed</p>
+<p begin="00:46:19.040" end="00:46:23.760" style="s2">with data set i mean i i don&#39;t know the</p>
+<p begin="00:46:21.760" end="00:46:24.800" style="s2">inside details of palantir but it</p>
+<p begin="00:46:23.760" end="00:46:27.200" style="s2">doesn&#39;t seem</p>
+<p begin="00:46:24.800" end="00:46:28.960" style="s2">too far off the kind of platform that</p>
+<p begin="00:46:27.200" end="00:46:29.440" style="s2">they have well this is the thing it&#39;s</p>
+<p begin="00:46:28.960" end="00:46:31.520" style="s2">like</p>
+<p begin="00:46:29.440" end="00:46:32.800" style="s2">there are there&#39;s lots of activity</p>
+<p begin="00:46:31.520" end="00:46:34.240" style="s2">around big data</p>
+<p begin="00:46:32.800" end="00:46:36.000" style="s2">right there are loads of companies</p>
+<p begin="00:46:34.240" end="00:46:37.200" style="s2">talenteer and snowflake and all of these</p>
+<p begin="00:46:36.000" end="00:46:38.560" style="s2">companies who are like you&#39;ve got</p>
+<p begin="00:46:37.200" end="00:46:40.480" style="s2">terabytes of whatever</p>
+<p begin="00:46:38.560" end="00:46:41.680" style="s2">we will help you solve solve problems on</p>
+<p begin="00:46:40.480" end="00:46:43.200" style="s2">top of it</p>
+<p begin="00:46:41.680" end="00:46:45.280" style="s2">but meanwhile nobody seems to be</p>
+<p begin="00:46:43.200" end="00:46:47.119" style="s2">targeting small data and my definition</p>
+<p begin="00:46:45.280" end="00:46:48.240" style="s2">of small data these days is data that</p>
+<p begin="00:46:47.119" end="00:46:49.680" style="s2">won&#39;t fit on my</p>
+<p begin="00:46:48.240" end="00:46:51.359" style="s2">phone and i think this phone&#39;s got a</p>
+<p begin="00:46:49.680" end="00:46:52.800" style="s2">terabyte of space on it now or it&#39;s like</p>
+<p begin="00:46:51.359" end="00:46:55.119" style="s2">half a terabyte so</p>
+<p begin="00:46:52.800" end="00:46:56.160" style="s2">small data is still pretty something</p>
+<p begin="00:46:55.119" end="00:46:58.560" style="s2">huge</p>
+<p begin="00:46:56.160" end="00:47:00.000" style="s2">in journalism um the interesting data</p>
+<p begin="00:46:58.560" end="00:47:00.960" style="s2">sets you look at tend to be 100</p>
+<p begin="00:47:00.000" end="00:47:02.720" style="s2">megabytes so</p>
+<p begin="00:47:00.960" end="00:47:04.560" style="s2">like i&#39;ve got one i&#39;m looking at mine</p>
+<p begin="00:47:02.720" end="00:47:06.480" style="s2">that&#39;s three gig and three gigabytes</p>
+<p begin="00:47:04.560" end="00:47:07.680" style="s2">works completely fine on a laptop or on</p>
+<p begin="00:47:06.480" end="00:47:11.280" style="s2">cheap hosting</p>
+<p begin="00:47:07.680" end="00:47:13.200" style="s2">um so part of what i&#39;m thinking about is</p>
+<p begin="00:47:11.280" end="00:47:15.520" style="s2">okay what are the opportunities in this</p>
+<p begin="00:47:13.200" end="00:47:18.079" style="s2">sort of small at the smaller end of data</p>
+<p begin="00:47:15.520" end="00:47:20.160" style="s2">most companies to be honest only have in</p>
+<p begin="00:47:18.079" end="00:47:21.520" style="s2">the order of gigabytes of data that they</p>
+<p begin="00:47:20.160" end="00:47:23.280" style="s2">actually want to analyze</p>
+<p begin="00:47:21.520" end="00:47:25.040" style="s2">you know you might have terabytes of log</p>
+<p begin="00:47:23.280" end="00:47:26.480" style="s2">files somewhere but for the most part</p>
+<p begin="00:47:25.040" end="00:47:28.640" style="s2">and at eventbrite we had a data</p>
+<p begin="00:47:26.480" end="00:47:30.400" style="s2">warehouse team and a giant expensive</p>
+<p begin="00:47:28.640" end="00:47:31.359" style="s2">data warehouse costing tens of thousands</p>
+<p begin="00:47:30.400" end="00:47:33.760" style="s2">of dollars a month</p>
+<p begin="00:47:31.359" end="00:47:34.880" style="s2">and i was still using dataset to solve</p>
+<p begin="00:47:33.760" end="00:47:37.280" style="s2">certain problems where</p>
+<p begin="00:47:34.880" end="00:47:38.640" style="s2">i&#39;d suck down a couple of thousand</p>
+<p begin="00:47:37.280" end="00:47:40.640" style="s2">records that i needed to</p>
+<p begin="00:47:38.640" end="00:47:42.079" style="s2">investigate more closely get them a date</p>
+<p begin="00:47:40.640" end="00:47:42.480" style="s2">up my laptop and start digging through</p>
+<p begin="00:47:42.079" end="00:47:44.000" style="s2">them</p>
+<p begin="00:47:42.480" end="00:47:45.359" style="s2">that was one of the the points at which</p>
+<p begin="00:47:44.000" end="00:47:46.800" style="s2">i realized that this thing was was</p>
+<p begin="00:47:45.359" end="00:47:48.400" style="s2">genuinely useful beyond</p>
+<p begin="00:47:46.800" end="00:47:50.240" style="s2">just mucking around with publishing</p>
+<p begin="00:47:48.400" end="00:47:52.800" style="s2">power plant data or whatever</p>
+<p begin="00:47:50.240" end="00:47:53.920" style="s2">um and the um likewise the the personal</p>
+<p begin="00:47:52.800" end="00:47:56.640" style="s2">data warehouse stuff you</p>
+<p begin="00:47:53.920" end="00:47:58.720" style="s2">do not need um your own copy of palantir</p>
+<p begin="00:47:56.640" end="00:47:59.359" style="s2">for your tweets and your emails and so</p>
+<p begin="00:47:58.720" end="00:48:01.839" style="s2">forth</p>
+<p begin="00:47:59.359" end="00:48:02.640" style="s2">but does that like everyone i show the</p>
+<p begin="00:48:01.839" end="00:48:04.559" style="s2">um</p>
+<p begin="00:48:02.640" end="00:48:06.319" style="s2">full demo to it&#39;s like no this is</p>
+<p begin="00:48:04.559" end="00:48:07.359" style="s2">clearly a valuable thing this is useful</p>
+<p begin="00:48:06.319" end="00:48:10.800" style="s2">to me</p>
+<p begin="00:48:07.359" end="00:48:12.240" style="s2">um so yeah so i i&#39;m i&#39;m i&#39;m really</p>
+<p begin="00:48:10.800" end="00:48:14.960" style="s2">interested in exploring that sort of</p>
+<p begin="00:48:12.240" end="00:48:15.599" style="s2">the what you can do with small data oh</p>
+<p begin="00:48:14.960" end="00:48:17.280" style="s2">the other</p>
+<p begin="00:48:15.599" end="00:48:19.040" style="s2">great example these days is airtable</p>
+<p begin="00:48:17.280" end="00:48:21.119" style="s2">airtable is a phenomenal product</p>
+<p begin="00:48:19.040" end="00:48:22.800" style="s2">and that is not for terabytes of data</p>
+<p begin="00:48:21.119" end="00:48:24.480" style="s2">like airtable is for</p>
+<p begin="00:48:22.800" end="00:48:26.720" style="s2">um actually somebody pointed out to me</p>
+<p begin="00:48:24.480" end="00:48:28.160" style="s2">recently that airtable is for data that</p>
+<p begin="00:48:26.720" end="00:48:29.520" style="s2">you can manually enter</p>
+<p begin="00:48:28.160" end="00:48:31.440" style="s2">right you&#39;re not going to pull in</p>
+<p begin="00:48:29.520" end="00:48:33.599" style="s2">gigabytes of log files into an air table</p>
+<p begin="00:48:31.440" end="00:48:35.599" style="s2">but if you&#39;ve got a team who need to</p>
+<p begin="00:48:33.599" end="00:48:37.119" style="s2">maintain their own sort of inbuilt um</p>
+<p begin="00:48:35.599" end="00:48:39.040" style="s2">home-built crm or whatever</p>
+<p begin="00:48:37.119" end="00:48:40.640" style="s2">airtable&#39;s absolutely perfect and</p>
+<p begin="00:48:39.040" end="00:48:43.040" style="s2">there&#39;s a possible world where</p>
+<p begin="00:48:40.640" end="00:48:44.720" style="s2">dataset evolves into the open source</p>
+<p begin="00:48:43.040" end="00:48:46.559" style="s2">alternative to airtable</p>
+<p begin="00:48:44.720" end="00:48:48.319" style="s2">but there are also about half a dozen</p>
+<p begin="00:48:46.559" end="00:48:50.000" style="s2">other possible worlds the dataset might</p>
+<p begin="00:48:48.319" end="00:48:51.119" style="s2">evolve into so i&#39;m still</p>
+<p begin="00:48:50.000" end="00:48:54.720" style="s2">still trying to figure out which</p>
+<p begin="00:48:51.119" end="00:48:54.720" style="s2">direction i should focus it in</p>
+<p begin="00:48:55.200" end="00:49:00.000" style="s2">that makes sense thank you</p>
+<p begin="00:48:58.800" end="00:49:01.599" style="s2">it&#39;s actually genuinely one of the</p>
+<p begin="00:49:00.000" end="00:49:02.960" style="s2">hardest problems i have for this project</p>
+<p begin="00:49:01.599" end="00:49:04.000" style="s2">is explaining what the hell it is</p>
+<p begin="00:49:02.960" end="00:49:05.920" style="s2">because you can</p>
+<p begin="00:49:04.000" end="00:49:07.280" style="s2">dataset it&#39;s a swiss army knife you can</p>
+<p begin="00:49:05.920" end="00:49:09.599" style="s2">do so much stuff with it</p>
+<p begin="00:49:07.280" end="00:49:11.760" style="s2">um my latest attempt is i&#39;ve got a page</p>
+<p begin="00:49:09.599" end="00:49:13.680" style="s2">on the dataset website of use cases</p>
+<p begin="00:49:11.760" end="00:49:15.119" style="s2">where i&#39;m going to add i deliberately</p>
+<p begin="00:49:13.680" end="00:49:16.640" style="s2">get around about a 20</p>
+<p begin="00:49:15.119" end="00:49:18.400" style="s2">just to try and get across the message</p>
+<p begin="00:49:16.640" end="00:49:20.079" style="s2">that this does a lot this can be used to</p>
+<p begin="00:49:18.400" end="00:49:22.400" style="s2">do a lot of different stuff</p>
+<p begin="00:49:20.079" end="00:49:24.160" style="s2">i mean i think the key things are</p>
+<p begin="00:49:22.400" end="00:49:26.319" style="s2">exploitative data analysis instant data</p>
+<p begin="00:49:24.160" end="00:49:28.880" style="s2">publishing and rapid prototyping</p>
+<p begin="00:49:26.319" end="00:49:29.520" style="s2">but i use it for like digital forensics</p>
+<p begin="00:49:28.880" end="00:49:31.920" style="s2">i use it</p>
+<p begin="00:49:29.520" end="00:49:33.839" style="s2">um i&#39;ve used it for security um</p>
+<p begin="00:49:31.920" end="00:49:36.240" style="s2">responding to security instance</p>
+<p begin="00:49:33.839" end="00:49:38.480" style="s2">um i build the dataset website is</p>
+<p begin="00:49:36.240" end="00:49:40.960" style="s2">dataset it&#39;s just with a custom theme</p>
+<p begin="00:49:38.480" end="00:49:42.319" style="s2">and template so it doesn&#39;t look like it</p>
+<p begin="00:49:40.960" end="00:49:44.559" style="s2">one of my other side projects</p>
+<p begin="00:49:42.319" end="00:49:45.599" style="s2">is a website to help um where i post</p>
+<p begin="00:49:44.559" end="00:49:48.880" style="s2">reviews of</p>
+<p begin="00:49:45.599" end="00:49:51.839" style="s2">tiny museums that i&#39;ve been to um so</p>
+<p begin="00:49:48.880" end="00:49:54.160" style="s2">things like uh and the new orleans</p>
+<p begin="00:49:51.839" end="00:49:55.359" style="s2">historic voodoo museum and so on um</p>
+<p begin="00:49:54.160" end="00:49:56.960" style="s2">before the pandemic</p>
+<p begin="00:49:55.359" end="00:49:58.880" style="s2">this was a great hobby because any town</p>
+<p begin="00:49:56.960" end="00:50:00.319" style="s2">you go to there&#39;s going to be a weird</p>
+<p begin="00:49:58.880" end="00:50:03.440" style="s2">little museum somewhere</p>
+<p begin="00:50:00.319" end="00:50:04.640" style="s2">that&#39;s about pharmacies or voodoo or</p>
+<p begin="00:50:03.440" end="00:50:06.800" style="s2">whatever it is</p>
+<p begin="00:50:04.640" end="00:50:07.760" style="s2">and so i&#39;ve been trying to build build</p>
+<p begin="00:50:06.800" end="00:50:09.280" style="s2">up a and build</p>
+<p begin="00:50:07.760" end="00:50:11.440" style="s2">essentially building a database of weird</p>
+<p begin="00:50:09.280" end="00:50:12.880" style="s2">museums i&#39;ve been to um and again this</p>
+<p begin="00:50:11.440" end="00:50:14.000" style="s2">is this is data set but it&#39;s with a</p>
+<p begin="00:50:12.880" end="00:50:16.000" style="s2">custom theme</p>
+<p begin="00:50:14.000" end="00:50:18.160" style="s2">it&#39;s got a use my location button so</p>
+<p begin="00:50:16.000" end="00:50:20.480" style="s2">it&#39;s weird museums near you</p>
+<p begin="00:50:18.160" end="00:50:22.160" style="s2">i&#39;m 0.16 miles away from the comic rock</p>
+<p begin="00:50:20.480" end="00:50:24.000" style="s2">stars toilet seat museum</p>
+<p begin="00:50:22.160" end="00:50:25.520" style="s2">has anyone seen this this is if you&#39;re</p>
+<p begin="00:50:24.000" end="00:50:27.680" style="s2">in san francisco</p>
+<p begin="00:50:25.520" end="00:50:29.680" style="s2">okay so in hayes valley in there&#39;s a</p>
+<p begin="00:50:27.680" end="00:50:32.079" style="s2">comic book store called isotope</p>
+<p begin="00:50:29.680" end="00:50:33.680" style="s2">and this is the the guy who runs isotope</p>
+<p begin="00:50:32.079" end="00:50:35.440" style="s2">and he collects</p>
+<p begin="00:50:33.680" end="00:50:37.760" style="s2">um toilet seats that have been</p>
+<p begin="00:50:35.440" end="00:50:38.079" style="s2">illustrated by famous comic book artists</p>
+<p begin="00:50:37.760" end="00:50:40.160" style="s2">like</p>
+<p begin="00:50:38.079" end="00:50:41.760" style="s2">they come to his store and he gives them</p>
+<p begin="00:50:40.160" end="00:50:42.800" style="s2">a toilet seat and they illustrate it and</p>
+<p begin="00:50:41.760" end="00:50:45.280" style="s2">he&#39;s got like</p>
+<p begin="00:50:42.800" end="00:50:46.800" style="s2">over a hundred of these things now and</p>
+<p begin="00:50:45.280" end="00:50:48.480" style="s2">it&#39;s like a</p>
+<p begin="00:50:46.800" end="00:50:50.400" style="s2">that&#39;s like warren ellis and people like</p>
+<p begin="00:50:48.480" end="00:50:52.240" style="s2">that have illustrated his toilet seats</p>
+<p begin="00:50:50.400" end="00:50:54.400" style="s2">and if you go in there or today if you</p>
+<p begin="00:50:52.240" end="00:50:56.880" style="s2">go to the window and look in you can see</p>
+<p begin="00:50:54.400" end="00:50:57.920" style="s2">this amazing collection um and that to</p>
+<p begin="00:50:56.880" end="00:51:00.880" style="s2">me</p>
+<p begin="00:50:57.920" end="00:51:02.319" style="s2">this is this is this is what life is</p>
+<p begin="00:51:00.880" end="00:51:03.680" style="s2">about right it&#39;s finding</p>
+<p begin="00:51:02.319" end="00:51:05.200" style="s2">finding the people who collect the</p>
+<p begin="00:51:03.680" end="00:51:07.280" style="s2">toilet seats with the illustrations on</p>
+<p begin="00:51:05.200" end="00:51:10.559" style="s2">them so yeah but niche museums here</p>
+<p begin="00:51:07.280" end="00:51:11.680" style="s2">is just it&#39;s um it&#39;s data set uh if you</p>
+<p begin="00:51:10.559" end="00:51:13.920" style="s2">go to slash browse</p>
+<p begin="00:51:11.680" end="00:51:14.720" style="s2">here&#39;s my database table of museums and</p>
+<p begin="00:51:13.920" end="00:51:18.079" style="s2">on a map</p>
+<p begin="00:51:14.720" end="00:51:20.000" style="s2">um and yeah the um and then the the home</p>
+<p begin="00:51:18.079" end="00:51:22.400" style="s2">page is a custom template that adds</p>
+<p begin="00:51:20.000" end="00:51:24.960" style="s2">images and and all of that kind of stuff</p>
+<p begin="00:51:22.400" end="00:51:26.079" style="s2">but yeah so dataset does that too um</p>
+<p begin="00:51:24.960" end="00:51:28.000" style="s2">which means that</p>
+<p begin="00:51:26.079" end="00:51:30.000" style="s2">i don&#39;t have the i definitely don&#39;t have</p>
+<p begin="00:51:28.000" end="00:51:30.400" style="s2">the the right elevator pitch for it yet</p>
+<p begin="00:51:30.000" end="00:51:32.240" style="s2">if you</p>
+<p begin="00:51:30.400" end="00:51:34.319" style="s2">give me 15 minutes i can explain the</p>
+<p begin="00:51:32.240" end="00:51:35.760" style="s2">project to you but that&#39;s not really uh</p>
+<p begin="00:51:34.319" end="00:51:37.119" style="s2">it&#39;s not really a great way of</p>
+<p begin="00:51:35.760" end="00:51:38.640" style="s2">explaining what something does it&#39;s</p>
+<p begin="00:51:37.119" end="00:51:39.920" style="s2">challenging as well because</p>
+<p begin="00:51:38.640" end="00:51:41.760" style="s2">it comes down to oh what&#39;s that</p>
+<p begin="00:51:39.920" end="00:51:43.119" style="s2">marketing term um</p>
+<p begin="00:51:41.760" end="00:51:45.119" style="s2">it&#39;s pinning or framing or something</p>
+<p begin="00:51:43.119" end="00:51:46.559" style="s2">that thing where if i say that dataset</p>
+<p begin="00:51:45.119" end="00:51:49.119" style="s2">is a data warehouse</p>
+<p begin="00:51:46.559" end="00:51:50.079" style="s2">it will be compared to hive and</p>
+<p begin="00:51:49.119" end="00:51:52.559" style="s2">snowflake and</p>
+<p begin="00:51:50.079" end="00:51:53.440" style="s2">and so on if i say that it is like</p>
+<p begin="00:51:52.559" end="00:51:55.280" style="s2">airtable</p>
+<p begin="00:51:53.440" end="00:51:58.319" style="s2">or or a personal database it will be</p>
+<p begin="00:51:55.280" end="00:51:59.760" style="s2">compared to a table and access and excel</p>
+<p begin="00:51:58.319" end="00:52:01.040" style="s2">and at the moment somebody starts</p>
+<p begin="00:51:59.760" end="00:52:02.800" style="s2">comparing one of those tools they get a</p>
+<p begin="00:52:01.040" end="00:52:04.160" style="s2">fixed idea of what it can do</p>
+<p begin="00:52:02.800" end="00:52:05.920" style="s2">what kind of money they should be</p>
+<p begin="00:52:04.160" end="00:52:06.559" style="s2">spending on it all of that so it&#39;s</p>
+<p begin="00:52:05.920" end="00:52:09.920" style="s2">tricky</p>
+<p begin="00:52:06.559" end="00:52:11.599" style="s2">um but you know i the more conversations</p>
+<p begin="00:52:09.920" end="00:52:13.680" style="s2">i have about it the better i get it</p>
+<p begin="00:52:11.599" end="00:52:16.960" style="s2">the closer i get to figuring out how to</p>
+<p begin="00:52:13.680" end="00:52:16.960" style="s2">explain it to people i think</p>
+<p begin="00:52:17.119" end="00:52:21.440" style="s2">and that was incredible i uh i have a</p>
+<p begin="00:52:19.760" end="00:52:22.319" style="s2">question which is like a bit of a meta</p>
+<p begin="00:52:21.440" end="00:52:26.079" style="s2">question</p>
+<p begin="00:52:22.319" end="00:52:28.480" style="s2">i which is uh how do you perform and and</p>
+<p begin="00:52:26.079" end="00:52:30.319" style="s2">and like how do you go about not</p>
+<p begin="00:52:28.480" end="00:52:31.440" style="s2">specifically daily basis like for</p>
+<p begin="00:52:30.319" end="00:52:33.680" style="s2">example</p>
+<p begin="00:52:31.440" end="00:52:34.480" style="s2">that for like a feature and how do you</p>
+<p begin="00:52:33.680" end="00:52:37.119" style="s2">keep fresh</p>
+<p begin="00:52:34.480" end="00:52:38.640" style="s2">like you know stay at it fresh but also</p>
+<p begin="00:52:37.119" end="00:52:41.119" style="s2">be able to bring some to build that out</p>
+<p begin="00:52:38.640" end="00:52:44.880" style="s2">all the way through</p>
+<p begin="00:52:41.119" end="00:52:47.760" style="s2">so partly the big cheat that i have</p>
+<p begin="00:52:44.880" end="00:52:49.040" style="s2">is i basically only work on projects</p>
+<p begin="00:52:47.760" end="00:52:50.160" style="s2">where i know that it&#39;s going to be</p>
+<p begin="00:52:49.040" end="00:52:51.920" style="s2">really easy to build</p>
+<p begin="00:52:50.160" end="00:52:53.280" style="s2">i know it&#39;s going to be quick so i&#39;ve</p>
+<p begin="00:52:51.920" end="00:52:56.319" style="s2">spent basically i&#39;ve spent the last</p>
+<p begin="00:52:53.280" end="00:52:56.800" style="s2">20 years hoarding little like cheat</p>
+<p begin="00:52:56.319" end="00:52:58.880" style="s2">sheet</p>
+<p begin="00:52:56.800" end="00:53:00.000" style="s2">little tricks that i can use and then</p>
+<p begin="00:52:58.880" end="00:53:00.960" style="s2">once every now and then</p>
+<p begin="00:53:00.000" end="00:53:02.960" style="s2">something come along and i think you</p>
+<p begin="00:53:00.960" end="00:53:04.240" style="s2">know what because i&#39;ve built this in the</p>
+<p begin="00:53:02.960" end="00:53:04.640" style="s2">past and because of this and because of</p>
+<p begin="00:53:04.240" end="00:53:06.240" style="s2">that</p>
+<p begin="00:53:04.640" end="00:53:08.400" style="s2">this is a project that will take me take</p>
+<p begin="00:53:06.240" end="00:53:10.400" style="s2">me a couple of days and i can launch it</p>
+<p begin="00:53:08.400" end="00:53:12.240" style="s2">and honestly i don&#39;t work on projects</p>
+<p begin="00:53:10.400" end="00:53:12.559" style="s2">that take more than a week before i can</p>
+<p begin="00:53:12.240" end="00:53:14.880" style="s2">put</p>
+<p begin="00:53:12.559" end="00:53:16.319" style="s2">something out there most of the plugins</p>
+<p begin="00:53:14.880" end="00:53:17.839" style="s2">i write or a couple of hours and then i</p>
+<p begin="00:53:16.319" end="00:53:19.520" style="s2">stick out the initial release</p>
+<p begin="00:53:17.839" end="00:53:20.960" style="s2">and that&#39;s something i learned um i mean</p>
+<p begin="00:53:19.520" end="00:53:22.319" style="s2">that&#39;s it&#39;s the release early release</p>
+<p begin="00:53:20.960" end="00:53:24.160" style="s2">often thing it turns out</p>
+<p begin="00:53:22.319" end="00:53:25.839" style="s2">that&#39;s so important for side projects</p>
+<p begin="00:53:24.160" end="00:53:27.040" style="s2">because the alternative</p>
+<p begin="00:53:25.839" end="00:53:29.280" style="s2">is that you never ship your side</p>
+<p begin="00:53:27.040" end="00:53:31.839" style="s2">projects and wildlife near you</p>
+<p begin="00:53:29.280" end="00:53:32.640" style="s2">the thing that we built in a fort um we</p>
+<p begin="00:53:31.839" end="00:53:34.640" style="s2">worked on it for</p>
+<p begin="00:53:32.640" end="00:53:36.079" style="s2">for a week together on this fortress and</p>
+<p begin="00:53:34.640" end="00:53:38.079" style="s2">then we took it home with just a few</p>
+<p begin="00:53:36.079" end="00:53:40.880" style="s2">more details to to finish off</p>
+<p begin="00:53:38.079" end="00:53:41.440" style="s2">and 12 months later we finally shipped</p>
+<p begin="00:53:40.880" end="00:53:42.880" style="s2">it</p>
+<p begin="00:53:41.440" end="00:53:44.800" style="s2">because it was just like oh it&#39;ll be</p>
+<p begin="00:53:42.880" end="00:53:46.400" style="s2">perfect if we just add this one</p>
+<p begin="00:53:44.800" end="00:53:47.680" style="s2">integration with flickr and if we just</p>
+<p begin="00:53:46.400" end="00:53:48.319" style="s2">do this and just do this and just do</p>
+<p begin="00:53:47.680" end="00:53:50.000" style="s2">this</p>
+<p begin="00:53:48.319" end="00:53:51.680" style="s2">and of course we launched it and</p>
+<p begin="00:53:50.000" end="00:53:53.200" style="s2">instantly everyone ignored most of the</p>
+<p begin="00:53:51.680" end="00:53:54.720" style="s2">features we built and they cared about</p>
+<p begin="00:53:53.200" end="00:53:56.000" style="s2">this one little thing that we didn&#39;t</p>
+<p begin="00:53:54.720" end="00:53:58.800" style="s2">know was important</p>
+<p begin="00:53:56.000" end="00:53:59.200" style="s2">so the the thing i learned from that is</p>
+<p begin="00:53:58.800" end="00:54:01.839" style="s2">yeah</p>
+<p begin="00:53:59.200" end="00:54:03.200" style="s2">your product isn&#39;t i i uh a side project</p>
+<p begin="00:54:01.839" end="00:54:04.800" style="s2">almost isn&#39;t the side project</p>
+<p begin="00:54:03.200" end="00:54:06.240" style="s2">until either other people can see it or</p>
+<p begin="00:54:04.800" end="00:54:07.359" style="s2">at least you&#39;re actively using it</p>
+<p begin="00:54:06.240" end="00:54:10.400" style="s2">yourself</p>
+<p begin="00:54:07.359" end="00:54:10.800" style="s2">um and so yeah that&#39;s something i&#39;m i&#39;m</p>
+<p begin="00:54:10.400" end="00:54:13.599" style="s2">very</p>
+<p begin="00:54:10.800" end="00:54:14.800" style="s2">very passionate like uh i&#39;ve got this um</p>
+<p begin="00:54:13.599" end="00:54:16.880" style="s2">personal home page</p>
+<p begin="00:54:14.800" end="00:54:18.640" style="s2">on github where you know github have</p>
+<p begin="00:54:16.880" end="00:54:20.400" style="s2">this personal readme thing</p>
+<p begin="00:54:18.640" end="00:54:23.119" style="s2">and so i built a personal readme which</p>
+<p begin="00:54:20.400" end="00:54:25.520" style="s2">is self updating it has a github action</p>
+<p begin="00:54:23.119" end="00:54:26.800" style="s2">which runs a couple of times an hour and</p>
+<p begin="00:54:25.520" end="00:54:29.040" style="s2">pulls some feeds and</p>
+<p begin="00:54:26.800" end="00:54:30.400" style="s2">and and um puts them in there but my</p>
+<p begin="00:54:29.040" end="00:54:32.720" style="s2">favorite bit of this</p>
+<p begin="00:54:30.400" end="00:54:34.400" style="s2">is this these are the releases that i&#39;m</p>
+<p begin="00:54:32.720" end="00:54:36.799" style="s2">making to my project</p>
+<p begin="00:54:34.400" end="00:54:38.240" style="s2">so this is every time i tag something as</p>
+<p begin="00:54:36.799" end="00:54:39.839" style="s2">the release version and push it out to</p>
+<p begin="00:54:38.240" end="00:54:42.000" style="s2">the python package index or whatever</p>
+<p begin="00:54:39.839" end="00:54:43.520" style="s2">and then most days i have at least one</p>
+<p begin="00:54:42.000" end="00:54:45.520" style="s2">release of something</p>
+<p begin="00:54:43.520" end="00:54:46.720" style="s2">because because i&#39;m trying to release</p>
+<p begin="00:54:45.520" end="00:54:49.440" style="s2">early and release often</p>
+<p begin="00:54:46.720" end="00:54:50.240" style="s2">um and so i will i will add a a bug fix</p>
+<p begin="00:54:49.440" end="00:54:52.720" style="s2">and i&#39;ll ship a bug</p>
+<p begin="00:54:50.240" end="00:54:54.400" style="s2">fix release and that&#39;s that&#39;s you know</p>
+<p begin="00:54:52.720" end="00:54:56.880" style="s2">that&#39;s done and that&#39;s out there</p>
+<p begin="00:54:54.400" end="00:54:57.520" style="s2">um so yeah that releasing early using</p>
+<p begin="00:54:56.880" end="00:54:59.040" style="s2">often</p>
+<p begin="00:54:57.520" end="00:55:01.440" style="s2">going after the projects that are really</p>
+<p begin="00:54:59.040" end="00:55:02.400" style="s2">easy um here&#39;s a really fun example uh</p>
+<p begin="00:55:01.440" end="00:55:05.119" style="s2">this is something i put out a couple of</p>
+<p begin="00:55:02.400" end="00:55:08.319" style="s2">weeks ago this is a code search engine</p>
+<p begin="00:55:05.119" end="00:55:08.880" style="s2">um that does a regular expression code</p>
+<p begin="00:55:08.319" end="00:55:11.760" style="s2">search</p>
+<p begin="00:55:08.880" end="00:55:14.400" style="s2">against all of my projects which is a</p>
+<p begin="00:55:11.760" end="00:55:16.720" style="s2">ridiculously ambitious thing to build</p>
+<p begin="00:55:14.400" end="00:55:17.760" style="s2">except in this case it took the best</p>
+<p begin="00:55:16.720" end="00:55:19.599" style="s2">part of a day</p>
+<p begin="00:55:17.760" end="00:55:21.280" style="s2">because it&#39;s running this this open</p>
+<p begin="00:55:19.599" end="00:55:22.079" style="s2">source tool called rip grep which is</p>
+<p begin="00:55:21.280" end="00:55:24.559" style="s2">amazing</p>
+<p begin="00:55:22.079" end="00:55:25.359" style="s2">and this is about about 100 lines of</p>
+<p begin="00:55:24.559" end="00:55:27.280" style="s2">python code</p>
+<p begin="00:55:25.359" end="00:55:28.640" style="s2">adding a simple web and face on top of</p>
+<p begin="00:55:27.280" end="00:55:31.839" style="s2">rip grab</p>
+<p begin="00:55:28.640" end="00:55:33.839" style="s2">so it take it takes this this really</p>
+<p begin="00:55:31.839" end="00:55:35.440" style="s2">like ambitious idea for a thing and</p>
+<p begin="00:55:33.839" end="00:55:38.079" style="s2">turns it into a very quick</p>
+<p begin="00:55:35.440" end="00:55:40.240" style="s2">turn it turn around in a few hours i&#39;ve</p>
+<p begin="00:55:38.079" end="00:55:43.520" style="s2">made a few enhancements to it since then</p>
+<p begin="00:55:40.240" end="00:55:45.440" style="s2">but um it&#39;s a huge cheat right this is</p>
+<p begin="00:55:43.520" end="00:55:46.880" style="s2">this is this project exists solely</p>
+<p begin="00:55:45.440" end="00:55:49.920" style="s2">because i was like holy</p>
+<p begin="00:55:46.880" end="00:55:51.119" style="s2">rip grep has a json export which means</p>
+<p begin="00:55:49.920" end="00:55:52.480" style="s2">that i can plug it into this thing and</p>
+<p begin="00:55:51.119" end="00:55:53.520" style="s2">write some code which means i can build</p>
+<p begin="00:55:52.480" end="00:55:54.799" style="s2">a code search engine</p>
+<p begin="00:55:53.520" end="00:55:57.119" style="s2">if it was going to take longer than a</p>
+<p begin="00:55:54.799" end="00:55:58.559" style="s2">few hours i wouldn&#39;t have done it um</p>
+<p begin="00:55:57.119" end="00:56:00.160" style="s2">actually that&#39;s a philosophy i have</p>
+<p begin="00:55:58.559" end="00:56:02.000" style="s2">around data set itself</p>
+<p begin="00:56:00.160" end="00:56:03.520" style="s2">is i think there&#39;s something really</p>
+<p begin="00:56:02.000" end="00:56:06.240" style="s2">interesting about</p>
+<p begin="00:56:03.520" end="00:56:07.760" style="s2">tools or technologies that take the</p>
+<p begin="00:56:06.240" end="00:56:08.799" style="s2">amount of effort required to do</p>
+<p begin="00:56:07.760" end="00:56:10.720" style="s2">something down</p>
+<p begin="00:56:08.799" end="00:56:11.839" style="s2">from i&#39;m like even if you&#39;ve got</p>
+<p begin="00:56:10.720" end="00:56:13.680" style="s2">something to take a week</p>
+<p begin="00:56:11.839" end="00:56:15.680" style="s2">like public if you&#39;re a newspaper and</p>
+<p begin="00:56:13.680" end="00:56:16.960" style="s2">you want to publish data about the local</p>
+<p begin="00:56:15.680" end="00:56:18.720" style="s2">nursing homes</p>
+<p begin="00:56:16.960" end="00:56:20.160" style="s2">and you need to have an engineer work on</p>
+<p begin="00:56:18.720" end="00:56:21.920" style="s2">that for a week to get up a web</p>
+<p begin="00:56:20.160" end="00:56:23.680" style="s2">interface with with like</p>
+<p begin="00:56:21.920" end="00:56:25.520" style="s2">json export and stuff you&#39;re not going</p>
+<p begin="00:56:23.680" end="00:56:27.200" style="s2">to do that you cannot afford</p>
+<p begin="00:56:25.520" end="00:56:29.119" style="s2">a week of engineering time for that but</p>
+<p begin="00:56:27.200" end="00:56:30.000" style="s2">if data set drives drops that down to a</p>
+<p begin="00:56:29.119" end="00:56:32.640" style="s2">couple of hours</p>
+<p begin="00:56:30.000" end="00:56:34.400" style="s2">then you will do it so there&#39;s this sort</p>
+<p begin="00:56:32.640" end="00:56:36.799" style="s2">of activation energy where</p>
+<p begin="00:56:34.400" end="00:56:38.079" style="s2">there are tools and techniques that take</p>
+<p begin="00:56:36.799" end="00:56:39.280" style="s2">something which is</p>
+<p begin="00:56:38.079" end="00:56:40.559" style="s2">going to take long enough that you&#39;re</p>
+<p begin="00:56:39.280" end="00:56:43.200" style="s2">not going to select that as a thing to</p>
+<p begin="00:56:40.559" end="00:56:45.119" style="s2">do and drop it down below the bar</p>
+<p begin="00:56:43.200" end="00:56:46.799" style="s2">and then and then let you do it and i</p>
+<p begin="00:56:45.119" end="00:56:47.680" style="s2">love that kind of thing like that to me</p>
+<p begin="00:56:46.799" end="00:56:49.680" style="s2">is</p>
+<p begin="00:56:47.680" end="00:56:51.920" style="s2">if you built if if i can build a tool</p>
+<p begin="00:56:49.680" end="00:56:53.040" style="s2">that means i can do a dozen more</p>
+<p begin="00:56:51.920" end="00:56:54.319" style="s2">projects in the future</p>
+<p begin="00:56:53.040" end="00:56:55.440" style="s2">that i wouldn&#39;t have done otherwise</p>
+<p begin="00:56:54.319" end="00:56:56.160" style="s2">because they&#39;d have taken too long</p>
+<p begin="00:56:55.440" end="00:56:58.559" style="s2">that&#39;s that&#39;s</p>
+<p begin="00:56:56.160" end="00:57:00.480" style="s2">that&#39;s enormously valuable and again the</p>
+<p begin="00:56:58.559" end="00:57:01.839" style="s2">data set plug-ins play into all of that</p>
+<p begin="00:57:00.480" end="00:57:02.960" style="s2">everything i&#39;m building around here is</p>
+<p begin="00:57:01.839" end="00:57:05.680" style="s2">about</p>
+<p begin="00:57:02.960" end="00:57:07.040" style="s2">trying to put the least amount of effort</p>
+<p begin="00:57:05.680" end="00:57:09.760" style="s2">into the most amount of</p>
+<p begin="00:57:07.040" end="00:57:12.400" style="s2">of sort of value and and stuff that i</p>
+<p begin="00:57:09.760" end="00:57:15.119" style="s2">can do with it</p>
+<p begin="00:57:12.400" end="00:57:17.359" style="s2">incredible thank you that was rich</p>
+<p begin="00:57:15.119" end="00:57:17.359" style="s2">thanks</p>
+<p begin="00:57:17.760" end="00:57:23.520" style="s2">well it looks like we&#39;re at time uh</p>
+<p begin="00:57:20.880" end="00:57:25.359" style="s2">thank you simon so much for speaking</p>
+<p begin="00:57:23.520" end="00:57:26.400" style="s2">with us today that was super interesting</p>
+<p begin="00:57:25.359" end="00:57:29.839" style="s2">and</p>
+<p begin="00:57:26.400" end="00:57:30.960" style="s2">um please come back and talk with us</p>
+<p begin="00:57:29.839" end="00:57:33.680" style="s2">again</p>
+<p begin="00:57:30.960" end="00:57:35.520" style="s2">i&#39;d i mean especially if anyone&#39;s got</p>
+<p begin="00:57:33.680" end="00:57:37.920" style="s2">any insight into how i can</p>
+<p begin="00:57:35.520" end="00:57:39.200" style="s2">well it&#39;s not just um it&#39;s not just like</p>
+<p begin="00:57:37.920" end="00:57:40.640" style="s2">commercializing open source</p>
+<p begin="00:57:39.200" end="00:57:42.960" style="s2">it&#39;s just straight up figuring out how</p>
+<p begin="00:57:40.640" end="00:57:44.799" style="s2">to do how to set up decent contracting</p>
+<p begin="00:57:42.960" end="00:57:46.960" style="s2">and consulting gigs that support this</p>
+<p begin="00:57:44.799" end="00:57:49.760" style="s2">kind of thing as well i&#39;d love to</p>
+<p begin="00:57:46.960" end="00:57:52.720" style="s2">to swap swap um to swap notes with</p>
+<p begin="00:57:49.760" end="00:57:52.720" style="s2">people on how to do that</p>
+<p begin="00:57:53.119" end="00:57:58.000" style="s2">definitely why don&#39;t you um could you do</p>
+<p begin="00:57:55.599" end="00:58:01.040" style="s2">you mind if people contact you</p>
+<p begin="00:57:58.000" end="00:58:02.000" style="s2">oh absolutely no plea please feel free</p>
+<p begin="00:58:01.040" end="00:58:06.000" style="s2">to reach out for me</p>
+<p begin="00:58:02.000" end="00:58:07.839" style="s2">uh reach out me okay great maybe you can</p>
+<p begin="00:58:06.000" end="00:58:10.079" style="s2">put your email address in the um chat</p>
+<p begin="00:58:07.839" end="00:58:10.079" style="s2">box</p>
+<p begin="00:58:17.359" end="00:58:25.040" style="s2">um okay so i&#39;m just williston</p>
+<p begin="00:58:21.760" end="00:58:28.880" style="s2">um oh</p>
+<p begin="00:58:25.040" end="00:58:28.880" style="s2">and i&#39;m on twitter as well</p>
+<p begin="00:58:29.119" end="00:58:39.040" style="s2">there we go</p>
+<p begin="00:58:36.000" end="00:58:39.040" style="s2">on i think you&#39;re muted</p>
+<p begin="00:58:39.680" end="00:58:44.000" style="s2">thank you um yeah my internet&#39;s</p>
+<p begin="00:58:42.799" end="00:58:45.920" style="s2">principality today but</p>
+<p begin="00:58:44.000" end="00:58:47.200" style="s2">thank you so much again um i&#39;ll save</p>
+<p begin="00:58:45.920" end="00:58:50.319" style="s2">that email address and</p>
+<p begin="00:58:47.200" end="00:58:51.680" style="s2">i&#39;ll post it maybe in slack um everyone</p>
+<p begin="00:58:50.319" end="00:58:54.319" style="s2">can access it</p>
+<p begin="00:58:51.680" end="00:58:55.760" style="s2">thank you again and we thanks for having</p>
+<p begin="00:58:54.319" end="00:58:59.359" style="s2">me</p>
+<p begin="00:58:55.760" end="00:59:06.000" style="s2">it was great meeting you all thank you</p>
+<p begin="00:58:59.359" end="00:59:06.000" style="s2">thanks simon thank you you</p>
+</div>
+</body>
+</tt>
