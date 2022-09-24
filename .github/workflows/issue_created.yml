@@ -38,9 +38,11 @@ jobs:
             // Create directory named after the issue number
             const number = context.issue.number.toString();
             child_process.spawnSync('mkdir', [number]);
+            // Build full directory
+            const dir = `${process.env.GITHUB_WORKSPACE}/${number}`;
             // Run in that directory:
             const result = child_process.spawnSync('yt-dlp', ['--all-subs', '--skip-download', url], {
-              cwd: number,
+              cwd: dir,
             });
             // Post the output as a comment
             github.rest.issues.createComment({
