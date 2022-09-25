@@ -89,12 +89,12 @@ jobs:
               // Use --write-auto-sub
               results.push(run('yt-dlp', ['--write-auto-sub', '--skip-download', '--sub-format', 'ttml/vtt/best', url], `${number}/auto`));
               // Now delete all but the `ru` and `en` files
-              const autoFiles = fs.listdirSync(`${number}/auto`);
-              for (const file of autoFiles) {
+              const autoFiles = fs.readdirSync(`${number}/auto`);
+              autoFiles.forEach(file => {
                 if (!file.includes('.ru.') && !file.includes('.en.')) {
                   fs.unlinkSync(`${number}/auto/${file}`);
                 }
-              }
+              });
             }
             const comment = results.map(result => {
               return `\`\`\` + ${result[0]}\n${result[1]}\n${result[2]}\`\`\``;
