@@ -140,6 +140,9 @@ jobs:
               cwd: `${number}/whisper`,
               encoding: 'utf-8',
             }).stdout);
+            console.log(child_process.spawnSync('find', ['.'], {
+              encoding: 'utf-8',
+            }).stdout);
             // Run it through whisper
             child_process.spawnSync('python', [
               'transcribe_audio.py', `${number}/whisper/audio.mp3`, `${number}/whisper/transcription.json`
