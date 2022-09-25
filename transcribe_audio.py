@@ -13,9 +13,13 @@ def transcribe_audio(filepath):
 
 
 if __name__ == "__main__":
-    filepath = sys.argv[-1]
-    if not filepath.endswith(".mp3"):
+    audio_path = sys.argv[-2]
+    output_path = sys.argv[-1]
+    if not audio_path.endswith(".mp3"):
         print("Please provide an mp3 file")
         sys.exit(1)
-    output = transcribe_audio(sys.argv[-1])
-    print(json.dumps(output, indent=2))
+    if not output_path.endswith(".json"):
+        print("Please provide a .json output file")
+        sys.exit(1)
+    output = transcribe_audio(audio_path)
+    open(output_path, "w").write(json.dumps(output, indent=2) + "\n")
