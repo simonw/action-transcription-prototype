@@ -16,6 +16,7 @@ jobs:
         with:
           script: |
             const child_process = require('child_process');
+            const fs = require('fs');
             const body = context.payload.issue.body;
             let match = body.match(/https?:\/\/[^\s]+/);
             // Ignore github.com URLs
@@ -56,9 +57,16 @@ jobs:
             if (files.stdout.toString().trim() === '') {
               // Use --write-auto-sub
               results.push(run('yt-dlp', ['--write-auto-sub', '--skip-download', '--sub-format', 'ttml/vtt/best', url], `${number}/auto`));
+              // Now delete all but the `ru` and `en` files
+              const autoFiles = fs.listdirSync(`${number}/auto`);
+              for (const file of autoFiles) {
+                if (!file.includes('.ru.') && !file.includes('.en.')) {
+                  fs.unlinkSync(`${number}/auto/${file}`);
+                }
+              }
             }
             // If still no files, push them through Whisper
-            const files2 = child_process.spawnSync('ls', [`${number}/subs`]);
+            const files2 = child_process.spawnSync('ls', [`${number}/auto`]);
             if (files2.stdout.toString().trim() === '') {
               console.log("TODO: Whisper");
             }
