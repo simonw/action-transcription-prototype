@@ -15,6 +15,7 @@ jobs:
       - run: sudo apt-get -y install ffmpeg
         if: contains(github.event.issue.labels.*.name, 'whisper')
       - uses: actions/github-script@v6
+        if: contains(github.event.issue.labels.*.name, 'whisper') || contains(github.event.issue.labels.*.name, 'captions')
         name: Save metadata
         with:
           script: |
