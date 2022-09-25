@@ -38,7 +38,7 @@ jobs:
               cwd: `${number}/metadata-temp`
             });
             // Rename to info.json
-            child_process.exec(`cat ${number}/metadata-temp/*.json | jq > ${number}/metadata/info.json`);
+            child_process.exec(`cat ${number}/metadata-temp/*.json | jq 'del(.automatic_captions)' -c > ${number}/metadata/info.json`);
             child_process.exec(`rm ${number}/metadata-temp/*.json`);
       - uses: actions/github-script@v6
         name: Extract captions
