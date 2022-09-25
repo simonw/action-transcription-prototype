@@ -87,11 +87,15 @@ jobs:
               if (foundFiles.length) {
                 // Pass it through XXXX-to-json
                 let args = [foundFiles[0]];
+                let command = null;
                 if (format === 'vtt') {
                   args.push('--dedupe');
+                  command = 'webvtt-to-json';
+                } else {
+                  command = 'ttml-to-json';
                 }
                 const captions = JSON.parse(
-                  child_process.spawnSync(`${format}-to-json`, args, {
+                  child_process.spawnSync(command, args, {
                     encoding: 'utf-8',
                   }
                 ).stdout);
