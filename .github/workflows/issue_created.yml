@@ -80,22 +80,29 @@ jobs:
               repo: context.repo.repo,
               body: comment,
             });
-            // Generate a comment with the result from .vtt files
-            const globber = await glob.create(`${number}/**/*.vtt`);
-            const vttFiles = await globber.glob();
-            if (vttFiles.length) {
-              // Pass it through webvtt-to-json
-              const captions = JSON.parse(
-                child_process.spawnSync('webvtt-to-json', [vttFiles[0], '--dedupe'], {
-                  encoding: 'utf-8',
+            // Generate a comment with the result from .ttml or .vtt files
+            for (const format of ['ttml', 'vtt']) {
+              const globber = await glob.create(`${number}/**/*.${format}`);
+              const foundFiles = await globber.glob();
+              if (foundFiles.length) {
+                // Pass it through XXXX-to-json
+                let args = [foundFiles[0]];
+                if (format === 'vtt') {
+                  args.push('--dedupe');
                 }
-              ).stdout);
-              github.rest.issues.createComment({
-                issue_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                body: '```\n' + captions.map(caption => caption.lines.join('\n')).join('\n') + '\n```',
-              });
+                const captions = JSON.parse(
+                  child_process.spawnSync(`${format}-to-json`, args, {
+                    encoding: 'utf-8',
+                  }
+                ).stdout);
+                github.rest.issues.createComment({
+                  issue_number: context.issue.number,
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  body: '```\n' + captions.map(caption => caption.lines.join('\n')).join('\n') + '\n```',
+                });
+                break;
+              }
             }
             // Close the issue
             github.rest.issues.update({
