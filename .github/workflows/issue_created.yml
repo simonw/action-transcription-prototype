@@ -86,8 +86,10 @@ jobs:
             if (vttFiles.length) {
               // Pass it through webvtt-to-json
               const captions = JSON.parse(
-                child_process.spawnSync('webvtt-to-json', vttFiles[0], '--dedupe'
-              ).output);
+                child_process.spawnSync('webvtt-to-json', [vttFiles[0], '--dedupe'], {
+                  encoding: 'utf-8',
+                }
+              ).stdout);
               github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
