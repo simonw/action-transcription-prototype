@@ -1,3 +1,3 @@
-# transcribe-videos
+# action-transcription-prototype
 
-Open an issue with a YouTube URL, get back a transcript of that video
+This was the prototype for [action-transcription](https://github.com/simonw/action-transcription).
