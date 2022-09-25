@@ -80,6 +80,21 @@ jobs:
               repo: context.repo.repo,
               body: comment,
             });
+            // Generate a comment with the result from .vtt files
+            const globber = await glob.create('**/*.vtt');
+            const vttFiles = await globber.glob();
+            if (vttFiles.length) {
+              // Pass it through webvtt-to-json
+              const captions = JSON.parse(
+                child_process.spawnSync('webvtt-to-json', vttFiles[0], '--dedupe'
+              ).output);
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: '```\n' + captions.map(caption => caption.lines.join('\n')).join('\n') + '\n```',
+              });
+            }
             // Close the issue
             github.rest.issues.update({
               issue_number: context.issue.number,
