@@ -144,9 +144,11 @@ jobs:
               encoding: 'utf-8',
             }).stdout);
             // Run it through whisper
-            child_process.spawnSync('python', [
+            console.log(child_process.spawnSync('python', [
               'transcribe_audio.py', `${number}/whisper/audio.mp3`, `${number}/whisper/transcription.json`
-            ]);
+            ], {
+              encoding: 'utf-8',
+            }).stderr);
             // Now delete the audio file so we don't check it into the repo
             fs.unlinkSync(`${number}/whisper/audio.mp3`);
             // Load JSON from transcription.json
