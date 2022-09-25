@@ -135,12 +135,11 @@ jobs:
             child_process.spawnSync('mkdir', ['-p', `${number}/whisper`]);
             // Use yt-dlp to extract the audio
             console.log(child_process.spawnSync('yt-dlp', [
-              '-x', url, '--audio-format', 'mp3', '--output', 'audio.%(ext)s'
+              '-x', url, '--audio-format', 'mp3', '--output', `${number}/whisper/audio.%(ext)s`
             ], {
-              cwd: `${number}/whisper`,
               encoding: 'utf-8',
             }).stdout);
-            console.log(child_process.spawnSync('find', ['.'], {
+            console.log(child_process.spawnSync('find', [number], {
               encoding: 'utf-8',
             }).stdout);
             // Run it through whisper
