@@ -117,6 +117,8 @@ jobs:
         name: Run it through whisper
         # Only run this step if the issue is labeled with "whisper"
         if: contains(github.event.issue.labels.*.name, 'whisper')
+        env:
+          REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
         with:
           script: |
             const child_process = require('child_process');
