@@ -13,6 +13,7 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements.txt
       - run: sudo apt-get -y install ffmpeg
+        if: contains(github.event.issue.labels.*.name, 'whisper')
       - uses: actions/github-script@v6
         name: Extract captions
         # Only run this step if the issue is labeled with "captions"
