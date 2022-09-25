@@ -81,7 +81,7 @@ jobs:
               body: comment,
             });
             // Generate a comment with the result from .vtt files
-            const globber = await glob.create('**/*.vtt');
+            const globber = await glob.create(`${number}/**/*.vtt');
             const vttFiles = await globber.glob();
             if (vttFiles.length) {
               // Pass it through webvtt-to-json
