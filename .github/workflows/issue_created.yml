@@ -18,7 +18,7 @@ jobs:
         name: Save metadata
         with:
           script: |
-            # yt-dlp 'https://www.youtube.com/watch?v=...' --skip-download --write-info-json
+            // yt-dlp 'https://www.youtube.com/watch?v=...' --skip-download --write-info-json
             const child_process = require('child_process');
             const fs = require('fs');
             const body = context.payload.issue.body;
