@@ -5,6 +5,7 @@ on:
 jobs:
   issue_created:
     runs-on: ubuntu-latest
+    if: contains('["OWNER", "COLLABORATOR", "MEMBER"]', github.event.issue.author_association)
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
